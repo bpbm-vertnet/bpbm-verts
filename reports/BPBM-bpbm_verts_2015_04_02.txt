@@ -1,0 +1,269 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 1756
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Japan ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 6
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 23
+	Country: United States ; Times: 86
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 3
+	Date: 2015-03-03 ; Times: 7
+	Date: 2015-03-04 ; Times: 2
+	Date: 2015-03-05 ; Times: 7
+	Date: 2015-03-06 ; Times: 23
+	Date: 2015-03-07 ; Times: 1
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-10 ; Times: 8
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 7
+	Date: 2015-03-13 ; Times: 13
+	Date: 2015-03-14 ; Times: 3
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-17 ; Times: 3
+	Date: 2015-03-18 ; Times: 2
+	Date: 2015-03-19 ; Times: 16
+	Date: 2015-03-20 ; Times: 6
+	Date: 2015-03-21 ; Times: 7
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-24 ; Times: 5
+	Date: 2015-03-25 ; Times: 3
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "colubridae new ireland new guinea" ; Times: 1
+	Query: "BPBM 14094" ; Times: 2
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "new ireland reptilia" ; Times: 3
+	Query: "BPBM 13713" ; Times: 1
+	Query: "stethojulis country:"Marshall Islands"" ; Times: 2
+	Query: "specificepithet:hussoni genus:Hydromys" ; Times: 1
+	Query: "specificepithet:richardsoni genus:Microhydromys" ; Times: 1
+	Query: "scorpaenopsis diabolus country:"Marshall Islands"" ; Times: 1
+	Query: "Leptocoma sperata" ; Times: 1
+	Query: "Pervagor country:"Marshall Islands"" ; Times: 1
+	Query: "specificepithet:aroaensis genus:Mallomys" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "dendrelaphis calligastra new ireland" ; Times: 1
+	Query: "Brachytarsophrys" ; Times: 5
+	Query: "dendrelaphis punctulatus" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 2
+	Query: "Ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "stegonotus cucullatus" ; Times: 1
+	Query: "reptilia umboi" ; Times: 4
+	Query: "Philautus Malaysia type:specimen" ; Times: 1
+	Query: "Nactus vankampeni" ; Times: 1
+	Query: "canthigaster country:"Marshall Islands"" ; Times: 2
+	Query: "BPBM 13804" ; Times: 1
+	Query: "Sphenomorphus darlingtoni" ; Times: 1
+	Query: "coris aygula" ; Times: 2
+	Query: "mynah" ; Times: 1
+	Query: "pythonidae new britain new guinea" ; Times: 1
+	Query: "Gonocephalus doriae" ; Times: 1
+	Query: "Stigmatura" ; Times: 1
+	Query: "streaked shearwater" ; Times: 1
+	Query: "Cyrtodactylus fumosus" ; Times: 1
+	Query: "pseudanthias country:"Marshall Islands"" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "kotschyi" ; Times: 1
+	Query: "marmorata genus:Clemmys" ; Times: 1
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "Reptilia New Ireland" ; Times: 3
+	Query: "10-7-1853" ; Times: 1
+	Query: "Stegonotus parvus" ; Times: 1
+	Query: "pervagor janthinosoma" ; Times: 1
+	Query: "Palea steindachneri BPBM" ; Times: 1
+	Query: "cyrtodactylus loriae" ; Times: 1
+	Query: "institutioncode:bpbm" ; Times: 2
+	Query: "specificepithet:guajana genus:Pitta" ; Times: 3
+	Query: "hypsilurus modestus" ; Times: 1
+	Query: "specificepithet:ernstmayri genus:Leptomys" ; Times: 1
+	Query: "thalassoma trilobatum country:"Marshall Islands"" ; Times: 1
+	Query: "oligolepis reptilia" ; Times: 2
+	Query: "Sphenomorphus loriae" ; Times: 2
+	Query: "saudi arabia" ; Times: 2
+	Query: "BPBM Chamaeleo calyptratus" ; Times: 1
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "BPBM 31552" ; Times: 2
+	Query: "acanthurus achilles" ; Times: 1
+	Query: "reptilia manus island" ; Times: 1
+	Query: "nyctimystes fluviatilis" ; Times: 7
+	Query: "pangolin" ; Times: 2
+	Query: "desert pocket mouse" ; Times: 1
+	Query: "ambassis urotaenia" ; Times: 4
+	Query: "Hypsilurus auritus" ; Times: 2
+	Query: "platymantis papuensis" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 3
+	Query: "pinniped" ; Times: 1
+	Query: "sphenomorphus schultzei" ; Times: 1
+	Query: "Aplonis metallica year >= 1980 year <= 2015" ; Times: 1
+	Query: "Apodora" ; Times: 1
+	Query: "Sphenomorphus nigrolineatus" ; Times: 1
+	Query: "actinopterygii vorax" ; Times: 1
+	Query: "minous" ; Times: 2
+	Query: "aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "plectroglyphidodon country:"Marshall Islands"" ; Times: 1
+	Query: "reptilia manus" ; Times: 1
+	Query: "Aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "micropsitta finschii" ; Times: 1
+	Query: "stegonotus diehli" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 3
+	Query: "specificepithet:niloticus genus:Varanus hastypestatus:1" ; Times: 1
+	Query: ""francolinus francolinus" year >= 1990 year <= 2015" ; Times: 1
+	Query: "BPBM 21130" ; Times: 1
+	Query: "colubridae manus island new guinea" ; Times: 1
+	Query: "Dascyllus country:"Marshall Islands"" ; Times: 2
+	Query: "emoia physicae" ; Times: 2
+	Query: "acanthurus olivaceus country:"Marshall Islands"" ; Times: 1
+	Query: "acanthurus achilles country:"Marshall Islands"" ; Times: 1
+	Query: "stegonotus modestus" ; Times: 1
+	Query: "ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "epinephelus marginatus" ; Times: 1
+	Query: "BPBM 28100" ; Times: 1
+	Query: "Te Vega" ; Times: 1
+	Query: "Leptobrachella" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 298 download events in this period)
+Total number of records downloaded: 8184 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7311
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Japan ; Times: 6
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 35
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-04 ; Times: 3
+	Date: 2015-03-05 ; Times: 2
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 2
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 5
+	Date: 2015-03-17 ; Times: 3
+	Date: 2015-03-18 ; Times: 2
+	Date: 2015-03-19 ; Times: 3
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-21 ; Times: 5
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 2
+	Date: 2015-03-24 ; Times: 3
+	Date: 2015-03-25 ; Times: 2
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "specificepithet:cruentata genus:Myzomela" ; Times: 1
+	Query: "genus:Megophrys" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "chiroptera south Africa" ; Times: 1
+	Query: "Stachyris ruficeps" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "serpentes mappable:1" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "sceloporus poinsetti" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "Colima mammals" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Brachytarsophrys" ; Times: 3
+	Query: "Leptobrachium" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "tuna year >= 1950 year <= 1970 mappable:1" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "laysan albatross" ; Times: 2
+	Query: "necturus maculosus" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "ascaphus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "acrochordus" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "country:"Indonesia" class:Reptilia mappable:1" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "candoia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 267
+Total number of records retrieved from searches: 3555
+Number of download events that retrieved data from the resource: 180
+Total number of records downloaded: 44491
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 371
+Total number of records retrieved from searches: 5276
+Number of download events that retrieved data from the resource: 180
+Total number of records downloaded: 44491
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
