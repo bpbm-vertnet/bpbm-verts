@@ -1,0 +1,307 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 183
+Number of records retrieved in searches: 1066
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 13
+	Country: France ; Times: 1
+	Country: United States ; Times: 97
+	Country: Germany ; Times: 19
+	Country: United Kingdom ; Times: 4
+	Country: Denmark ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 33
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 6
+	Date: 2015-12-08 ; Times: 3
+	Date: 2015-12-03 ; Times: 8
+	Date: 2015-12-02 ; Times: 5
+	Date: 2015-12-01 ; Times: 11
+	Date: 2015-12-07 ; Times: 10
+	Date: 2015-12-06 ; Times: 3
+	Date: 2015-12-05 ; Times: 14
+	Date: 2015-12-04 ; Times: 12
+	Date: 2015-12-21 ; Times: 3
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-23 ; Times: 4
+	Date: 2015-12-22 ; Times: 11
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-24 ; Times: 5
+	Date: 2015-12-27 ; Times: 12
+	Date: 2015-12-26 ; Times: 14
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-31 ; Times: 9
+	Date: 2015-12-14 ; Times: 10
+	Date: 2015-12-15 ; Times: 4
+	Date: 2015-12-16 ; Times: 4
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-10 ; Times: 5
+	Date: 2015-12-11 ; Times: 10
+	Date: 2015-12-12 ; Times: 9
+	Date: 2015-12-18 ; Times: 2
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "BC" ; Times: 1
+	Query: "type:specimen genus:Agapornis order:Psittaciformes (personatus)" ; Times: 1
+	Query: "Hoplodactylus" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (cyanocephala)" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "12522" ; Times: 2
+	Query: "chamaeleo jacksonii" ; Times: 2
+	Query: "platax boersii" ; Times: 1
+	Query: "sargocentron shimizui usnm" ; Times: 1
+	Query: "155633" ; Times: 1
+	Query: "Parotia lawesii type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "SPHENISCUS HUMBOLDTI" ; Times: 1
+	Query: "recordedby:tuna" ; Times: 1
+	Query: "Gonyosoma" ; Times: 2
+	Query: "parahydromys" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 2
+	Query: "mystacina robusta" ; Times: 3
+	Query: "trimma fishelsoni" ; Times: 1
+	Query: "BPBM 185517" ; Times: 1
+	Query: "trimma sheppardi bpbm" ; Times: 1
+	Query: "Loriculus philippensis" ; Times: 3
+	Query: "macrorhyncha" ; Times: 1
+	Query: "specificepithet:mayri family:Rallidae preparations:skin" ; Times: 1
+	Query: "Lophura bulweri preparations:skin" ; Times: 1
+	Query: "catalognumber:161288" ; Times: 1
+	Query: "index" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "vampire" ; Times: 4
+	Query: "Parotia helenae preparations:skin" ; Times: 1
+	Query: "fisi institutioncode:BPBM" ; Times: 1
+	Query: "Micropsitta bruijnii" ; Times: 1
+	Query: "specificepithet:viridis family:Cuculidae" ; Times: 1
+	Query: "Astrapia stephaniae preparations:skin" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "Pteridophora alberti preparations:skin" ; Times: 1
+	Query: "155921" ; Times: 1
+	Query: "1537 french polynesia" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "family:sciuridae class:mammalia year &gt;= 1961 year &lt;= 1961 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "ptilorrhoa" ; Times: 1
+	Query: "gonyophis" ; Times: 1
+	Query: "Carpococcyx" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "Melampitta gigantea preparations:skin" ; Times: 1
+	Query: "red kite" ; Times: 4
+	Query: "manis pentadactyla" ; Times: 3
+	Query: "Tribolonotus novaeguineae" ; Times: 1
+	Query: "Syma torotoro" ; Times: 1
+	Query: "rana kreffti" ; Times: 1
+	Query: "trimma saudi arabia" ; Times: 1
+	Query: "Cicinnurus regius preparations:skin" ; Times: 1
+	Query: "notiomystis" ; Times: 1
+	Query: "Astrapia rothschildi preparations:skin" ; Times: 1
+	Query: "coracina bicinia" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "Pycnonotus cyaniventris" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 2
+	Query: "chrysopelea ornata" ; Times: 12
+	Query: "Paradisaea raggiana preparations:skin" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 3
+	Query: "specificepithet:saturatus family:Cuculidae preparations:skin" ; Times: 1
+	Query: "chrysopelea" ; Times: 2
+	Query: "sargocentron spiniferum" ; Times: 6
+	Query: "catalognumber:1017" ; Times: 4
+	Query: "Manis pentadactyla" ; Times: 2
+	Query: "melampitta gigantea" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 1
+	Query: "coturnix skel" ; Times: 1
+	Query: "Williams 1955" ; Times: 3
+	Query: "genus:Polypedates specificepithet:otilophus" ; Times: 1
+	Query: "Crypsirina temia" ; Times: 3
+	Query: "Gehyra vorax" ; Times: 2
+	Query: "priolepis galum" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Draco fimbriatus" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "trimma filamentosum" ; Times: 5
+	Query: "Brachytarsophrys type:specimen" ; Times: 1
+	Query: "Paradisaea minor preparations:skin" ; Times: 1
+	Query: "Draco maximus" ; Times: 1
+	Query: "Gizo" ; Times: 1
+	Query: "platysmurus leucopterus" ; Times: 3
+	Query: "Parotia carolae preparations:skin" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "pomarea" ; Times: 1
+	Query: "unicorn" ; Times: 12
+	Query: "Pterodroma longirostris" ; Times: 3
+	Query: "caprimulgus macrurus" ; Times: 1
+	Query: "solanum" ; Times: 1
+	Query: "Emoia trossula" ; Times: 7
+	Query: "trimma sheppardi" ; Times: 1
+	Query: "platysmurus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (modesta)" ; Times: 1
+	Query: "Monarcha cinerascens" ; Times: 1
+	Query: "Erpornis" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 1
+	Query: "Urocissa caerulea" ; Times: 4
+	Query: "Parotia lawesii preparations:skin" ; Times: 1
+	Query: "francolinus pondicerianus" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (krameri)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 118 (out of 889 download events in this period)
+Total number of records downloaded: 2352
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: United States ; Times: 109
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 3
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 9
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-04 ; Times: 5
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-23 ; Times: 12
+	Date: 2015-12-17 ; Times: 7
+	Date: 2015-12-25 ; Times: 16
+	Date: 2015-12-24 ; Times: 14
+	Date: 2015-12-27 ; Times: 4
+	Date: 2015-12-26 ; Times: 7
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-31 ; Times: 3
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 11
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "specificepithet:douglasii genus:Tamiasciurus" ; Times: 2
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus" ; Times: 1
+	Query: "chamaeleo jacksonii" ; Times: 2
+	Query: "specificepithet:pallidus genus:Antrozous" ; Times: 1
+	Query: "specificepithet:nitratoides genus:Dipodomys" ; Times: 1
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "Cordylus polyzonus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "Tribolonotus pseudoponceleti" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:latimanus genus:Scapanus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "specificepithet:lepida genus:Neotoma" ; Times: 2
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys" ; Times: 2
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:californicus genus:Peromyscus" ; Times: 1
+	Query: "Oligosoma" ; Times: 1
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "specificepithet:fallax genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis" ; Times: 2
+	Query: "Cuba" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:Sorex" ; Times: 2
+	Query: "Lepomis" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Rana aurora" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Microdipodops" ; Times: 2
+	Query: "Tiliqua gigas" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "european starling" ; Times: 2
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "Lygisaurus novaeguineae" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus" ; Times: 1
+	Query: "monarcha year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma" ; Times: 2
+	Query: "Hemiergis decresiensis" ; Times: 1
+	Query: "Tribolonotus novaeguineae" ; Times: 1
+	Query: "specificepithet:panamintinus genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Lialis jicari" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 3
+	Query: "specificepithet:californicus genus:Macrotus" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "specificepithet:raviventris genus:Reithrodontomys" ; Times: 1
+	Query: "Tribolonotus ponceleti" ; Times: 1
+	Query: "common raccoon" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex" ; Times: 1
+	Query: "specificepithet:monticola genus:Thomomys" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "specificepithet:beldingi genus:Spermophilus" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "specificepithet:perotis genus:Eumops" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "specificepithet:eremicus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:oregoni genus:Microtus" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+
+
+End of report.
