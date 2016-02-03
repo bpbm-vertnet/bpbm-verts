@@ -1,0 +1,483 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 432
+Number of records retrieved in searches: 4234
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: Costa Rica ; Times: 6
+	Country: France ; Times: 1
+	Country: Australia ; Times: 74
+	Country: Papua New Guinea ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: Hong Kong ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 248
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 49
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 11
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Sri Lanka ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 19
+	Date: 2015-09-22 ; Times: 9
+	Date: 2015-09-10 ; Times: 15
+	Date: 2015-09-11 ; Times: 16
+	Date: 2015-09-12 ; Times: 14
+	Date: 2015-09-13 ; Times: 3
+	Date: 2015-09-14 ; Times: 45
+	Date: 2015-09-15 ; Times: 4
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-17 ; Times: 19
+	Date: 2015-09-18 ; Times: 11
+	Date: 2015-09-29 ; Times: 11
+	Date: 2015-09-30 ; Times: 7
+	Date: 2015-09-02 ; Times: 16
+	Date: 2015-09-19 ; Times: 10
+	Date: 2015-09-07 ; Times: 5
+	Date: 2015-09-06 ; Times: 18
+	Date: 2015-09-05 ; Times: 22
+	Date: 2015-09-04 ; Times: 12
+	Date: 2015-09-03 ; Times: 15
+	Date: 2015-09-28 ; Times: 6
+	Date: 2015-09-01 ; Times: 40
+	Date: 2015-09-25 ; Times: 19
+	Date: 2015-09-24 ; Times: 14
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 6
+	Date: 2015-09-21 ; Times: 6
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 23
+	Date: 2015-09-08 ; Times: 42
+
+List of queries that retrieved data from the resource: 
+	Query: "pericrocotus flammeus" ; Times: 2
+	Query: "Binturong" ; Times: 1
+	Query: "Oceanodroma castro skel*" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "phylloscopus occipitalis" ; Times: 5
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "Python reticulatus" ; Times: 2
+	Query: "Sibynophis" ; Times: 1
+	Query: "emoia physicina" ; Times: 1
+	Query: "sphenomorphus aruensis" ; Times: 1
+	Query: "Night snake" ; Times: 1
+	Query: "megalaima corvina skin" ; Times: 1
+	Query: "callogobius red sea" ; Times: 1
+	Query: "Morelia viridis" ; Times: 9
+	Query: "Pterodroma externa skel*" ; Times: 1
+	Query: "Syma" ; Times: 1
+	Query: "Edward taylor" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 3
+	Query: "fane cyrtodactylus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 6
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "boiga trigonata" ; Times: 4
+	Query: "Water monitor" ; Times: 1
+	Query: "BPBM 37271" ; Times: 1
+	Query: "gracula religiosa" ; Times: 2
+	Query: "Dermoptera" ; Times: 5
+	Query: "Mountain Plover specimens" ; Times: 1
+	Query: "sagittarius" ; Times: 1
+	Query: "Sistrurus catenatus Ohio" ; Times: 2
+	Query: "pycnonotus jocosus" ; Times: 2
+	Query: "Adelbert" ; Times: 2
+	Query: "ramphotyphlops braminus new guinea" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 1
+	Query: "Litoria auae" ; Times: 3
+	Query: "parapriacanthus ransonneti" ; Times: 2
+	Query: "Caretta (skel OR skeleton)" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "type:specimen genus:Notiomystis" ; Times: 1
+	Query: "reptilia catalognumber:21327" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 1
+	Query: "country:&#34;kiribati&#34; class:reptilia" ; Times: 5
+	Query: "country:&#34;kiribati&#34; class:amphibia" ; Times: 1
+	Query: "Rhinomyias umbratilis" ; Times: 4
+	Query: "braminus guinea" ; Times: 1
+	Query: "Bulweria bulwerii skel*" ; Times: 1
+	Query: "meiglyptes tukki" ; Times: 1
+	Query: "country:&#34;palau&#34; class:amphibia" ; Times: 1
+	Query: "Pempheris Red Sea" ; Times: 2
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "sphenomorphus forbesi" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "lonchura malacca" ; Times: 2
+	Query: "17255" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "colluricincla tenebrosa" ; Times: 1
+	Query: "Red-vented Bulbul" ; Times: 2
+	Query: "Uperoleia New Guinea" ; Times: 2
+	Query: "catalognumber:17229 institutioncode:BPBM" ; Times: 2
+	Query: "Branta sandvicensis skel*" ; Times: 1
+	Query: "country:&#34;vanuatu&#34; class:amphibia" ; Times: 1
+	Query: "Coryogalops" ; Times: 2
+	Query: "Fregata minor skel*" ; Times: 1
+	Query: "(Varanus indicus AND Guam OR Mariana OR Palau)" ; Times: 1
+	Query: "country:&#34;pitcairn&#34; class:reptilia" ; Times: 1
+	Query: "litoria auae" ; Times: 2
+	Query: "country:&#34;cook islands&#34; class:reptilia" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 1
+	Query: "xenorhina" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Corvus hawaiiensis skel*" ; Times: 1
+	Query: "mummy" ; Times: 10
+	Query: "Puffinus auricularis *skel" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "cosmocampus banneri" ; Times: 2
+	Query: "lialis jicari" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "Callogobius Red Sea" ; Times: 1
+	Query: "megalaima henricii skin borneo" ; Times: 1
+	Query: "crypsirina temia" ; Times: 31
+	Query: "prasinohaema semoni" ; Times: 1
+	Query: "sphenomorphus undulatus" ; Times: 3
+	Query: "litoria amboinensis" ; Times: 5
+	Query: "urocissa caerulea" ; Times: 6
+	Query: "21878" ; Times: 2
+	Query: "hemiphyllodactylus guinea" ; Times: 1
+	Query: "blue pitta" ; Times: 1
+	Query: "Micropsitta (skel OR skeleton)" ; Times: 1
+	Query: "Paragobiodon modestus bpbm" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "cyrtodactylus fumosus" ; Times: 2
+	Query: "parapriacanthus red sea" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "pelodiscus sinensis" ; Times: 3
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "catalognumber:154681" ; Times: 1
+	Query: "bpbm 37304" ; Times: 1
+	Query: "BPBM 17231" ; Times: 2
+	Query: "Paragobiodon xanthosoma bpbm" ; Times: 1
+	Query: "Falco peregrinus skel*" ; Times: 1
+	Query: "sphenophryne cornuta" ; Times: 1
+	Query: "ichthyophaga ichthyaetus" ; Times: 2
+	Query: "hypsilurus modestus" ; Times: 6
+	Query: "Solenostomus bpbm" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "semoni scincidae" ; Times: 3
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "Paragobiodon bpbm" ; Times: 1
+	Query: "Chamaeleo jacksonii" ; Times: 1
+	Query: "Pterodroma leucoptera skel*" ; Times: 1
+	Query: "sphenomorphus meyeri" ; Times: 1
+	Query: "Ruti" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Prasinohaema semoni" ; Times: 1
+	Query: "hawaii* petrel" ; Times: 1
+	Query: "catalognumber:155809" ; Times: 1
+	Query: "Puffinus tenuirostris skel*" ; Times: 1
+	Query: "Mabuya macularia" ; Times: 3
+	Query: "Pterodroma phaeopygia skel*" ; Times: 1
+	Query: "Monishia" ; Times: 2
+	Query: "Corucia" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "bryx" ; Times: 2
+	Query: "eryx johni" ; Times: 5
+	Query: "country:&#34;french polynesia&#34; class:reptilia" ; Times: 1
+	Query: "Buteo solitarius skel*" ; Times: 1
+	Query: "lorius (skel OR skeleton)" ; Times: 1
+	Query: "Chasiempis sandwichensis skel*" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "cuora trifasciata" ; Times: 2
+	Query: "aspidomorphus institutioncode:BPBM" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "149922" ; Times: 1
+	Query: "emoia tropidolepis" ; Times: 2
+	Query: "Rittmeyer" ; Times: 1
+	Query: "diplomys" ; Times: 1
+	Query: "parapriacanthus guentheri" ; Times: 3
+	Query: "dendrobates leucomelas" ; Times: 2
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "A. H. Wood" ; Times: 2
+	Query: "Cyornis rufigastra" ; Times: 1
+	Query: "Pterodroma longirostris skel*" ; Times: 1
+	Query: "Solenostomus" ; Times: 3
+	Query: "Pycnonotus atriceps" ; Times: 3
+	Query: "class:Reptilia catalognumber:5861" ; Times: 1
+	Query: "mammal jordan" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "Puffinus pacificus skel*" ; Times: 1
+	Query: "turtles" ; Times: 1
+	Query: "reptilia catalognumber:30513" ; Times: 1
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "osteopilus septentrionalis" ; Times: 2
+	Query: "reptilia catalognumber:30516" ; Times: 1
+	Query: "Pterodroma rostrata skel*" ; Times: 1
+	Query: "parvula" ; Times: 1
+	Query: "Ardea herodias skel*" ; Times: 1
+	Query: "bryx analicarens" ; Times: 1
+	Query: "Eumops perotis" ; Times: 3
+	Query: "Cuora (skel OR skeleton)" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "baxteri" ; Times: 1
+	Query: "Feia nympha" ; Times: 2
+	Query: "geckos" ; Times: 2
+	Query: "Pterodroma ultima skel*" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "catalognumber:15841 institutioncode:BPBM" ; Times: 2
+	Query: "pavo muticus" ; Times: 1
+	Query: "chelodina (skel OR skeleton)" ; Times: 1
+	Query: "Puffinus bulleri skel*" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Pterodroma nigripennis skel*" ; Times: 1
+	Query: "Feia" ; Times: 1
+	Query: "Pipa pipa" ; Times: 1
+	Query: "Carettochelys (skel OR skeleton)" ; Times: 2
+	Query: "Butastur indicus" ; Times: 1
+	Query: "litoria timida" ; Times: 4
+	Query: "country:&#34;niue&#34; class:reptilia" ; Times: 1
+	Query: "mantophryne" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 10
+	Query: "hexanchus griseus" ; Times: 2
+	Query: "Rhinomyias" ; Times: 1
+	Query: "country:&#34;american samoa&#34; class:reptilia" ; Times: 1
+	Query: "Phaethon lepturus skel*" ; Times: 1
+	Query: "asterophrys turpicola" ; Times: 1
+	Query: "sandwichensis skel*" ; Times: 2
+	Query: "aeluroscalabotes" ; Times: 2
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "Oceanodroma leucorhoa skel*" ; Times: 1
+	Query: "BPBM 37212" ; Times: 2
+	Query: "BPBM 37213" ; Times: 1
+	Query: "pterodroma jugabilis skel*" ; Times: 1
+	Query: "BPBM 37215" ; Times: 1
+	Query: "Stercorarius pomarinus skel*" ; Times: 1
+	Query: "Japanese White-eye" ; Times: 5
+	Query: "catalognumber:39152 institutioncode:BPBM" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 5
+	Query: "Sula leucogaster skel*" ; Times: 1
+	Query: "pygmy shrew" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Puffinus nativitatis skel*" ; Times: 1
+	Query: "uperoleia new guinea" ; Times: 1
+	Query: "litoria pygmaea" ; Times: 5
+	Query: "Dermochelys (skel OR skeleton)" ; Times: 2
+	Query: "christobal" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 2
+	Query: "platysmurus leucopterus" ; Times: 9
+	Query: "Makira Anura" ; Times: 1
+	Query: "Oceanodroma tristrami skel*" ; Times: 1
+	Query: "melampitta" ; Times: 1
+	Query: "minous monodactylus" ; Times: 1
+	Query: "Snowy Owl specimens" ; Times: 1
+	Query: "catalognumber:17228 institutioncode:BPBM" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "fane" ; Times: 1
+	Query: "Fulica alai skel*" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "xenobatrachus" ; Times: 1
+	Query: "syngnathoides biaculeatus" ; Times: 1
+	Query: "catalognumber:161963" ; Times: 1
+	Query: "Fulmarus glacialis skel*" ; Times: 2
+	Query: "catalognumber:22213 institutioncode:BPBM" ; Times: 1
+	Query: "archaeology" ; Times: 1
+	Query: "Pterodroma hypoleuca skel*" ; Times: 1
+	Query: "fumosus class:reptilia" ; Times: 4
+	Query: "Callogobius dori" ; Times: 2
+	Query: "megalaima henricii skin" ; Times: 1
+	Query: "Pluvialis fulva skel*" ; Times: 1
+	Query: "python bivittatus" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 160 (out of 1045 download events in this period)
+Total number of records downloaded: 176984
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 95
+	Country: Australia ; Times: 23
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Thailand ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 7
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-10 ; Times: 16
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-15 ; Times: 6
+	Date: 2015-09-16 ; Times: 18
+	Date: 2015-09-17 ; Times: 6
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 11
+	Date: 2015-09-30 ; Times: 10
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-19 ; Times: 8
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 4
+	Date: 2015-09-05 ; Times: 7
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 13
+	Date: 2015-09-02 ; Times: 12
+	Date: 2015-09-01 ; Times: 9
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-08 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Sorex palustris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "dendrobates auratus" ; Times: 1
+	Query: "aspidomorphus institutioncode:BPBM" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "specificepithet:muelleri genus:lerista" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "litoria eucnemis" ; Times: 1
+	Query: "country:&#34;kiribati&#34; class:amphibia" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "country:&#34;kiribati&#34; class:reptilia" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "stahl" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "country:&#34;marshall islands&#34; class:reptilia" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "country:&#34;pitcairn&#34; class:reptilia" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "marmoratus genus:cyrtodactylus class:reptilia" ; Times: 1
+	Query: "python bivittatus" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "Prasinohaema" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "country:&#34;micronesia&#34; class:reptilia" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "enicurus ruficapillus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "pYTHON RETICULATUS" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Prasinohaema semoni" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "country:&#34;vanuatu&#34; class:reptilia" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "Irian" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "dermoptera" ; Times: 2
+	Query: "litoria thesaurensis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "country:&#34;fiji&#34; class:reptilia" ; Times: 1
+	Query: "callosciurus erythraeus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Rana pipiens" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "fumosus class:reptilia" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "country:&#34;guam&#34; class:reptilia" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "country:&#34;guam&#34; class:amphibia" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Paradisaeidae year &lt;= 2015 mappable:1" ; Times: 2
+	Query: "Dermoptera" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "ascaphus" ; Times: 2
+	Query: "Manis gigantea" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "mantophryne" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "PNG" ; Times: 2
+
+
+End of report.
