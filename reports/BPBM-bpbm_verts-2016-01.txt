@@ -1,0 +1,293 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 2402
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 103
+	Country: Australia ; Times: 16
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 11
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 12
+	Country: Thailand ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 10
+	Country: Russia ; Times: 53
+	Country: Denmark ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 40
+	Date: 2016-01-05 ; Times: 11
+	Date: 2016-01-20 ; Times: 8
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-25 ; Times: 8
+	Date: 2016-01-28 ; Times: 6
+	Date: 2016-01-29 ; Times: 4
+	Date: 2016-01-08 ; Times: 14
+	Date: 2016-01-09 ; Times: 3
+	Date: 2016-01-22 ; Times: 8
+	Date: 2016-01-23 ; Times: 6
+	Date: 2016-01-06 ; Times: 12
+	Date: 2016-01-19 ; Times: 14
+	Date: 2016-01-07 ; Times: 6
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 16
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-10 ; Times: 17
+	Date: 2016-01-17 ; Times: 5
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-31 ; Times: 4
+	Date: 2016-01-30 ; Times: 5
+	Date: 2016-01-24 ; Times: 4
+	Date: 2016-01-03 ; Times: 7
+	Date: 2016-01-18 ; Times: 6
+	Date: 2016-01-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cheilinus fasciatus red sea" ; Times: 2
+	Query: "Tadorna ferruginea" ; Times: 3
+	Query: "Lasiurus cinereus year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "Loricariidae United States" ; Times: 2
+	Query: "42565" ; Times: 1
+	Query: "genus:Catharus hastypestatus:1" ; Times: 22
+	Query: "nyctixalus" ; Times: 1
+	Query: "mulloidichthys bpbm 20135" ; Times: 1
+	Query: "myoictis melas" ; Times: 1
+	Query: "gorsachius" ; Times: 1
+	Query: "bpbm 1748" ; Times: 1
+	Query: "wetmorella bpbm 7988" ; Times: 1
+	Query: "jacksonii" ; Times: 2
+	Query: "parapriacanthus bpbm oman" ; Times: 1
+	Query: "&#34;naja kaouthia&#34;" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "genus:Apomys family:Muridae" ; Times: 2
+	Query: "mulloidichthys bpbm 4086" ; Times: 1
+	Query: "BPBM 37862" ; Times: 1
+	Query: "wilson hawaii" ; Times: 1
+	Query: "mulloidichthys bpbm 15299" ; Times: 1
+	Query: "mulloidichthys bpbm 1750" ; Times: 1
+	Query: "bpbm 41241" ; Times: 2
+	Query: "microperoryctes aplini" ; Times: 5
+	Query: "Psittacula roseata" ; Times: 3
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Microcavia" ; Times: 1
+	Query: "Platylophus" ; Times: 1
+	Query: "sundamys" ; Times: 1
+	Query: "rhipidura brachyrhyncha" ; Times: 2
+	Query: "actenoides" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "mulloidichthys bpbm 27868" ; Times: 1
+	Query: "syma megarhyncha" ; Times: 4
+	Query: "33490" ; Times: 1
+	Query: "Copiula oxyrhina" ; Times: 1
+	Query: "genus:Orthriophis family:colubridae" ; Times: 1
+	Query: "Synodus capricornis" ; Times: 1
+	Query: "wetmorella bpbm 33589" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Choerophryne proboscidea" ; Times: 2
+	Query: "Ptilorrhoa leucosticta" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "Cinclosoma ajax" ; Times: 2
+	Query: "vampire" ; Times: 10
+	Query: "gekko philippine" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "wetmorella tanakai" ; Times: 1
+	Query: "wetmorella bpbm 32453" ; Times: 1
+	Query: "minous" ; Times: 1
+	Query: "laos gekko gecko" ; Times: 1
+	Query: "los angeles museum of natural history" ; Times: 1
+	Query: "mephitis mephitis los angeles" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "Catharus hastypestatus:1" ; Times: 1
+	Query: "BPBM Tozen" ; Times: 2
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "Genyophryne thomsoni BPBM" ; Times: 1
+	Query: "herp" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "cercamia eremia" ; Times: 2
+	Query: "type:specimen order:psittaciformes (ambigua)" ; Times: 1
+	Query: "blue penguin" ; Times: 3
+	Query: "genus:Polypedates specificepithet:otilophus" ; Times: 1
+	Query: "specimen records" ; Times: 1
+	Query: "Brachypteryx montana type:specimen" ; Times: 1
+	Query: "tropidonophis amnh" ; Times: 1
+	Query: "George L Smith State Park" ; Times: 1
+	Query: "cheilinus bpbm 132" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 2
+	Query: "mulloidichthys flavolineatus maldives" ; Times: 2
+	Query: "bothrochilus boa" ; Times: 3
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "Aeluroscalabotes felinus" ; Times: 1
+	Query: "cetacea AND complete skel" ; Times: 1
+	Query: "mulloidichthys bpbm 28726" ; Times: 1
+	Query: "mulloidichthys bpbm 25674" ; Times: 1
+	Query: "laos AND (gecko)" ; Times: 1
+	Query: "cm 4446" ; Times: 1
+	Query: "Pteropus nitendiensis" ; Times: 3
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 2
+	Query: "21381" ; Times: 1
+	Query: "bpbm 29392" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "cercamia" ; Times: 2
+	Query: "parapriacanthus bpbm" ; Times: 2
+	Query: "BPBM 38428" ; Times: 1
+	Query: "Yellow-crowned Barbet type:specimen" ; Times: 1
+	Query: "parapriacanthus bpbm 18259" ; Times: 1
+	Query: "wetmorella bpbm 9976" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "bubo sumatranus" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "Oreophryne brachypus" ; Times: 2
+	Query: "apapane" ; Times: 2
+	Query: "Yellow-crowned Barbet" ; Times: 1
+	Query: "macaw" ; Times: 1
+	Query: "myoictis wavicus" ; Times: 2
+	Query: "Anolis carolinensis Hawaii" ; Times: 1
+	Query: "mulloidichthys bpbm 25457" ; Times: 1
+	Query: "stegonotus" ; Times: 2
+	Query: "mulloidichthys bpbm 25517" ; Times: 1
+	Query: "crenidens red sea" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "mulloidichthys bpbm 4090" ; Times: 1
+	Query: "mulloidichthys bpbm 4091" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "cetacea AND skel" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "Thambetochen" ; Times: 3
+	Query: "Nyctimene santa" ; Times: 4
+	Query: "platysmurus leucopterus" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "parapriacanthus dispar" ; Times: 3
+	Query: "Synodus doaki" ; Times: 2
+	Query: "unicorn" ; Times: 8
+	Query: "fishes" ; Times: 8
+	Query: "kingfisher solomon" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "jellyfish" ; Times: 1
+	Query: "Callichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "kingfisher guadalcanal" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 1
+	Query: "mulloidichthys bpbm 7086" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "type:specimen genus:Cacatua order:psittaciformes country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "mulloidichthys bpbm 4088" ; Times: 1
+	Query: "Skel puffinus newelli" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 507 download events in this period)
+Total number of records downloaded: 1540
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 41
+	Country: Australia ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-05 ; Times: 12
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 7
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sagrei" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Callichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "Scarinae" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Struthio type:specimen (alcohol OR fluid OR alcoholic OR ethanol)" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
