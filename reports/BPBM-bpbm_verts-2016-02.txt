@@ -1,0 +1,239 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 218
+Number of records retrieved in searches: 2378
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 107
+	Country: Netherlands ; Times: 6
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 14
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 26
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: Russia ; Times: 40
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 4
+	Date: 2016-02-08 ; Times: 19
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 9
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-13 ; Times: 10
+	Date: 2016-02-10 ; Times: 20
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 10
+	Date: 2016-02-17 ; Times: 11
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 10
+	Date: 2016-02-29 ; Times: 16
+	Date: 2016-02-23 ; Times: 18
+	Date: 2016-02-22 ; Times: 6
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-20 ; Times: 5
+	Date: 2016-02-27 ; Times: 3
+	Date: 2016-02-26 ; Times: 5
+	Date: 2016-02-25 ; Times: 10
+	Date: 2016-02-24 ; Times: 9
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-03 ; Times: 8
+	Date: 2016-02-02 ; Times: 7
+	Date: 2016-02-05 ; Times: 8
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-07 ; Times: 6
+	Date: 2016-02-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Rallina forbesi" ; Times: 1
+	Query: "chrysopelea institutioncode:BPBM" ; Times: 14
+	Query: "melipotes ater" ; Times: 3
+	Query: "Dryocalamus" ; Times: 4
+	Query: "varanus salvator" ; Times: 1
+	Query: "aethia psittacula" ; Times: 1
+	Query: "nyctixalus" ; Times: 2
+	Query: "felis catus type:specimen (United States skull)" ; Times: 1
+	Query: "myzomela malaitae" ; Times: 1
+	Query: "wetmorella tanakai" ; Times: 1
+	Query: "hippo" ; Times: 1
+	Query: "Rallidae (Rallidae AND owstoni)" ; Times: 1
+	Query: "hastypestatus:1" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "puffinus newelli skin institutioncode:BPBM" ; Times: 1
+	Query: "treron pompadora" ; Times: 5
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "viper fish" ; Times: 3
+	Query: "gymnomyza viridis" ; Times: 2
+	Query: "chrysopelea vietnam" ; Times: 7
+	Query: "Anas gibberifrons" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 4
+	Query: "bothrochilus" ; Times: 1
+	Query: "trachemys stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "sieboldii" ; Times: 1
+	Query: "zonata" ; Times: 1
+	Query: "talegalla" ; Times: 1
+	Query: "Xenorhina" ; Times: 1
+	Query: "Istiophoridae" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "wakensis" ; Times: 1
+	Query: "ptilinopus rarotongensis" ; Times: 3
+	Query: "38377" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "puffinus newelli type:specimen institutioncode:BPBM" ; Times: 1
+	Query: "vampire" ; Times: 11
+	Query: "Finescale Triggerfish" ; Times: 1
+	Query: "(Florida)" ; Times: 1
+	Query: "Cophixalus balbus" ; Times: 1
+	Query: "ptilinopus victor" ; Times: 3
+	Query: "cercamia cladara bpbm" ; Times: 2
+	Query: "puffinus newelli type:specimen AND (NOT bone) institutioncode:BPBM" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:nigropalmatus" ; Times: 5
+	Query: "fulica alai" ; Times: 4
+	Query: "Palea stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "typhlops depressiceps" ; Times: 2
+	Query: "polystictus" ; Times: 1
+	Query: "meliphaga vicina" ; Times: 1
+	Query: "melidectes foersteri" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;California&#34; recordedby:seale" ; Times: 1
+	Query: "MA12" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "Green sea turtle" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 2
+	Query: "bpbm sphenomorphus" ; Times: 1
+	Query: "france" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 2
+	Query: "bpbm 17441" ; Times: 1
+	Query: "ducula aurorae" ; Times: 2
+	Query: "Apteryx" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "MA13]" ; Times: 1
+	Query: "Malurus grayi" ; Times: 1
+	Query: "gymnomyza samoensis" ; Times: 2
+	Query: "boeleni" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 3
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "bpbm" ; Times: 1
+	Query: "ptilinopus mercierii" ; Times: 1
+	Query: "cercamia" ; Times: 3
+	Query: "Gallirallus wakensis" ; Times: 1
+	Query: "gbifdatasetid:b929f23d-290f-4e85-8f17-764c55b3b284" ; Times: 1
+	Query: "amandava amandava" ; Times: 1
+	Query: "Pitta type:specimen preparations:Alcoholic" ; Times: 1
+	Query: "philentoma" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "Oreophryne brachypus" ; Times: 1
+	Query: "rhabdamia cypselurus" ; Times: 7
+	Query: "fowleria" ; Times: 1
+	Query: "cercamia eremia bpbm" ; Times: 2
+	Query: "Ahaetulla fasciolata" ; Times: 2
+	Query: "Calliophis gracilis" ; Times: 2
+	Query: "usnm mammalia rodentia" ; Times: 1
+	Query: "rana mucosa" ; Times: 2
+	Query: "Strigops" ; Times: 1
+	Query: "specificepithet:brachyrhyncha genus:Rhipidura" ; Times: 2
+	Query: "lepidopus" ; Times: 1
+	Query: "myzomela eichhorni" ; Times: 3
+	Query: "Pitta brachyura type:specimen" ; Times: 1
+	Query: "chiroptera baculum" ; Times: 19
+	Query: "Kurixalus bisacculus" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "cercamia palau" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "fishes" ; Times: 2
+	Query: "33903" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "class:Aves recordedby:seale" ; Times: 1
+	Query: "Melilestes megarhynchus" ; Times: 2
+	Query: "bpbm 22321" ; Times: 1
+	Query: "Borneo Rodentia" ; Times: 2
+	Query: "P-3992" ; Times: 1
+	Query: "los angeles" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "Chlamydosaurus hastypestatus:1" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 512 download events in this period)
+Total number of records downloaded: 1441
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-04 ; Times: 2
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "lestoros" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Philodryas" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "Borneo Muridae" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
