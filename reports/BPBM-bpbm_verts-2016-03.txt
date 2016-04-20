@@ -1,0 +1,122 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 643
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 27
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Russia ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 6
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 6
+	Date: 2016-03-03 ; Times: 6
+	Date: 2016-03-13 ; Times: 4
+	Date: 2016-03-01 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "rhabdamia cypselurus" ; Times: 3
+	Query: "rhabdamia" ; Times: 3
+	Query: "gymnothorax johnsoni" ; Times: 3
+	Query: "chrysococcyx minutillus" ; Times: 2
+	Query: "11054" ; Times: 2
+	Query: "Wetmorella tanakai" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 2
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "uropterygius polyspilus" ; Times: 2
+	Query: "mummy" ; Times: 4
+	Query: "sphenodon" ; Times: 1
+	Query: "gymnothorax flavimarginatus red sea" ; Times: 1
+	Query: "Gehyra brevipalmata" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "rhabdamia cypselura" ; Times: 1
+	Query: "endangered" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "parachromis" ; Times: 1
+	Query: "Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 2
+	Query: "typhlops inornatus" ; Times: 2
+	Query: "centrophorus tessellatus" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 1
+	Query: "type:specimen specificepithet:astrild genus:estrilda (clutch OR egg OR eggs)" ; Times: 1
+	Query: "gymnothorax punctatus" ; Times: 1
+	Query: "enchelycore bayeri red sea" ; Times: 1
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "type:specimen genus:Cacatua order:Psittaciformes country:&#34;Papua New Guinea&#34; (galerita)" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 2
+	Query: "Porzana palmeri" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "genus:sterna (sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "family:Rhacophoridae country:&#34;Malaysia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 230 download events in this period)
+Total number of records downloaded: 1320
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 44
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-12 ; Times: 3
+	Date: 2016-03-08 ; Times: 7
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "killdeer" ; Times: 1
+	Query: "soriculus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "tissue" ; Times: 35
+	Query: "Indian Cove" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+
+
+End of report.
