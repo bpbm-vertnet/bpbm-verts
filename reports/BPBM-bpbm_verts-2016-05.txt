@@ -1,0 +1,209 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 803
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 93
+	Country: Mexico ; Times: 10
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 1
+	Country: Micronesia ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Malaysia ; Times: 2
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Thailand ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 9
+	Date: 2016-05-16 ; Times: 9
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 4
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 9
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 10
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 4
+	Date: 2016-05-04 ; Times: 6
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 9
+	Date: 2016-05-27 ; Times: 27
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-22 ; Times: 5
+	Date: 2016-05-23 ; Times: 10
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 5
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 2
+	Query: "type:specimen specificepithet:novaeguineae genus:Crocodylus" ; Times: 2
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "Myzomela albigula" ; Times: 6
+	Query: "32603" ; Times: 1
+	Query: "Prinia polychroa" ; Times: 4
+	Query: "unicorn" ; Times: 1
+	Query: "Myzomela nigrita" ; Times: 2
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "genus:clemmys preparations:dry" ; Times: 1
+	Query: "cylindrophiidae" ; Times: 2
+	Query: "Myzomela melanocephala" ; Times: 3
+	Query: "Myzomela eques" ; Times: 4
+	Query: "Kenopia" ; Times: 1
+	Query: "catalognumber:178426" ; Times: 1
+	Query: "Myzomela sclateri" ; Times: 5
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "mummy" ; Times: 6
+	Query: "150944" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "Uroglaux dimorpha" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "Myzomela eichhorni" ; Times: 11
+	Query: "aegotheles insignis" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "calliophis gracilis" ; Times: 3
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "Uromastyx hardwickii" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "mimizuku gurneyi" ; Times: 3
+	Query: "order:Anura (6584)" ; Times: 2
+	Query: "parapriacanthus" ; Times: 4
+	Query: "parapriacanthus dispar" ; Times: 1
+	Query: "yellow bellied warbler" ; Times: 1
+	Query: "hawaiian short-eared owl egg" ; Times: 5
+	Query: "RUSI" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ostorhinchus fasciatus" ; Times: 1
+	Query: "Amblyornis" ; Times: 1
+	Query: "Lygosoma quadrupes" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Myzomela lafargei" ; Times: 6
+	Query: "Eugongylus (Skeleton)" ; Times: 1
+	Query: "Hemidactylus frenatus Chuuk" ; Times: 1
+	Query: "Washington" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "Rata" ; Times: 1
+	Query: "Anguis" ; Times: 1
+	Query: "white breasted waterhen" ; Times: 1
+	Query: "Carnegie" ; Times: 1
+	Query: "Taiwan Partridge" ; Times: 2
+	Query: "fowleri" ; Times: 1
+	Query: "Myzomela adolphinae" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 327 download events in this period)
+Total number of records downloaded: 2810
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-19 ; Times: 6
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 27
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "gasterosteus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Litoria angiana" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Dicamptodon" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Lygosoma quadrupes" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
