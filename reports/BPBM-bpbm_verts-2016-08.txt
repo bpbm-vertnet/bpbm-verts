@@ -1,0 +1,380 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 377
+Number of records retrieved in searches: 3988
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 272
+	Country: Romania ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 25
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 9
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 10
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 28
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 4
+	Date: 2016-08-11 ; Times: 35
+	Date: 2016-08-12 ; Times: 6
+	Date: 2016-08-13 ; Times: 8
+	Date: 2016-08-14 ; Times: 9
+	Date: 2016-08-15 ; Times: 14
+	Date: 2016-08-16 ; Times: 15
+	Date: 2016-08-17 ; Times: 11
+	Date: 2016-08-18 ; Times: 10
+	Date: 2016-08-19 ; Times: 36
+	Date: 2016-08-30 ; Times: 21
+	Date: 2016-08-31 ; Times: 18
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-28 ; Times: 5
+	Date: 2016-08-25 ; Times: 12
+	Date: 2016-08-24 ; Times: 9
+	Date: 2016-08-27 ; Times: 10
+	Date: 2016-08-26 ; Times: 25
+	Date: 2016-08-21 ; Times: 7
+	Date: 2016-08-20 ; Times: 101
+	Date: 2016-08-09 ; Times: 4
+	Date: 2016-08-22 ; Times: 9
+	Date: 2016-08-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudocheilinus hexataenia bpbm indonesia" ; Times: 1
+	Query: "loxioides" ; Times: 1
+	Query: "specificepithet:speciosus genus:Gnathanodon" ; Times: 2
+	Query: "Anolis carolinensis type:specimen (Honolulu) institutioncode:BPBM" ; Times: 2
+	Query: "Myophonus" ; Times: 2
+	Query: "specificepithet:carponotatus genus:Lutjanus" ; Times: 2
+	Query: "phylloscopus occipitalis" ; Times: 4
+	Query: "catalognumber:6692 institutioncode:BPBM" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "Ophisaurus sokolovi" ; Times: 1
+	Query: "specificepithet:cyprinoides genus:Megalops" ; Times: 2
+	Query: "Varanus nebulosus type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa" ; Times: 2
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 2
+	Query: "Hemitragus zoo" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "Emoia physicae" ; Times: 1
+	Query: "bungarus flaviceps" ; Times: 1
+	Query: "AMNH R-1742" ; Times: 2
+	Query: "martes flavigula" ; Times: 2
+	Query: "boiga trigonata" ; Times: 1
+	Query: "Crenidens" ; Times: 3
+	Query: "M-8974" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 2
+	Query: "Ateuchosaurus chinensis" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 3
+	Query: "specificepithet:lalandi genus:Seriola" ; Times: 1
+	Query: "specificepithet:passer genus:Holacanthus" ; Times: 1
+	Query: "type:specimen genus:apteryx" ; Times: 2
+	Query: "varanus nebulosus" ; Times: 3
+	Query: "trachinocephalus bpbm hawaii" ; Times: 2
+	Query: "sargocentron punctatissimum bpbm marshall" ; Times: 1
+	Query: "Anolis carolinensis type:specimen institutioncode:BPBM" ; Times: 4
+	Query: "pitta brachyura" ; Times: 1
+	Query: "wetmorella albofasciata bpbm" ; Times: 1
+	Query: "Platylophus galericulatus" ; Times: 3
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "sargocentron punctatissimum bpbm" ; Times: 1
+	Query: "catalognumber:1 institutioncode:BPBM reptilia" ; Times: 2
+	Query: "specificepithet:sordidus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:musseri genus:Pseudohydromys" ; Times: 2
+	Query: "Litoria pygmaea" ; Times: 1
+	Query: "specificepithet:brevipinna genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:auricularis genus:puffinus family:Procellariidae year &gt;= 1964 year &lt;= 1978" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "nightingale" ; Times: 1
+	Query: "Emoia obscura" ; Times: 1
+	Query: "genus:struthio" ; Times: 1
+	Query: "specificepithet:usta genus:Nicholsina" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 2
+	Query: "fishNet" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 2
+	Query: "Baiyankamys" ; Times: 1
+	Query: "Myzomela cardinalis" ; Times: 3
+	Query: "ecsenius midas" ; Times: 1
+	Query: "specificepithet:pumehanae genus:Pseudohydromys" ; Times: 2
+	Query: "poison dart frog" ; Times: 2
+	Query: "specificepithet:argenteus genus:Eucinostomus" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 3
+	Query: "varanus dumerili type:specimen" ; Times: 1
+	Query: "hibiscus" ; Times: 1
+	Query: "10923" ; Times: 3
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "phodilus badius" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "96656" ; Times: 1
+	Query: "barbary sheep" ; Times: 2
+	Query: "wetmorella tanakai" ; Times: 4
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:anak genus:Uromys" ; Times: 3
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "specificepithet:poecilopleurus genus:Cryptoblepharus locality:island" ; Times: 4
+	Query: "specificepithet:orientalis genus:Sarda" ; Times: 1
+	Query: "specificepithet:latifasciatus genus:Epinephelus" ; Times: 2
+	Query: "crypsirina" ; Times: 3
+	Query: "laticauda schistorhynchus" ; Times: 2
+	Query: "hawaiian short-eared owl egg" ; Times: 12
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "Catharus hastypestatus:1" ; Times: 14
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 7
+	Query: "catalognumber:1 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:cornutus genus:Zanclus" ; Times: 2
+	Query: "specificepithet:galapagensis genus:Carcharhinus" ; Times: 1
+	Query: "arctogalidia trivirgata" ; Times: 1
+	Query: "specificepithet:alalaua genus:Priacanthus" ; Times: 2
+	Query: "specificepithet:polylepis genus:Balistes" ; Times: 1
+	Query: "specificepithet:ferox genus:Odontaspis" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:longimanus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:atrocostata genus:emoia locality:island" ; Times: 2
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "harpactes reinwardtii" ; Times: 8
+	Query: "specificepithet:hystrix genus:Diodon" ; Times: 1
+	Query: "specificepithet:carlae genus:Pseudohydromys" ; Times: 4
+	Query: "tanysiptera galatea" ; Times: 1
+	Query: "CRYPSIRINA" ; Times: 1
+	Query: "columba punicea" ; Times: 2
+	Query: "africa" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:rivoliana genus:Seriola" ; Times: 1
+	Query: "typhlops depressiceps" ; Times: 1
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "specificepithet:flanneryi genus:Pteralopex" ; Times: 4
+	Query: "specificepithet:nigrirostris genus:Johnrandallia" ; Times: 1
+	Query: "phylloscopus borealis indonesia" ; Times: 2
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 2
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:forsteri genus:Albula" ; Times: 1
+	Query: "Prasinohaema prehensicauda" ; Times: 1
+	Query: "specificepithet:oxycephalus genus:Cirrhitichthys" ; Times: 1
+	Query: "trachinocephalus bpbm" ; Times: 3
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "specificepithet:novaeguineae genus:Cryptoblepharus locality:island" ; Times: 1
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 2
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 12
+	Query: "specificepithet:cyanopterus genus:Lutjanus" ; Times: 1
+	Query: "90-128" ; Times: 1
+	Query: "halichoeres scapularis bpbm" ; Times: 3
+	Query: "Gehyra Manus" ; Times: 1
+	Query: "specificepithet:falciformis genus:Carcharhinus" ; Times: 2
+	Query: "Thalassophis" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 1
+	Query: "Anolis carolinensis type:specimen (Honolulu OR Hawaii) institutioncode:BPBM" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:pardalis" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:mayeri genus:Pogonomelomys" ; Times: 3
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "specificepithet:narinari genus:Aetobatus" ; Times: 1
+	Query: "unicorn" ; Times: 6
+	Query: "specificepithet:superciliosus genus:Alopias" ; Times: 1
+	Query: "rusa" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 2
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "specificepithet:acus genus:Tylosurus" ; Times: 1
+	Query: "fishes of new mexico" ; Times: 1
+	Query: "specificepithet:sexfasciatus genus:Caranx" ; Times: 1
+	Query: "Melanocharis longicauda" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "herpestes brachyurus" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "ovis zoo" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "specificepithet:berniceae genus:Pseudohydromys" ; Times: 2
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "macaw" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "Hemitragus" ; Times: 1
+	Query: "Metaphrynella type:specimen order:Anura" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "urocissa" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Hemiramphus" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 4
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:equiselis genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:guttatus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Bathygobius" ; Times: 1
+	Query: "Varanus dumerili" ; Times: 2
+	Query: "egg h.w. bishop" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "E.C. Clarke" ; Times: 1
+	Query: "pseudocheilinus hexataenia bpbm" ; Times: 6
+	Query: "specificepithet:cookei genus:Echinorhinus" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "pseudanthias" ; Times: 1
+	Query: "Mentawai" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 2
+	Query: "hippocampus persian gulf" ; Times: 2
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "Dasia olivacea" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "specificepithet:poecilopleurus genus:cryptoblepharus locality:island" ; Times: 1
+	Query: "bpbm rhabdamia" ; Times: 1
+	Query: "specificepithet:grandisquamis genus:Pseudupeneus" ; Times: 2
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 1
+	Query: "Casuarius type:specimen country:&#34;papua new guinea&#34; hastypestatus:1" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "21820" ; Times: 1
+	Query: "specificepithet:vulpes genus:Albula" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 1
+	Query: "grampus griseus skull" ; Times: 1
+	Query: "specificepithet:curema genus:Mugil" ; Times: 1
+	Query: "genus:goura" ; Times: 1
+	Query: "specificepithet:secunda genus:Uraspis" ; Times: 1
+	Query: "Emoia trossula" ; Times: 1
+	Query: "hippocampus jayakari" ; Times: 1
+	Query: "N M LIZARDS" ; Times: 1
+	Query: "specificepithet:solandri genus:Acanthocybium" ; Times: 1
+	Query: "laysan albatross" ; Times: 1
+	Query: "catalognumber:159033 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:auricilla genus:Pristipomoides" ; Times: 2
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "Mergus albellus" ; Times: 2
+	Query: "genus:Corucia" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 1
+	Query: "wetmorella tanakai bpbm" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 924 download events in this period)
+Total number of records downloaded: 1232
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 45
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 9
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 7
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 10
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-25 ; Times: 8
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 4
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "anolis porcatus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Bufo canorus" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "varanus dumerili type:specimen" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "Myophonus" ; Times: 1
+	Query: "trachinocephalus bpbm hawaii" ; Times: 1
+	Query: "Covington Flat" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "valenciennea sexguttata" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Dipodomys nitratoides nitratoides" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Contia" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+
+
+End of report.
