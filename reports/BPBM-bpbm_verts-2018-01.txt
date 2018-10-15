@@ -1,0 +1,1230 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1530
+Number of records retrieved in searches: 14720
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 1301
+	Country: Australia ; Times: 14
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 44
+	Country: Unknown ; Times: 7
+	Country: Singapore ; Times: 5
+	Country: India ; Times: 5
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 87
+	Country: Sweden ; Times: 1
+	Country: Finland ; Times: 9
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 23
+	Country: Switzerland ; Times: 3
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 14
+	Date: 2018-01-18 ; Times: 17
+	Date: 2018-01-31 ; Times: 15
+	Date: 2018-01-30 ; Times: 15
+	Date: 2018-01-11 ; Times: 30
+	Date: 2018-01-10 ; Times: 28
+	Date: 2018-01-13 ; Times: 8
+	Date: 2018-01-12 ; Times: 14
+	Date: 2018-01-15 ; Times: 35
+	Date: 2018-01-14 ; Times: 17
+	Date: 2018-01-17 ; Times: 45
+	Date: 2018-01-16 ; Times: 54
+	Date: 2018-01-24 ; Times: 91
+	Date: 2018-01-25 ; Times: 34
+	Date: 2018-01-08 ; Times: 5
+	Date: 2018-01-09 ; Times: 22
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 30
+	Date: 2018-01-02 ; Times: 61
+	Date: 2018-01-03 ; Times: 714
+	Date: 2018-01-26 ; Times: 51
+	Date: 2018-01-01 ; Times: 8
+	Date: 2018-01-20 ; Times: 7
+	Date: 2018-01-21 ; Times: 71
+	Date: 2018-01-22 ; Times: 23
+	Date: 2018-01-07 ; Times: 5
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-23 ; Times: 112
+	Date: 2018-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chromis agilis mappable:1" ; Times: 1
+	Query: "Chrysiptera talboti" ; Times: 1
+	Query: "Stegastes fasciolatus mappable:1" ; Times: 1
+	Query: "Pomacentrus aquilus mappable:1" ; Times: 1
+	Query: "Premnas biaculeatus" ; Times: 1
+	Query: "Chaetodon sordidus mappable:1" ; Times: 1
+	Query: "Pomacentrus arabicus" ; Times: 1
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "Heliastes hypsilepis" ; Times: 1
+	Query: "Chromis caerulea" ; Times: 1
+	Query: "Stegastes nigricans" ; Times: 2
+	Query: "10299" ; Times: 1
+	Query: "Hemiglyphidodon plagiometopon" ; Times: 1
+	Query: "Amblyglyphidodon leucogaster" ; Times: 1
+	Query: "Heliastes dimidiatus mappable:1" ; Times: 1
+	Query: "Pomacentrus proteus mappable:1" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "boydii" ; Times: 1
+	Query: "Glyphisodon oxyodon" ; Times: 1
+	Query: "Heliastes ovalis" ; Times: 1
+	Query: "Pristotis jerdoni mappable:1" ; Times: 1
+	Query: "Chrysiptera flavipinnis" ; Times: 1
+	Query: "Pomacentrus albifasciatus" ; Times: 1
+	Query: "Neopomacentrus filamentosus" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 3
+	Query: "pareas" ; Times: 2
+	Query: "earlham" ; Times: 1
+	Query: "Chrysiptera galba" ; Times: 1
+	Query: "BPBM Carlia" ; Times: 1
+	Query: "Glyphisodon sparoides" ; Times: 1
+	Query: "Rhinoceros unicornis" ; Times: 3
+	Query: "Glyphisodon aureus mappable:1" ; Times: 1
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Litoria nigropunctata hassex:1" ; Times: 2
+	Query: "Amphiprion xanthurus" ; Times: 1
+	Query: "Neopomacentrus metallicus" ; Times: 1
+	Query: "Heliases reticulatus mappable:1" ; Times: 1
+	Query: "Chromis acares" ; Times: 1
+	Query: "Pomacentrus amboinensis" ; Times: 1
+	Query: "Amphiprion nigripes" ; Times: 1
+	Query: "W. E. English" ; Times: 1
+	Query: "Chromis xanthurus mappable:1" ; Times: 2
+	Query: "stegonotus heterurus" ; Times: 1
+	Query: "Chrysiptera glauca" ; Times: 1
+	Query: "Amphiprion akallopisos" ; Times: 2
+	Query: "Heliastes ovalis mappable:1" ; Times: 1
+	Query: "Chromis weberi" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "genus:amphiesma institutioncode:BPBM hastissue:1" ; Times: 2
+	Query: "Stegastes lividus mappable:1" ; Times: 2
+	Query: "genus:Tropidonophis collectioncode:BPBM hastissue:1" ; Times: 4
+	Query: "Amblyglyphidodon melanopterus" ; Times: 1
+	Query: "Pomacentrus marginatus mappable:1" ; Times: 1
+	Query: "Abudefduf phoenixensis" ; Times: 1
+	Query: "Chromis verater" ; Times: 1
+	Query: "Chromis atrilobata" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Chrysiptera caeruleolineatus" ; Times: 1
+	Query: "Chromis xutha mappable:1" ; Times: 1
+	Query: "Chromis abyssicola" ; Times: 1
+	Query: "Dascyllus albisella" ; Times: 1
+	Query: "Pycnochromis vanderbilti mappable:1" ; Times: 1
+	Query: "Chrysiptera zonatus mappable:1" ; Times: 1
+	Query: "Chromis meridiana" ; Times: 1
+	Query: "Amblyglyphidodon curacao" ; Times: 1
+	Query: "Chromis alta" ; Times: 1
+	Query: "timeliopsis meyeri" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Dascyllus marginatus" ; Times: 2
+	Query: "BPBM hemidactylus garnotii" ; Times: 1
+	Query: "Discodeles guppyi hassex:1" ; Times: 2
+	Query: "Chromis xanthopterygia mappable:1" ; Times: 1
+	Query: "Pomacentrus bankanensis mappable:1" ; Times: 1
+	Query: "Chrysiptera brownriggii" ; Times: 1
+	Query: "pelophryne signata" ; Times: 1
+	Query: "Dascyllus melanurus mappable:1" ; Times: 1
+	Query: "Pomacentrus arenarius" ; Times: 1
+	Query: "Abudefduf aureus" ; Times: 1
+	Query: "Callulops eurydactylus" ; Times: 3
+	Query: "Chromis lineata" ; Times: 1
+	Query: "Amphiprion perideraion" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Amphiprion mccullochi" ; Times: 1
+	Query: "Chromis bicolor" ; Times: 1
+	Query: "Dischistodus perspicillatus" ; Times: 1
+	Query: "Stegastes emeryi" ; Times: 1
+	Query: "BPBM emoia boettgeri" ; Times: 1
+	Query: "Pomacentrus wardi" ; Times: 1
+	Query: "dendrobates auratus stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 1
+	Query: "Glyphisodon dickii mappable:1" ; Times: 1
+	Query: "specificepithet:cinerascens genus:aplonis class:aves" ; Times: 2
+	Query: "Chromis elerae mappable:1" ; Times: 1
+	Query: "specificepithet:hypomelas genus:Tropidonophis collectioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Heliastes chrysurus mappable:1" ; Times: 1
+	Query: "Glyphisodon ternatensis" ; Times: 1
+	Query: "Pomacentrus scolopsis" ; Times: 1
+	Query: "Heliases amboinensis mappable:1" ; Times: 1
+	Query: "Chromis circumaurea" ; Times: 1
+	Query: "Glyphisodon abdominalis" ; Times: 1
+	Query: "Chromis hypsilepis" ; Times: 1
+	Query: "Chromis monochroma mappable:1" ; Times: 1
+	Query: "Chromis fatuhivae" ; Times: 1
+	Query: "Glyphisodon xanthozona" ; Times: 1
+	Query: "Leptobrachium montanum" ; Times: 2
+	Query: "Chromis analis" ; Times: 2
+	Query: "Chaetodon sordidus" ; Times: 1
+	Query: "Chromis atripectoralis mappable:1" ; Times: 1
+	Query: "Glyphisodon vaigiensis" ; Times: 2
+	Query: "Amphiprion latezonatus" ; Times: 1
+	Query: "Philautus petersi" ; Times: 2
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "BPBM anolis" ; Times: 1
+	Query: "laglaize" ; Times: 2
+	Query: "Abudefduf coelestinus" ; Times: 2
+	Query: "Dascyllus reticulatus" ; Times: 2
+	Query: "Pomacentrus moluccensis" ; Times: 2
+	Query: "family:Chamaeleonidae stateprovince:&#34;Hawaii&#34; year &gt;= 1980" ; Times: 6
+	Query: "Chromis dimidiatus margaritifer mappable:1" ; Times: 1
+	Query: "Pomacentrus fasciatus" ; Times: 1
+	Query: "Rana jimiensis hassex:1" ; Times: 2
+	Query: "Pristotis violascens" ; Times: 1
+	Query: "Pomacentrus indicus" ; Times: 1
+	Query: "Abudefduf flavipinnis" ; Times: 1
+	Query: "Pomacentrus philippinus" ; Times: 1
+	Query: "Heliases xanthurus mappable:1" ; Times: 1
+	Query: "Acrocephalus rehsei" ; Times: 3
+	Query: "Plectroglyphidodon dickii mappable:1" ; Times: 1
+	Query: "Chromis opercularis" ; Times: 1
+	Query: "Abudefduf biocellatus mappable:1" ; Times: 3
+	Query: "Glyphisodon antjerius" ; Times: 1
+	Query: "20821" ; Times: 1
+	Query: "Chromis flavipectoralis" ; Times: 1
+	Query: "Glyphisodon biocellatus mappable:1" ; Times: 1
+	Query: "Glyphisodon sindonis" ; Times: 1
+	Query: "Stegastes fasciatus mappable:1" ; Times: 1
+	Query: "Pomacentrus albifasciatus mappable:1" ; Times: 1
+	Query: "Chrysiptera annulata" ; Times: 1
+	Query: "Chromis delta" ; Times: 1
+	Query: "Amphiprion melanopus" ; Times: 2
+	Query: "Chrysiptera biocellatus" ; Times: 1
+	Query: "Heliastes chromis mappable:1" ; Times: 1
+	Query: "Glyphisodon leucopomus" ; Times: 1
+	Query: "Dascyllus marginatus marginatus" ; Times: 1
+	Query: "Barygenys exsul hassex:1" ; Times: 3
+	Query: "Chrysiptera sinclairi" ; Times: 1
+	Query: "Smithsonian" ; Times: 1
+	Query: "Chromis rollandi" ; Times: 1
+	Query: "Hemignathus ellisianus" ; Times: 1
+	Query: "Chromis lineata mappable:1" ; Times: 1
+	Query: "Chromis lineatus mappable:1" ; Times: 2
+	Query: "Philautus petersi hassex:1" ; Times: 2
+	Query: "Acanthochromis polyacanthus mappable:1" ; Times: 1
+	Query: "Chromis ternatensis" ; Times: 1
+	Query: "Abudefduf caeruleolineatus" ; Times: 1
+	Query: "Pomacentrus stigma mappable:1" ; Times: 1
+	Query: "Glyphidodontops tricinctus" ; Times: 1
+	Query: "specificepithet:petersii genus:Amphiesma hastissue:1" ; Times: 3
+	Query: "Liophryne rhododactyla" ; Times: 2
+	Query: "Chromis flavipectoralis mappable:1" ; Times: 1
+	Query: "Glyphisodon plagiometopon mappable:1" ; Times: 1
+	Query: "Glyphisodon nigroris" ; Times: 1
+	Query: "Abudefduf abdominalis mappable:1" ; Times: 1
+	Query: "Cophixalus cheesmanae hassex:1" ; Times: 6
+	Query: "Parma microlepis" ; Times: 1
+	Query: "14014" ; Times: 1
+	Query: "Chromis earina" ; Times: 1
+	Query: "myadestes myadestinus" ; Times: 1
+	Query: "Glyphisodon coelestinus" ; Times: 1
+	Query: "Anthias clarkii mappable:1" ; Times: 1
+	Query: "Abudefduf lacrymatus" ; Times: 1
+	Query: "Neopomacentrus sindensis mappable:1" ; Times: 1
+	Query: "Oreophryne hassex:1" ; Times: 12
+	Query: "Pomacentrus smithi" ; Times: 1
+	Query: "Pomacentrus microspilus" ; Times: 1
+	Query: "Solenostomus" ; Times: 1
+	Query: "Pomacentrus brachialis" ; Times: 1
+	Query: "Chromis fumea" ; Times: 1
+	Query: "Dascyllus marginatus mappable:1" ; Times: 2
+	Query: "Chromis retrofasciatus" ; Times: 1
+	Query: "Chromis weberi mappable:1" ; Times: 1
+	Query: "Chromis notatus notatus" ; Times: 1
+	Query: "Stegastes lividus" ; Times: 2
+	Query: "Chrysiptera rex" ; Times: 1
+	Query: "Abudefduf zonatus" ; Times: 1
+	Query: "Pomacentrus aquilus" ; Times: 1
+	Query: "Rana arfaki hassex:1" ; Times: 2
+	Query: "Chromis alpha mappable:1" ; Times: 1
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "Chromis axillaris mappable:1" ; Times: 1
+	Query: "Amphiprion fuscocaudatus" ; Times: 1
+	Query: "specificepithet:Marinus genus:Bufo stateprovince:&#34;Hawaii&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Amblyglyphidodon flavilatus" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "61419" ; Times: 1
+	Query: "Dascyllus carneus mappable:1" ; Times: 1
+	Query: "dicrurus balicassius" ; Times: 2
+	Query: "Amphiprion bicinctus" ; Times: 2
+	Query: "Pomacentrus labiatus" ; Times: 1
+	Query: "cettia annae" ; Times: 1
+	Query: "Dascyllus auripinnis" ; Times: 1
+	Query: "Chromis nigrurus" ; Times: 1
+	Query: "gallirallus philippensis year &gt; 1990" ; Times: 1
+	Query: "Teixeirichthys jordani" ; Times: 1
+	Query: "Abudefduf biocellatus" ; Times: 3
+	Query: "Chromis albomaculata" ; Times: 1
+	Query: "order:rodentia class:mammalia 52199" ; Times: 1
+	Query: "Chrysiptera bleekeri" ; Times: 1
+	Query: "Heliastes opercularis" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "Aphanius" ; Times: 1
+	Query: "manis pentadactyla mappable:1" ; Times: 1
+	Query: "Chromis viridis" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Heliastes dimidiatus" ; Times: 1
+	Query: "Glyphidodontops unimaculatus" ; Times: 1
+	Query: "Lepidozygus tapeinosoma" ; Times: 1
+	Query: "Pomacentrus brachialis mappable:1" ; Times: 1
+	Query: "Micropechis" ; Times: 3
+	Query: "Paraglyphidodon melas" ; Times: 1
+	Query: "Pomacentrus jerdoni" ; Times: 1
+	Query: "lepidopus" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 3
+	Query: "Chromis degruyi" ; Times: 1
+	Query: "Abudefduf lorenzi" ; Times: 1
+	Query: "bufo marinus specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 1
+	Query: "Amblypomacentrus breviceps" ; Times: 1
+	Query: "Stegastes obreptus" ; Times: 1
+	Query: "Glyphidodon polyacanthus" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 3
+	Query: "Chrysiptera oxycephalus" ; Times: 1
+	Query: "Chrysiptera leucopoma" ; Times: 1
+	Query: "Emoia maculata" ; Times: 1
+	Query: "Chrysiptera traceyi" ; Times: 1
+	Query: "Pomacentrus grammorhynchus" ; Times: 1
+	Query: "Dischistodus prosopotaenia" ; Times: 1
+	Query: "specificepithet:iguana genus:iguana basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Pomacentrus viridis mappable:1" ; Times: 1
+	Query: "Chrysiptera cyanea" ; Times: 1
+	Query: "Chromis nitida" ; Times: 1
+	Query: "Chromis caudalis mappable:1" ; Times: 1
+	Query: "Chaetodon saxatilis" ; Times: 1
+	Query: "Dascyllus reticulatus mappable:1" ; Times: 2
+	Query: "Neopomacentrus sindensis" ; Times: 1
+	Query: "Cheiloprion labiatus" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Dascyllus melanurus" ; Times: 1
+	Query: "Pomacentrus emarginatus" ; Times: 1
+	Query: "Chromis klunzingeri" ; Times: 1
+	Query: "Pomacentrus bankanensis" ; Times: 1
+	Query: "Amblyglyphidodon orbicularis" ; Times: 1
+	Query: "Chrysiptera springeri" ; Times: 1
+	Query: "Chromis degruyi mappable:1" ; Times: 1
+	Query: "Litoria exophthalmia hassex:1" ; Times: 2
+	Query: "Pomacentrus jenkinsi" ; Times: 1
+	Query: "Amblyglyphidodon aureus" ; Times: 1
+	Query: "Pomacentrus caeruleus" ; Times: 1
+	Query: "Plectroglyphidodon dickii" ; Times: 1
+	Query: "Chrysiptera unimaculata mappable:1" ; Times: 1
+	Query: "Abudefduf notatus" ; Times: 1
+	Query: "Neopomacentrus metallicus mappable:1" ; Times: 1
+	Query: "Pomacentrus arabicus mappable:1" ; Times: 1
+	Query: "Pomacentrus cyanomos" ; Times: 1
+	Query: "Gonostoma denudatum mappable:1" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Macropisthodon hastissue:1" ; Times: 1
+	Query: "Pomacentrus moluccensis mappable:1" ; Times: 2
+	Query: "Pomacentrus nigricans" ; Times: 2
+	Query: "Chrysiptera unimaculata" ; Times: 1
+	Query: "Abudefduf septemfasciatus mappable:1" ; Times: 3
+	Query: "Stegastes gascoynei" ; Times: 1
+	Query: "Chrysiptera oxycephala mappable:1" ; Times: 1
+	Query: "Chromis xanthochira mappable:1" ; Times: 1
+	Query: "family:Chamaeleonidae stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Glyphisodon dickii" ; Times: 1
+	Query: "BPBM lampropholis delicata" ; Times: 1
+	Query: "Stegastes fasciatus" ; Times: 1
+	Query: "Glyphisodon leucogaster" ; Times: 1
+	Query: "Pomacentrus beauforti" ; Times: 1
+	Query: "Amblyglyphidodon indicus" ; Times: 1
+	Query: "Heliases xanthochirus mappable:1" ; Times: 1
+	Query: "genus:pomarea" ; Times: 5
+	Query: "Plectroglyphidodon leucozonus" ; Times: 1
+	Query: "Pomacentrus littoralis" ; Times: 1
+	Query: "Pomacentrus melanochir" ; Times: 1
+	Query: "PRI" ; Times: 1
+	Query: "Pomachromis richardsoni" ; Times: 1
+	Query: "Carnegie" ; Times: 1
+	Query: "Notoscopelus caudispinosus mappable:1" ; Times: 1
+	Query: "Dascyllus polyacanthus mappable:1" ; Times: 1
+	Query: "Liophryne schlaginhaufeni hassex:1" ; Times: 8
+	Query: "Pomacentrus lividus mappable:1" ; Times: 3
+	Query: "Pomacentrus fumeus" ; Times: 1
+	Query: "Pomacentrus tripunctatus mappable:1" ; Times: 1
+	Query: "Chromis lepidolepis" ; Times: 1
+	Query: "moho braccatus" ; Times: 16
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Glyphidodontops glaucus" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Paraglyphidodon oxycephalus" ; Times: 1
+	Query: "Chromis lepidolepis mappable:1" ; Times: 1
+	Query: "Glyphisodon unimaculatus" ; Times: 1
+	Query: "Chromis amboinensis" ; Times: 1
+	Query: "emoia schmidti bpbm" ; Times: 1
+	Query: "Neopomacentrus sororius" ; Times: 1
+	Query: "Chromis flavomaculata mappable:1" ; Times: 1
+	Query: "Pomacentrus rhodonotus" ; Times: 1
+	Query: "family:Chamaeleonidae stateprovince:&#34;Hawaii&#34; year &gt;= 1990" ; Times: 7
+	Query: "Pomacentrus bipunctatus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Heliases analis mappable:1" ; Times: 1
+	Query: "genus:eryx hastissue:1" ; Times: 3
+	Query: "Chaetodon pavo" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis collectioncode:BPBM hastissue:1" ; Times: 2
+	Query: "genus:thamnophis institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Pomacentrus burroughi" ; Times: 1
+	Query: "Ayresia punctipinnis" ; Times: 1
+	Query: "Asterophrys turpicola hassex:1" ; Times: 3
+	Query: "Glyphidodon saxatilis" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Chrysiptera leucopoma mappable:1" ; Times: 1
+	Query: "Pomacentrus traceyi" ; Times: 1
+	Query: "Glyphisodon leucopomus mappable:1" ; Times: 1
+	Query: "Chromis amboinensis mappable:1" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Heliases cinerascens" ; Times: 1
+	Query: "Tetradrachmum nitidum" ; Times: 1
+	Query: "Plectroglyphidodon leucozona" ; Times: 1
+	Query: "Chromis brevirostris mappable:1" ; Times: 1
+	Query: "USNM 1 13086" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "Plectroglyphidodon sindonis mappable:1" ; Times: 1
+	Query: "cryptoblepharus poecilopleurus bpbm" ; Times: 1
+	Query: "Plectroglyphidodon johnstonianus" ; Times: 1
+	Query: "Chaetodon curacao" ; Times: 1
+	Query: "Dischistodus melanotus" ; Times: 1
+	Query: "Heliases ternatensis" ; Times: 1
+	Query: "Chromis hanui" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 2
+	Query: "Oxydactyla crassa hassex:1" ; Times: 2
+	Query: "Pelophryne misera hassex:1" ; Times: 2
+	Query: "BPBM emoia jakati" ; Times: 1
+	Query: "36607" ; Times: 3
+	Query: "Pomacentrus pseudochrysopoecilus" ; Times: 1
+	Query: "Neopomacentrus xanthurus" ; Times: 1
+	Query: "Abudefduf albofasciatus" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 5
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 2
+	Query: "Dascyllus strasburgi" ; Times: 1
+	Query: "Abudefduf leucozonus" ; Times: 1
+	Query: "Pomacentrus breviceps" ; Times: 1
+	Query: "BPBM" ; Times: 1
+	Query: "Genyophryne thomsoni" ; Times: 2
+	Query: "Hemiglyphidodon plagiometopon mappable:1" ; Times: 1
+	Query: "Paraglyphidodon polyacanthus" ; Times: 1
+	Query: "BPBM emoia concolor" ; Times: 1
+	Query: "Pomacentrus similis" ; Times: 1
+	Query: "Chromis bami mappable:1" ; Times: 1
+	Query: "Pomacentrus australis" ; Times: 1
+	Query: "Chromis axillaris" ; Times: 1
+	Query: "Liophryne dentata hassex:1" ; Times: 2
+	Query: "Stegastes apicalis" ; Times: 1
+	Query: "109562" ; Times: 1
+	Query: "Chromis scotochilopterus" ; Times: 1
+	Query: "BPBM emoia ponapea" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "Parma polylepis" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "Plectroglyphidodon sagmarius" ; Times: 1
+	Query: "Neopomacentrus azysron" ; Times: 1
+	Query: "Chromis pembae" ; Times: 1
+	Query: "Amphiprion clarkii mappable:1" ; Times: 1
+	Query: "Neopomacentrus nemurus" ; Times: 1
+	Query: "Amphiprion polymnus" ; Times: 1
+	Query: "Glyphidodon sindensis mappable:1" ; Times: 1
+	Query: "Bufo marinus stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 2
+	Query: "Chrysiptera glauca mappable:1" ; Times: 1
+	Query: "Litoria leucova" ; Times: 2
+	Query: "Dischistodus fasciatus" ; Times: 1
+	Query: "Limnonectes magnus hassex:1" ; Times: 8
+	Query: "Limnonectes malesianus hassex:1" ; Times: 2
+	Query: "Chromis lineatus" ; Times: 2
+	Query: "Amphiprion sandaracinos" ; Times: 1
+	Query: "Parachromis managuensis" ; Times: 2
+	Query: "Chrysiptera parasema" ; Times: 2
+	Query: "Pristotis jerdoni" ; Times: 1
+	Query: "Chromis retrofasciatus mappable:1" ; Times: 1
+	Query: "Pomacentrus tapeinosoma" ; Times: 1
+	Query: "Chrysiptera rollandi" ; Times: 1
+	Query: "Abudefduf bengalensis" ; Times: 1
+	Query: "norway rat" ; Times: 1
+	Query: "Pomacentrus caeruleus mappable:1" ; Times: 1
+	Query: "Litoria iris hassex:1" ; Times: 2
+	Query: "Chromis vanderbilti mappable:1" ; Times: 1
+	Query: "Chromis pura mappable:1" ; Times: 1
+	Query: "Chaetodon lividus mappable:1" ; Times: 2
+	Query: "Abudefduf zonatus mappable:1" ; Times: 1
+	Query: "Glyphidodontops rollandi" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "BPBM Carlia caesius" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "Glyphisodon septemfasciatus" ; Times: 1
+	Query: "Pomacentrus pavo mappable:1" ; Times: 1
+	Query: "Chrysiptera oxycephala" ; Times: 1
+	Query: "Chrysiptera starcki" ; Times: 1
+	Query: "Pomacentrus altus" ; Times: 1
+	Query: "Plectroglyphidodon phoenixensis" ; Times: 1
+	Query: "Amblyglyphidodon batunai" ; Times: 1
+	Query: "Glyphisodon zonatus" ; Times: 1
+	Query: "Amphiprion clarkii" ; Times: 1
+	Query: "Lepidodactylus orientalis" ; Times: 1
+	Query: "Pomacentrus apicalis" ; Times: 1
+	Query: "Pycnochromis vanderbilti" ; Times: 1
+	Query: "Barbourula busuangensis hassex:1" ; Times: 9
+	Query: "carlia bomberai BPBM" ; Times: 1
+	Query: "Neoglyphidodon polyacanthus" ; Times: 1
+	Query: "Aphantophryne pansa hassex:1" ; Times: 3
+	Query: "Chrysiptera xanthozona" ; Times: 1
+	Query: "Chrysiptera caeruleolineata" ; Times: 1
+	Query: "Chromis alleni" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "Sphenophryne cornuta hassex:1" ; Times: 2
+	Query: "Pomacentrus imitator" ; Times: 1
+	Query: "Malia" ; Times: 1
+	Query: "24291" ; Times: 1
+	Query: "Pomacentrus stigma" ; Times: 1
+	Query: "Chromis ovalis mappable:1" ; Times: 1
+	Query: "Litoria multiplica hassex:1" ; Times: 2
+	Query: "Lutjanus ephippium" ; Times: 1
+	Query: "Chromis ternatensis mappable:1" ; Times: 1
+	Query: "Abudefduf glaucus" ; Times: 1
+	Query: "Ayresia punctipinnis mappable:1" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "Cyornis caerulatus" ; Times: 1
+	Query: "Chromis margaritifer" ; Times: 1
+	Query: "Chromis pembae mappable:1" ; Times: 1
+	Query: "Pomacentrus xanthosternus" ; Times: 1
+	Query: "Pomacentrus flavicauda" ; Times: 1
+	Query: "Pomacentrus microspilus mappable:1" ; Times: 1
+	Query: "Pomacentrus inornatus" ; Times: 1
+	Query: "Labrus sexfasciatus" ; Times: 1
+	Query: "Chrysiptera cyanea mappable:1" ; Times: 1
+	Query: "genus:Rhabdophis hastissue:1" ; Times: 1
+	Query: "Chromis leucurus" ; Times: 2
+	Query: "specificepithet:parkeri genus:Tropidonophis collectioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Glyphisodon imparipennis" ; Times: 1
+	Query: "Chromis albomaculatus" ; Times: 1
+	Query: "Pomachromis fuscidorsalis" ; Times: 1
+	Query: "Dascyllus trimaculatus" ; Times: 1
+	Query: "Glyphisodon albofasciatus" ; Times: 1
+	Query: "Abudefduf taupou" ; Times: 1
+	Query: "Pomacentrus yoshii mappable:1" ; Times: 1
+	Query: "Plectroglyphidodon flaviventris" ; Times: 1
+	Query: "Pomacentrus obtusirostris mappable:1" ; Times: 1
+	Query: "Pomacentrus azysron mappable:1" ; Times: 1
+	Query: "Pomacentrus jerdoni mappable:1" ; Times: 1
+	Query: "Abudefduf abdominalis" ; Times: 1
+	Query: "Neopomacentrus violascens" ; Times: 1
+	Query: "Neoglyphidodon carlsoni" ; Times: 1
+	Query: "Chromis retrofasciata mappable:1" ; Times: 1
+	Query: "Pomacentrus trimaculatus" ; Times: 2
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 4
+	Query: "micropsitta" ; Times: 1
+	Query: "antennarius coccineus" ; Times: 1
+	Query: "black mamo" ; Times: 5
+	Query: "161314" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Plectroglyphidodon lacrymatus" ; Times: 1
+	Query: "Abudefduf bleekeri" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Chrysiptera melanomaculata" ; Times: 1
+	Query: "carlia fusca bpbm" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 2
+	Query: "Chromis notatus" ; Times: 1
+	Query: "Dysmorodrepanis munroi" ; Times: 1
+	Query: "Anthias clarkii" ; Times: 1
+	Query: "Chrysiptera tricincta" ; Times: 1
+	Query: "Amphiprion chagosensis" ; Times: 1
+	Query: "Abudefduf sexatilis" ; Times: 2
+	Query: "Abudefduf jordani" ; Times: 1
+	Query: "Pristotis cyanostigma" ; Times: 1
+	Query: "Amphiprion leucokranos" ; Times: 1
+	Query: "Chromis fieldi mappable:1" ; Times: 1
+	Query: "genus:macropisthodon institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Xenobatrachus hassex:1" ; Times: 6
+	Query: "hemidactylus new britain" ; Times: 1
+	Query: "Amblyeleotris steinitzi" ; Times: 1
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "Glyphisodon nemurus mappable:1" ; Times: 1
+	Query: "Chromis chrysurus" ; Times: 1
+	Query: "Glyphidodontops springeri" ; Times: 1
+	Query: "BPBM lipinia" ; Times: 2
+	Query: "Glyphisodon orbicularis" ; Times: 2
+	Query: "Glyphisodon orbicularis mappable:1" ; Times: 2
+	Query: "Heliastes chromis" ; Times: 1
+	Query: "Pomacentrus obtusirostris" ; Times: 1
+	Query: "Cophixalus balbus hassex:1" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Chromis agilis" ; Times: 1
+	Query: "Perca polymna" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 4
+	Query: "Chromis dimidiata" ; Times: 2
+	Query: "Chromis chromis" ; Times: 2
+	Query: "Chromis acares mappable:1" ; Times: 1
+	Query: "Pomacentrus adelus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Chromis woodsi mappable:1" ; Times: 1
+	Query: "Chromis circumaurea mappable:1" ; Times: 1
+	Query: "pteralopex flanneryi" ; Times: 1
+	Query: "Nyctimystes kubori hassex:1" ; Times: 8
+	Query: "Heliases amboinensis" ; Times: 1
+	Query: "carlia caesius BPBM" ; Times: 1
+	Query: "Amphiprion barberi mappable:1" ; Times: 1
+	Query: "Litoria nigrofrenata hassex:1" ; Times: 2
+	Query: "Cophixalus sphagnicola hassex:1" ; Times: 2
+	Query: "Pomacentrus proteus" ; Times: 1
+	Query: "Stegastes altus" ; Times: 1
+	Query: "Plectroglyphidodon leucozonus leucozonus" ; Times: 1
+	Query: "Chromis flavaxilla" ; Times: 1
+	Query: "Glyphisodon abdominalis mappable:1" ; Times: 1
+	Query: "Stegastes nigricans mappable:1" ; Times: 2
+	Query: "Chromis monochroma" ; Times: 1
+	Query: "Micryletta inornata" ; Times: 4
+	Query: "Chromis ovatiformis" ; Times: 1
+	Query: "stegonotus guentheri" ; Times: 19
+	Query: "genus:Storeria institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Pomacentrus eclipticus" ; Times: 1
+	Query: "Chromis caeruleus mappable:1" ; Times: 1
+	Query: "Abudefduf starcki" ; Times: 1
+	Query: "Pomacentrus albicaudatus" ; Times: 1
+	Query: "Plectroglyphidodon randalli mappable:1" ; Times: 1
+	Query: "Abudefduf sparoides" ; Times: 1
+	Query: "Neoglyphidodon oxyodon" ; Times: 1
+	Query: "Amblyglyphidodon batunai mappable:1" ; Times: 1
+	Query: "Pomacentrus xanthosternus mappable:1" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "Chromis xanthura mappable:1" ; Times: 1
+	Query: "Neoglyphidodon nigroris" ; Times: 1
+	Query: "&#34;Aptenodytes forsteri&#34; mappable:1" ; Times: 2
+	Query: "Pomacentrus adelus mappable:1" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 2
+	Query: "pinniped" ; Times: 1
+	Query: "alfari muridae" ; Times: 1
+	Query: "Abudefduf parasema" ; Times: 1
+	Query: "Chromis miyakeensis" ; Times: 1
+	Query: "Litoria majikthise" ; Times: 2
+	Query: "Microhyla borneensis hassex:1" ; Times: 2
+	Query: "Pomacentrus sulfureus" ; Times: 1
+	Query: "Neoglyphidodon melas" ; Times: 1
+	Query: "Abudefduf richardsoni" ; Times: 1
+	Query: "micropsitta bruijnii" ; Times: 1
+	Query: "Heliases notatus" ; Times: 1
+	Query: "Mantophryne lateralis hassex:1" ; Times: 6
+	Query: "cryptoblepharus hawaii bpbm" ; Times: 1
+	Query: "genus:Notiomystis" ; Times: 1
+	Query: "Chromis fumeus mappable:1" ; Times: 1
+	Query: "Chromis flavapicis" ; Times: 1
+	Query: "Struthioniformes Rheiformes" ; Times: 1
+	Query: "Chromis abyssus" ; Times: 1
+	Query: "Chrysiptera notialis" ; Times: 1
+	Query: "Carlia caesius BPBM" ; Times: 1
+	Query: "Amphiprion sandaracinos mappable:1" ; Times: 1
+	Query: "Chromis caeruleus" ; Times: 1
+	Query: "Pomacentrus popei" ; Times: 1
+	Query: "Glyphisodon leucozona" ; Times: 1
+	Query: "Pomacentrus taeniometopon" ; Times: 2
+	Query: "Chromis bami" ; Times: 1
+	Query: "Pristotis obtusirostris" ; Times: 1
+	Query: "Pomacentrus fasciolatus mappable:1" ; Times: 1
+	Query: "genus:Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Pomacentrus dorsalis" ; Times: 1
+	Query: "Litoria havina hassex:1" ; Times: 2
+	Query: "Leptobrachium montanum hassex:1" ; Times: 2
+	Query: "Megamouth" ; Times: 1
+	Query: "Murexia melanurus" ; Times: 1
+	Query: "Calotes versicolor Malaysia" ; Times: 1
+	Query: "&#34;Megalurus punctatus&#34;" ; Times: 3
+	Query: "Litoria dorsalis hassex:1" ; Times: 2
+	Query: "specificepithet:berdmorei genus:tropidophorus" ; Times: 5
+	Query: "Pomacentrus colini mappable:1" ; Times: 1
+	Query: "genus:Amphiesma hastissue:1" ; Times: 5
+	Query: "26413" ; Times: 1
+	Query: "emoia bpbm" ; Times: 1
+	Query: "genus:Gehyra stateprovince:&#34;Hawaii&#34;" ; Times: 3
+	Query: "Chromis xanthurus" ; Times: 2
+	Query: "Glyphidodontops biocellatus" ; Times: 1
+	Query: "Chromis vanderbilti" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Callulops slateri hassex:1" ; Times: 3
+	Query: "29233" ; Times: 4
+	Query: "Pomacentrus nigromanus" ; Times: 1
+	Query: "Dischistodus chrysopoecilus" ; Times: 1
+	Query: "Chromis verater mappable:1" ; Times: 1
+	Query: "Pomacentrus fasciolatus" ; Times: 1
+	Query: "Cyrtodactylus salomonensis" ; Times: 1
+	Query: "Chromis isharae" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Rana daemeli hassex:1" ; Times: 2
+	Query: "Litoria genimaculata hassex:1" ; Times: 2
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "dendrelaphis bpbm" ; Times: 1
+	Query: "Pomacentrus trilineatus" ; Times: 1
+	Query: "genus:Rhabdophis institutioncode:BPBM hastissue:1" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "orthotomus atrogularis" ; Times: 1
+	Query: "Glyphisodon zonatus mappable:1" ; Times: 1
+	Query: "Plectroglyphidodon johnstonianus mappable:1" ; Times: 1
+	Query: "Chromis scotochiloptera" ; Times: 1
+	Query: "Amphiprion barberi" ; Times: 1
+	Query: "Abudefduf sp." ; Times: 1
+	Query: "Chromis caudalis" ; Times: 1
+	Query: "Xenorhina oxycephala hassex:1" ; Times: 2
+	Query: "Chromis leucurus mappable:1" ; Times: 2
+	Query: "Abudefduf whitleyi" ; Times: 1
+	Query: "Pseudopomacentrus gascoynei" ; Times: 1
+	Query: "Amblyglyphidodon orbicularis mappable:1" ; Times: 1
+	Query: "Chromis velox" ; Times: 1
+	Query: "Chromis xanthochira" ; Times: 1
+	Query: "Stegastes robertsoni" ; Times: 1
+	Query: "Amphiprion omanensis" ; Times: 1
+	Query: "Chrysiptera hemicyanea" ; Times: 1
+	Query: "Amphiprion ocellaris" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 13
+	Query: "catalognumber:96993" ; Times: 1
+	Query: "Plectroglyphidodon randalli" ; Times: 1
+	Query: "Pomacentrus spilotoceps" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "aplopeltura" ; Times: 1
+	Query: "Glyphidodontops rex" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "Pomacentrus reidi" ; Times: 1
+	Query: "Glyphisodon ater mappable:1" ; Times: 1
+	Query: "Carlia caesius" ; Times: 1
+	Query: "cryptoblepharus novaeguineae bpbm" ; Times: 1
+	Query: "Neopomacentrus azysron mappable:1" ; Times: 1
+	Query: "genus:Tropidonophis hastissue:1" ; Times: 9
+	Query: "Chromis dimidiatus mappable:1" ; Times: 3
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Chrysiptera biocellata" ; Times: 1
+	Query: "Chromis chrysura" ; Times: 1
+	Query: "salomonelaps bpbm" ; Times: 1
+	Query: "BPBM gekko" ; Times: 2
+	Query: "Heliases axillaris" ; Times: 1
+	Query: "Callulops wilhelmanus hassex:1" ; Times: 6
+	Query: "Pomacentrus chrysurus" ; Times: 1
+	Query: "Chromis flavomaculata" ; Times: 1
+	Query: "Microhyla fissipes hassex:1" ; Times: 2
+	Query: "Abudefduf margariteus" ; Times: 1
+	Query: "Under board country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "Lepidodactylus novaeguineae" ; Times: 1
+	Query: "Litoria amboinensis hassex:1" ; Times: 2
+	Query: "Moho apicalis" ; Times: 3
+	Query: "Dascyllus marginatus marginatus mappable:1" ; Times: 1
+	Query: "Chromis fieldi" ; Times: 1
+	Query: "Pomacentrus trichrourus" ; Times: 1
+	Query: "dicrurus remifer" ; Times: 1
+	Query: "Pomacentrus callainus mappable:1" ; Times: 1
+	Query: "Monachus schauinslandi" ; Times: 1
+	Query: "Chromis dasygenys" ; Times: 1
+	Query: "Glyphisodon anabatoides" ; Times: 1
+	Query: "Pomacentrus trichourus" ; Times: 1
+	Query: "Litoria leucova hassex:1" ; Times: 2
+	Query: "Pomacentrus obreptus" ; Times: 1
+	Query: "genus:Limnonectes country:&#34;thailand&#34; recordedby:taylor" ; Times: 1
+	Query: "Heliases analis" ; Times: 1
+	Query: "Megalaima egg" ; Times: 2
+	Query: "Neopomacentrus miryae mappable:1" ; Times: 1
+	Query: "21220" ; Times: 1
+	Query: "Abudefduf caesio" ; Times: 1
+	Query: "Chromis earina mappable:1" ; Times: 1
+	Query: "Nyctimystes foricula hassex:1" ; Times: 2
+	Query: "Nyctimystes humeralis hassex:1" ; Times: 2
+	Query: "Pomacentrus melanopterus" ; Times: 1
+	Query: "Neopomacentrus miryae" ; Times: 1
+	Query: "Amolops larutensis hassex:1" ; Times: 3
+	Query: "hemignathus procerus" ; Times: 1
+	Query: "Gonocephalus Tioman" ; Times: 2
+	Query: "Pomacentrus nigromarginatus" ; Times: 1
+	Query: "Plectroglyphidodon imparipennis" ; Times: 2
+	Query: "Rana sanguinea hassex:1" ; Times: 2
+	Query: "Pseudopomacentrus imitator" ; Times: 1
+	Query: "Glyphisodon septemfasciatus mappable:1" ; Times: 1
+	Query: "Liophryne dentata" ; Times: 2
+	Query: "Chrysiptera sheila" ; Times: 1
+	Query: "Natator depressus" ; Times: 6
+	Query: "lepidodactylus guppyi" ; Times: 2
+	Query: "Dendrocygna autumnalis autumnalis vntype:specimen" ; Times: 1
+	Query: "Pomacentrus philippinus mappable:1" ; Times: 1
+	Query: "Chrysiptera sinclairi mappable:1" ; Times: 1
+	Query: "Lepidodactylus magnus" ; Times: 1
+	Query: "Pomacentrus callainus" ; Times: 1
+	Query: "Chromis dimidiata mappable:1" ; Times: 2
+	Query: "17892" ; Times: 1
+	Query: "Chrysiptera sheila mappable:1" ; Times: 1
+	Query: "Rana chalconota hassex:1" ; Times: 2
+	Query: "Amphiprion perideraion mappable:1" ; Times: 1
+	Query: "Pristotis obtusirostris mappable:1" ; Times: 1
+	Query: "Psarocolius wagleri" ; Times: 1
+	Query: "Genyophryne thomsoni hassex:1" ; Times: 2
+	Query: "Pomacentrus nigromanus mappable:1" ; Times: 1
+	Query: "Stegastes albifasciatus" ; Times: 1
+	Query: "Stegastes limbatus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Chromis chrysura mappable:1" ; Times: 1
+	Query: "gallus gallus vntype:specimen year &lt;= 1930" ; Times: 1
+	Query: "Heliastes chrysurus" ; Times: 1
+	Query: "Abudefduf rex" ; Times: 1
+	Query: "Glyphisodon breviceps" ; Times: 1
+	Query: "Pomacentrus nagasakiensis" ; Times: 1
+	Query: "Neopomacentrus nemurus mappable:1" ; Times: 1
+	Query: "Chromis pura" ; Times: 1
+	Query: "cyrtodactylus peguensis" ; Times: 1
+	Query: "Poecilia mexicana" ; Times: 2
+	Query: "Neopomacentrus anabatoides" ; Times: 1
+	Query: "Abudefduf dasygenys" ; Times: 1
+	Query: "bottlenose dolphin mappable:1" ; Times: 1
+	Query: "Holocentrus nigricans mappable:1" ; Times: 1
+	Query: "Dascyllus flavicaudus" ; Times: 1
+	Query: "Moho braccatus" ; Times: 2
+	Query: "Abudefduf leucozona" ; Times: 1
+	Query: "carlia BPBM" ; Times: 4
+	Query: "Chromis xanthopterygia" ; Times: 1
+	Query: "Chromis abyssicola mappable:1" ; Times: 1
+	Query: "Hypsilurus dilophus" ; Times: 1
+	Query: "Pseudopomacentrus imitator mappable:1" ; Times: 1
+	Query: "Under rock class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 17
+	Query: "Amphiprion rubrocinctus" ; Times: 1
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34; mappable:1" ; Times: 1
+	Query: "Pomacentrus prosopotaenia" ; Times: 1
+	Query: "Chromis dimidiatus margaritifer" ; Times: 1
+	Query: "emoia schmidti" ; Times: 2
+	Query: "necturus" ; Times: 1
+	Query: "ptychozoon kuhli" ; Times: 1
+	Query: "Glyphisodon plagiometopon" ; Times: 1
+	Query: "genus:Apteribis" ; Times: 1
+	Query: "Chromis analis mappable:1" ; Times: 2
+	Query: "Pomacentrus perspicillatus" ; Times: 1
+	Query: "Limnonectes acanthi hassex:1" ; Times: 2
+	Query: "Glyphisodon bankieri" ; Times: 1
+	Query: "Chaetodon bengalensis" ; Times: 1
+	Query: "specificepithet:mcdowelli genus:Tropidonophis collectioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Rana papua mappable:0" ; Times: 1
+	Query: "Pomacentrus alexanderae" ; Times: 2
+	Query: "Neopomacentrus taeniurus" ; Times: 2
+	Query: "Glyphisodon modestus" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Chromis xutha" ; Times: 1
+	Query: "Pomacentrus trimaculatus mappable:1" ; Times: 2
+	Query: "Amphiprion frenatus" ; Times: 1
+	Query: "genus:Tropidonophis country:&#34;indonesia&#34; collectioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Eupomacentrus emeryi" ; Times: 1
+	Query: "Wood pile" ; Times: 29
+	Query: "Pomacentrus arenarius mappable:1" ; Times: 1
+	Query: "Pomacentrus sufflavus" ; Times: 1
+	Query: "Glyphidodontops talboti" ; Times: 1
+	Query: "Emoia cyanogaster" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 2
+	Query: "Choerophryne rostellifer hassex:1" ; Times: 3
+	Query: "Glyphisodon glaucus mappable:1" ; Times: 1
+	Query: "Chromis brevirostris" ; Times: 1
+	Query: "Chromis atripes mappable:1" ; Times: 1
+	Query: "Cophixalus cryptotympanum hassex:1" ; Times: 6
+	Query: "Pomacentrus colini" ; Times: 1
+	Query: "Pomacentrus jordani" ; Times: 1
+	Query: "Xenorhina bouwensi hassex:1" ; Times: 2
+	Query: "Stegastes insularis" ; Times: 1
+	Query: "Pomacentrus vaiuli" ; Times: 1
+	Query: "Neopomacentrus cyanomos" ; Times: 1
+	Query: "Amblyglyphidodon aureus mappable:1" ; Times: 1
+	Query: "genus:Hemiphyllodactylus stateprovince:&#34;Hawaii&#34;" ; Times: 4
+	Query: "Under board country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Abudefduf hemicyaneus" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 4
+	Query: "Pomacentrus bipunctatus mappable:1" ; Times: 1
+	Query: "Carlia BPBM" ; Times: 1
+	Query: "Chromis notata" ; Times: 2
+	Query: "Leiopelma hamiltoni hassex:1" ; Times: 2
+	Query: "Glyphisodon ater" ; Times: 1
+	Query: "Abudefduf cyaneus mappable:1" ; Times: 1
+	Query: "Chrysiptera xanthura xanthura" ; Times: 1
+	Query: "Oreophryne brachypus hassex:1" ; Times: 2
+	Query: "Glyphisodon cyaneus" ; Times: 1
+	Query: "gonocephalus bellii" ; Times: 4
+	Query: "Murexia longicaudata" ; Times: 4
+	Query: "Eupomacentrus nigricans" ; Times: 2
+	Query: "Callulops eurydactylus hassex:1" ; Times: 3
+	Query: "Stegastes aureus" ; Times: 1
+	Query: "Pomacentrus pavo" ; Times: 1
+	Query: "Aix galericulata sex:male hassex:1" ; Times: 1
+	Query: "Glyphidodontops notialis" ; Times: 1
+	Query: "Belone belone mappable:1" ; Times: 2
+	Query: "carlia tutela BPBM" ; Times: 1
+	Query: "Chromis abrupta" ; Times: 1
+	Query: "Glyphisodon limbatus" ; Times: 1
+	Query: "Heliases ternatensis mappable:1" ; Times: 1
+	Query: "Glyphisodon biocellatus" ; Times: 1
+	Query: "Plectroglyphidodon sindonis" ; Times: 1
+	Query: "Pomacentrus nigromarginatus mappable:1" ; Times: 1
+	Query: "Paraglyphidodon thoracotaeniatus" ; Times: 1
+	Query: "Hylophorbus rufescens hassex:1" ; Times: 8
+	Query: "pterodroma hypoleuca hastissue:1" ; Times: 1
+	Query: "Paraglyphidodon carlsoni" ; Times: 1
+	Query: "Chromis alpha" ; Times: 1
+	Query: "Pomacentrus annulatus" ; Times: 1
+	Query: "Pomacentrus fumeus mappable:1" ; Times: 1
+	Query: "Abudefduf melas" ; Times: 1
+	Query: "Chromis struhsakeri" ; Times: 1
+	Query: "Foulehaio carunculatus carunculatus" ; Times: 2
+	Query: "Glyphisodon margariteus" ; Times: 1
+	Query: "Plectroglyphidodon imparipennis mappable:1" ; Times: 2
+	Query: "Abudefduf natalensis" ; Times: 1
+	Query: "Heliases xanthurus" ; Times: 1
+	Query: "Austrochaperina derongo hassex:1" ; Times: 3
+	Query: "Chrysiptera leucopomus mappable:1" ; Times: 1
+	Query: "urosphena whiteheadi" ; Times: 2
+	Query: "Metaphrynella pollicaris hassex:1" ; Times: 6
+	Query: "Pomacentrus albofasciatus" ; Times: 1
+	Query: "emoia ponapea bpbm" ; Times: 1
+	Query: "Pomacentrus coelestis" ; Times: 1
+	Query: "specificepithet:Nitratoides genus:Dipodomys year &gt;= 1940 year &lt;= 1960" ; Times: 1
+	Query: "salomonelaps" ; Times: 1
+	Query: "Chromis woodsi" ; Times: 1
+	Query: "Chromis notata notata" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "sphenodon punctatus" ; Times: 3
+	Query: "Pomacentrus vaiuli mappable:1" ; Times: 1
+	Query: "Paraglyphidodon nigroris" ; Times: 1
+	Query: "Chromis pamae" ; Times: 1
+	Query: "Pomacentrus azuremaculatus mappable:1" ; Times: 1
+	Query: "Litoria kumae hassex:1" ; Times: 2
+	Query: "Neopomacentrus fuliginosus" ; Times: 1
+	Query: "Chromis struhsakeri mappable:1" ; Times: 1
+	Query: "Glyphisodon sindonis mappable:1" ; Times: 1
+	Query: "Siberut" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "Paraglyphidodon oxyodon" ; Times: 1
+	Query: "Pomacentrus baenschi" ; Times: 1
+	Query: "Litoria wollastoni hassex:1" ; Times: 2
+	Query: "Chromis atripes" ; Times: 1
+	Query: "Chromis westaustralis" ; Times: 1
+	Query: "Pomacentrus jordani mappable:1" ; Times: 1
+	Query: "Amphiprion ephippium" ; Times: 2
+	Query: "asthenodipsas laevis" ; Times: 1
+	Query: "munroi" ; Times: 1
+	Query: "Pomacentrus pavo perspicillatus" ; Times: 1
+	Query: "Chromis nigrura" ; Times: 1
+	Query: "Dendrocygna javanica vntype:specimen" ; Times: 1
+	Query: "Chromis trialpha" ; Times: 1
+	Query: "Abudefduf imparipennis" ; Times: 1
+	Query: "Xenorhina bouwensi" ; Times: 2
+	Query: "AMNH 18139" ; Times: 2
+	Query: "Abudefduf rapanui" ; Times: 1
+	Query: "Abudefduf thoracotaeniatus" ; Times: 1
+	Query: "BPBM emoia nigra" ; Times: 1
+	Query: "Glyphidodon notatus" ; Times: 1
+	Query: "Glyphisodon nemurus" ; Times: 1
+	Query: "Chromis leucura" ; Times: 1
+	Query: "Chromis dimidiatus" ; Times: 3
+	Query: "Amblyglyphidodon ternatensis" ; Times: 1
+	Query: "specificepithet:cyanogaster genus:emoia hastissue:1" ; Times: 1
+	Query: "Chromis iomelas" ; Times: 1
+	Query: "Chrysiptera hemicyaneus" ; Times: 1
+	Query: "Dascyllus trimaculatus mappable:1" ; Times: 1
+	Query: "Kuhlia sandvicensis" ; Times: 1
+	Query: "gbifdatasetid:b929f23d-290f-4e85-8f17-764c55b3b284" ; Times: 1
+	Query: "Pomacentrus opisthostigma" ; Times: 1
+	Query: "Glyphisodon unimaculatus mappable:1" ; Times: 1
+	Query: "Chrysiptera biocellatus mappable:1" ; Times: 1
+	Query: "Gliphidodon filamentosus" ; Times: 1
+	Query: "lugubris holotype" ; Times: 1
+	Query: "Pomacentrus chrysopoecilus" ; Times: 1
+	Query: "Amphiprion chrysopterus" ; Times: 1
+	Query: "Chromis xanthura" ; Times: 1
+	Query: "Pomacentrus viridis" ; Times: 1
+	Query: "Glyphidodontops cyaneus" ; Times: 1
+	Query: "Dascyllus carneus" ; Times: 1
+	Query: "vntype:specimen genus:Zosterops hastissue:1" ; Times: 2
+	Query: "Dascyllus polyacanthus" ; Times: 1
+	Query: "scatophagus tetracanthus" ; Times: 1
+	Query: "Moho bishopi" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "Chromis notatus miyakeensis" ; Times: 1
+	Query: "Chromis fumea mappable:1" ; Times: 1
+	Query: "Chromis flavomaculatus" ; Times: 1
+	Query: "Chromis punctipinnis mappable:1" ; Times: 1
+	Query: "genus:Macropisthodon institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Eupomacentrus fasciolatus" ; Times: 1
+	Query: "Pomacentrus imitator mappable:1" ; Times: 1
+	Query: "BPBM Carlia ailanpalai" ; Times: 1
+	Query: "Chaetodon biaculeatus" ; Times: 1
+	Query: "BPBM 20821" ; Times: 1
+	Query: "146799" ; Times: 1
+	Query: "Chrysiptera oxycephalus mappable:1" ; Times: 1
+	Query: "CAS 35018" ; Times: 1
+	Query: "Chromis meridiana mappable:1" ; Times: 1
+	Query: "Chromis mirationis" ; Times: 1
+	Query: "Chaetodon lividus" ; Times: 2
+	Query: "Chromis atripectoralis" ; Times: 1
+	Query: "Pomacentrus biocellatus" ; Times: 1
+	Query: "Chromis delta mappable:1" ; Times: 1
+	Query: "hemixos flavala" ; Times: 2
+	Query: "Dischistodus notophthalmus" ; Times: 1
+	Query: "Chaetodon pavo mappable:1" ; Times: 1
+	Query: "Holocentrus nigricans" ; Times: 1
+	Query: "Limnonectes gyldenstolpei hassex:1" ; Times: 2
+	Query: "Amphiprion allardi" ; Times: 1
+	Query: "Pomacentrus notophthalmus" ; Times: 1
+	Query: "Chrysiptera talboti mappable:1" ; Times: 1
+	Query: "Chromis retrofasciata" ; Times: 1
+	Query: "Nyctimystes cheesmani hassex:1" ; Times: 2
+	Query: "Chrysiptera rapanui" ; Times: 1
+	Query: "antennarius analis" ; Times: 4
+	Query: "Dascyllus edmondsoni" ; Times: 1
+	Query: "genus:aeoliscus continent:Africa" ; Times: 1
+	Query: "Abudefduf conformis" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Chromis viridis mappable:1" ; Times: 1
+	Query: "suid" ; Times: 1
+	Query: "Chromis margaritifer mappable:1" ; Times: 1
+	Query: "Teixeirichthys jordani mappable:1" ; Times: 1
+	Query: "coracina bicinia" ; Times: 2
+	Query: "Chromis ovalis" ; Times: 1
+	Query: "specificepithet:mystacea class:aves" ; Times: 2
+	Query: "Dacelo gaudichaud hastissue:1" ; Times: 1
+	Query: "Glyphisodon lacrymatus" ; Times: 1
+	Query: "bpbm emoia nigra" ; Times: 1
+	Query: "Chromis flavomaculatus mappable:1" ; Times: 1
+	Query: "Pomacentrus marginatus" ; Times: 1
+	Query: "Chromis chrysurus mappable:1" ; Times: 1
+	Query: "Litoria prora" ; Times: 2
+	Query: "Amphiprion akindynos" ; Times: 1
+	Query: "Chromis punctipinnis" ; Times: 1
+	Query: "Equus caballus" ; Times: 3
+	Query: "Abudefduf septemfasciatus" ; Times: 3
+	Query: "Liophryne rhododactyla hassex:1" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:iguana genus:iguana basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Aix galericulata sex:Male hassex:1" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "147190" ; Times: 2
+	Query: "Chrysiptera azurepunctata" ; Times: 1
+	Query: "Chrysiptera biocellata mappable:1" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 9
+	Query: "Chromis cinerascens" ; Times: 1
+	Query: "class:aves (23884)" ; Times: 1
+	Query: "Pomacentrus leptus" ; Times: 1
+	Query: "Paraglyphidodon behni" ; Times: 1
+	Query: "Neoglyphidodon thoracotaeniatus" ; Times: 1
+	Query: "Chromis iomelas mappable:1" ; Times: 1
+	Query: "Ophisaurus sokolovi" ; Times: 1
+	Query: "146800" ; Times: 2
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Pomacentrus tripunctatus" ; Times: 1
+	Query: "Chromis abyssus mappable:1" ; Times: 1
+	Query: "dilophus" ; Times: 7
+	Query: "Litoria majikthise hassex:1" ; Times: 2
+	Query: "Glyphidodontops leucopomus" ; Times: 1
+	Query: "Amphiprion chrysogaster" ; Times: 2
+	Query: "Heliases reticulatus" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "genus:Macropisthodon hastissue:1" ; Times: 3
+	Query: "Chromis fumeus" ; Times: 1
+	Query: "starfish" ; Times: 1
+	Query: "Abudefduf metallicus" ; Times: 1
+	Query: "Dascyllus aruanus mappable:1" ; Times: 1
+	Query: "Glyphidodontops talboti mappable:1" ; Times: 1
+	Query: "Pomacentrus azuremaculatus" ; Times: 1
+	Query: "specificepithet:sanguineum genus:Amphiesma hastissue:1" ; Times: 2
+	Query: "Chrysiptera elizabethae mappable:1" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "Glyphisodon imparipennis mappable:1" ; Times: 1
+	Query: "Dischistodus pseudochrysopoecilus" ; Times: 1
+	Query: "Glyphisodon uniocellatus" ; Times: 1
+	Query: "Glyphisodon glaucus" ; Times: 1
+	Query: "Pomacentrus aureus" ; Times: 1
+	Query: "Chromis limbaughi" ; Times: 1
+	Query: "class:amphibia country:&#34;thailand&#34; recordedby:taylor" ; Times: 1
+	Query: "18139" ; Times: 2
+	Query: "Amphiprion akallopisos mappable:1" ; Times: 2
+	Query: "Chromis elerae" ; Times: 1
+	Query: "Litoria prora hassex:1" ; Times: 2
+	Query: "Glyphidodon sindensis" ; Times: 1
+	Query: "Nyctimystes zweifeli hassex:1" ; Times: 2
+	Query: "Chrysiptera zonatus" ; Times: 1
+	Query: "Glyphisodon cyaneus mappable:1" ; Times: 1
+	Query: "Dascyllus aruanus" ; Times: 1
+	Query: "Glyphisodon leucogaster mappable:1" ; Times: 1
+	Query: "Pomacentrus melanotus" ; Times: 1
+	Query: "Pomacentrus lividus" ; Times: 3
+	Query: "pycnonotus plumosus" ; Times: 1
+	Query: "Stegastes fasciolatus" ; Times: 1
+	Query: "Amphiprion tricinctus" ; Times: 1
+	Query: "didunculus" ; Times: 1
+	Query: "Glyphidodontops galbus" ; Times: 1
+	Query: "Glyphisodon melas" ; Times: 1
+	Query: "Pomacentrus azysron" ; Times: 1
+	Query: "genus:Moho" ; Times: 2
+	Query: "Amblyglyphidodon leucogaster mappable:1" ; Times: 1
+	Query: "Dendrocygna guttata vntype:specimen" ; Times: 1
+	Query: "Pomacentrus albimaculus" ; Times: 1
+	Query: "cheetah" ; Times: 3
+	Query: "specificepithet:rhodomelas genus:Macropisthodon hastissue:1" ; Times: 1
+	Query: "Neopomacentrus bankieri" ; Times: 1
+	Query: "Abudefduf dickii" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "Polypedates megacephalus hassex:1" ; Times: 8
+	Query: "Paraglyphidodon oxycephalus mappable:1" ; Times: 1
+	Query: "Abudefduf sordidus mappable:1" ; Times: 1
+	Query: "Chromis leucura mappable:1" ; Times: 1
+	Query: "specificepithet:montanus genus:Tropidonophis collectioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Chrysiptera elizabethae" ; Times: 1
+	Query: "Chrysiptera taupou" ; Times: 1
+	Query: "Litoria pronimia hassex:1" ; Times: 2
+	Query: "Chaetodon marginatus" ; Times: 1
+	Query: "specificepithet:sarawacense genus:Amphiesma hastissue:1" ; Times: 1
+	Query: "Pomacentrus yoshii" ; Times: 1
+	Query: "Pomacentrus simsiang" ; Times: 1
+	Query: "Abudefduf cyaneus" ; Times: 1
+	Query: "Anas americana" ; Times: 1
+	Query: "Barygenys flavigularis hassex:1" ; Times: 3
+	Query: "Chrysiptera leucopomus" ; Times: 1
+	Query: "Pomacentrus cuneatus" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 2
+	Query: "Glyphisodon aureus" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "Stegastes pelicieri" ; Times: 1
+	Query: "Chromis nigroanalis" ; Times: 1
+	Query: "Pomacentrus lepidogenys" ; Times: 1
+	Query: "42679" ; Times: 1
+	Query: "Stegastes albifasciatus mappable:1" ; Times: 1
+	Query: "Abudefduf metallicus mappable:1" ; Times: 1
+	Query: "Pomacentrus javanicus" ; Times: 1
+	Query: "Heliases xanthochirus" ; Times: 1
+	Query: "Pomacentrus taeniurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 125 (out of 1398 download events in this period)
+Total number of records downloaded: 10207
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 12
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 97
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 3
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-30 ; Times: 8
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-24 ; Times: 7
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-29 ; Times: 23
+	Date: 2018-01-02 ; Times: 13
+	Date: 2018-01-25 ; Times: 14
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-06 ; Times: 5
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 7
+	Date: 2018-01-23 ; Times: 7
+	Date: 2018-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Aneides flavipunctatus flavipunctatus" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 1
+	Query: "genus:Amphiesma hastissue:1" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "class:aves recordedby:*weber*" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "Phylloscopus pulcher vntype:specimen" ; Times: 1
+	Query: "stegonotus guentheri" ; Times: 2
+	Query: "Phylloscopus pulcher" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Ensatina" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 1
+	Query: "Micropechis" ; Times: 2
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "dendrobates auratus stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 1
+	Query: "Malia" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "genus:Rhabdophis hastissue:1" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "bufo marinus specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "sigmodontomys" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Hypsilurus dilophus" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "berylmys" ; Times: 1
+	Query: "genus:Apteribis" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 18
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Nucifraga caryocatactes" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 3
+	Query: "Locustella" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "genus:Tropidonophis collectioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "family:Chamaeleonidae stateprovince:&#34;Hawaii&#34; year &gt;= 1990" ; Times: 1
+	Query: "Tephrodornis" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "bottlenose dolphin mappable:1" ; Times: 1
+	Query: "elanus scriptus" ; Times: 1
+	Query: "pareas" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "order:Dasyuromorphia" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34; mappable:1" ; Times: 3
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:Marinus genus:Bufo stateprovince:&#34;Hawaii&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Siberut" ; Times: 2
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "Bufo marinus stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 2
+
+
+End of report.
