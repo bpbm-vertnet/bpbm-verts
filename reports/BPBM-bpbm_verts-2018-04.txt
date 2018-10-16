@@ -1,0 +1,394 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 335
+Number of records retrieved in searches: 2946
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 21
+	Country: Samoa ; Times: 4
+	Country: Singapore ; Times: 9
+	Country: Unknown ; Times: 29
+	Country: Philippines ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 15
+	Country: Norway ; Times: 1
+	Country: China ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 9
+	Country: Germany ; Times: 5
+	Country: United States ; Times: 204
+	Country: Russia ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 5
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 17
+	Date: 2018-04-22 ; Times: 16
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 24
+	Date: 2018-04-26 ; Times: 11
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 15
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-02 ; Times: 38
+	Date: 2018-04-05 ; Times: 18
+	Date: 2018-04-04 ; Times: 5
+	Date: 2018-04-07 ; Times: 13
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-09 ; Times: 14
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-12 ; Times: 12
+	Date: 2018-04-13 ; Times: 16
+	Date: 2018-04-10 ; Times: 12
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-16 ; Times: 10
+	Date: 2018-04-17 ; Times: 21
+	Date: 2018-04-14 ; Times: 11
+	Date: 2018-04-15 ; Times: 12
+	Date: 2018-04-18 ; Times: 10
+	Date: 2018-04-19 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "Tropidonophis parkeri" ; Times: 1
+	Query: "26781" ; Times: 2
+	Query: "Rhabdophis chrysargos Indonesia" ; Times: 1
+	Query: "Crocodylus novaeguineae" ; Times: 2
+	Query: "Ascaphus (Hawaii)" ; Times: 9
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "Ptilinopus insularis" ; Times: 2
+	Query: "104565" ; Times: 1
+	Query: "105820" ; Times: 1
+	Query: "brown anole" ; Times: 1
+	Query: "Ptyas mucosa" ; Times: 2
+	Query: "Phoxophrys" ; Times: 3
+	Query: "Paramythia montium" ; Times: 1
+	Query: "Lialis burtonis hastissue:1" ; Times: 1
+	Query: "gobius" ; Times: 2
+	Query: "Acrocephalus atyphus" ; Times: 1
+	Query: "Tropidonophis doriae" ; Times: 1
+	Query: "pseudobufo" ; Times: 1
+	Query: "crocodylus west new guinea" ; Times: 1
+	Query: "specificepithet:aenigmaticus genus:Tropidonophis institutioncode:BPBM" ; Times: 1
+	Query: "genus:Japalura hastissue:1" ; Times: 3
+	Query: "hemidactylus flaviviridis" ; Times: 2
+	Query: "A-31936" ; Times: 1
+	Query: "Tropidonophis statisticus" ; Times: 1
+	Query: "Polypedates otilophus" ; Times: 1
+	Query: "Emoia Hawaii" ; Times: 1
+	Query: "genus:Duttaphrynus hastissue:1" ; Times: 1
+	Query: "synodus randalli" ; Times: 3
+	Query: "Alamagon (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "ailuroedus melanotis" ; Times: 2
+	Query: "recordedby:G. S. marshall" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "genus:rhipidura class:aves (vanuatu)" ; Times: 1
+	Query: "varanus dumerili hastissue:1" ; Times: 1
+	Query: "Tropidonophis dahlii" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus country:&#34;New Guinea&#34;" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 4
+	Query: "Tropidonophis picturatus" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "75025" ; Times: 1
+	Query: "Dactylopsila trivirgata mappable:1" ; Times: 5
+	Query: "genus:eryx hastissue:1" ; Times: 2
+	Query: "Ficedula narcissina" ; Times: 1
+	Query: "genus:Leptophryne hastissue:1" ; Times: 1
+	Query: "adenomus" ; Times: 1
+	Query: "family:typhlopidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "cnemaspis" ; Times: 3
+	Query: "burmese python" ; Times: 3
+	Query: "specificepithet:mediolineata genus:Kaloula" ; Times: 1
+	Query: "Gobius" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis country:&#34;New Guinea&#34;" ; Times: 1
+	Query: "genus:Paramythia hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:jarrovi genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "rastrelliger faughni" ; Times: 1
+	Query: "specificepithet:snowi" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Tropidonophis hypomelas" ; Times: 1
+	Query: "genus:Leiocephalus hastissue:1" ; Times: 1
+	Query: "nocturnal" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "101256" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Anthus" ; Times: 2
+	Query: "Apogon campbelli" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "Cordylus hastissue:1" ; Times: 1
+	Query: "Tropidonophis mcdowelli" ; Times: 1
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "dussumieri seychelles" ; Times: 1
+	Query: "isfossil:1" ; Times: 2
+	Query: "specificepithet:albolimbata genus:Rhipidura hastissue:1" ; Times: 1
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "amethistina" ; Times: 10
+	Query: "vntype:specimen order:caprimulgiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "Apogon doryssa" ; Times: 1
+	Query: "genus:Lerista hastissue:1" ; Times: 2
+	Query: "Aguijan" ; Times: 1
+	Query: "specificepithet:brongersmai hastissue:1" ; Times: 1
+	Query: "lygosoma quadrupes" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "13989" ; Times: 2
+	Query: "caffer Acrocephalus" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "rallina tricolor hastissue:1" ; Times: 1
+	Query: "channel islands" ; Times: 1
+	Query: "family:Cisticolidae hastypestatus:1" ; Times: 2
+	Query: "catalognumber:16 institutioncode:BPBM" ; Times: 2
+	Query: "Tuvalu" ; Times: 4
+	Query: "zebrus" ; Times: 1
+	Query: "Polychrotidae hastissue:1 year &gt;=2008" ; Times: 1
+	Query: "Black marlin" ; Times: 3
+	Query: "porzana atra" ; Times: 1
+	Query: "109416" ; Times: 1
+	Query: "Varanus panoptes hastissue:1" ; Times: 1
+	Query: "genus:Alligator sex:male OR female" ; Times: 3
+	Query: "Acrocephalus atyphus atyphus" ; Times: 1
+	Query: "genus: Cylindrophis hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Aegothelidae (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "Sphenomorphus Java" ; Times: 2
+	Query: "Varanus hastissue:1" ; Times: 1
+	Query: "specificepithet:albolimbata genus:Rhipidura" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "Pterocnemia" ; Times: 1
+	Query: "genus:Ansonia hastissue:1" ; Times: 3
+	Query: "genus:Phrynoidis hastissue:1" ; Times: 1
+	Query: "Rhabdophis chrysargos" ; Times: 3
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "cyanoptila" ; Times: 2
+	Query: "Ramphotyphlops hastissue:1 year &gt;= 2008" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolina genus:Terrapene hastissue:1" ; Times: 1
+	Query: "liza carinata" ; Times: 1
+	Query: "varanus hastissue:1" ; Times: 1
+	Query: "porphyrio hastissue:1" ; Times: 2
+	Query: "Tupinambis hastissue:1 year &gt;= 2000" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 4
+	Query: "Gallus gallus Thailand" ; Times: 1
+	Query: "Tropidonophis aenigmaticus" ; Times: 2
+	Query: "micropechis ikaheka" ; Times: 1
+	Query: "Takydromus vntype:specimen hastissue:1" ; Times: 2
+	Query: "genus:Pedostibes hastissue:1" ; Times: 1
+	Query: "crocodylus irian jaya" ; Times: 1
+	Query: "Mariana Island (Mus OR Rattus OR Suncus)" ; Times: 3
+	Query: "Saipan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Tropidonophis dolasii" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "carlae" ; Times: 1
+	Query: "Anser erythropus" ; Times: 1
+	Query: "Mariana Islands (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "genus:Hoplodactylus hastissue:1" ; Times: 1
+	Query: "Acrocephalus caffer" ; Times: 7
+	Query: "35872" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "Maug (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "genus:Cerberus hastissue:1" ; Times: 1
+	Query: "Ramphotyphlops hastissue:1 year &gt;= 2012" ; Times: 3
+	Query: "Typhlops hastissue:1" ; Times: 1
+	Query: "Anolis carolinensis Hawaii" ; Times: 3
+	Query: "genus:Ciridops institutioncode:BPBM" ; Times: 4
+	Query: "genus:Ingerophrynus hastissue:1" ; Times: 2
+	Query: "Casuarius" ; Times: 2
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "tahiti Acrocephalus" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Anthus hastissue:1" ; Times: 2
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 3
+	Query: "catalognumber:98212" ; Times: 2
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "cyrtodactylus peguensis" ; Times: 3
+	Query: "Epinephelus chlorostigma" ; Times: 27
+	Query: "Xiphophorus hellerii" ; Times: 3
+	Query: "scorpaenodes steinitzi" ; Times: 1
+	Query: "Emoia Hawaiian islands BPBM" ; Times: 1
+	Query: "genus:Chamaeleo preparations:skeleton" ; Times: 4
+	Query: "Tropidonophis multiscutellatus" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "genus:cnemaspis hastissue:1" ; Times: 3
+	Query: "genus: Typhlops hastissue:1" ; Times: 2
+	Query: "genus:Pelophryne hastissue:1" ; Times: 1
+	Query: "specificepithet:radiata genus:Pterois" ; Times: 1
+	Query: "ptychozoon kuhli" ; Times: 12
+	Query: "Tropidonophis montanus" ; Times: 1
+	Query: "crocodylus west irian" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "genus:Pareas hastissue:1" ; Times: 1
+	Query: "Emoia Hawaii BPBM" ; Times: 1
+	Query: "Polychrotidae hastissue:1 year &gt;=1990" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis country:&#34;Guinea&#34;" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Pachycephala hastissue:1" ; Times: 1
+	Query: "Varanus hastissue:1 year &gt;= 2005" ; Times: 1
+	Query: "Anolis porcatus Hawaii" ; Times: 1
+	Query: "rastrelliger brachysoma" ; Times: 1
+	Query: "cyanoptila cyanomelana" ; Times: 2
+	Query: "19122" ; Times: 1
+	Query: "coral reefs" ; Times: 1
+	Query: "specificepithet:calyptratus" ; Times: 3
+	Query: "Pareatidae hastissue:1" ; Times: 2
+	Query: "Aguiguan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "genus:Uromastyx hastissue:1 year &gt;=1950" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 1
+	Query: "maroon oriole" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 94 (out of 1359 download events in this period)
+Total number of records downloaded: 6165
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 62
+	Country: Australia ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 5
+	Date: 2018-04-22 ; Times: 6
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 11
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 3
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-10 ; Times: 7
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 8
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1995 year &lt;= 2000" ; Times: 1
+	Query: "genus:clemmys sex:male OR female" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "genus:Sauromalus sex:Male OR Female" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "sceloporus occidentalis hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "vntype:specimen family:corvidae (&#34;Whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "Alamagon (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "vntype:specimen genus:Anolis hastissue:1" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "family:Sylviidae hastypestatus:1" ; Times: 1
+	Query: "genus:Trachemys sex:male OR female" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "vntype:specimen order:caprimulgiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "vntype:specimen order:charadriiformes (&#34;whole specimen&#34; OR fluid OR alc)" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "vntype:specimen order:apodiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "family:Cisticolidae hastypestatus:1" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "genus:Elgaria sex:male OR female" ; Times: 1
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "genus:Alligator sex:male OR female" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "bald eagle washington" ; Times: 1
+	Query: "vntype:specimen family:Aegothelidae (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "Asuncion (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "Pterocnemia" ; Times: 2
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "Mariana Island (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Saipan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "genus:malaclemys sex:male OR female" ; Times: 1
+	Query: "class:Aves country:&#34;Papua New Guinea&#34; hastissue:1" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "Maug (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "genus:gopherus sex:male OR female" ; Times: 1
+	Query: "genus:heloderma sex:male OR female" ; Times: 1
+	Query: "family:Colubridae (stomach)" ; Times: 1
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Aguiguan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+
+
+End of report.
