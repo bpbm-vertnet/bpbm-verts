@@ -1,0 +1,416 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 390
+Number of records retrieved in searches: 4501
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Singapore ; Times: 2
+	Country: Papua New Guinea ; Times: 6
+	Country: Germany ; Times: 7
+	Country: Thailand ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 195
+	Country: Sweden ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 52
+	Country: Russia ; Times: 7
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 59
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 6
+	Country: Malaysia ; Times: 2
+	Country: China ; Times: 6
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-05 ; Times: 9
+	Date: 2018-09-24 ; Times: 36
+	Date: 2018-09-03 ; Times: 10
+	Date: 2018-09-26 ; Times: 8
+	Date: 2018-09-01 ; Times: 27
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-21 ; Times: 14
+	Date: 2018-09-22 ; Times: 29
+	Date: 2018-09-23 ; Times: 37
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-28 ; Times: 8
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 14
+	Date: 2018-09-10 ; Times: 8
+	Date: 2018-09-13 ; Times: 14
+	Date: 2018-09-12 ; Times: 8
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 25
+	Date: 2018-09-17 ; Times: 12
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 13
+	Date: 2018-09-18 ; Times: 14
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-25 ; Times: 38
+	Date: 2018-09-27 ; Times: 15
+	Date: 2018-09-20 ; Times: 26
+	Date: 2018-09-07 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidopus manis" ; Times: 10
+	Query: "band-rumped storm-petrel" ; Times: 1
+	Query: "BPBM 17111" ; Times: 2
+	Query: "vntype:specimen (apapane)" ; Times: 2
+	Query: "BPBM 15469" ; Times: 2
+	Query: "BPBM 22398" ; Times: 2
+	Query: "olive bulbul" ; Times: 1
+	Query: "hemiphyllodactylus thailand" ; Times: 1
+	Query: "BPBM 16070" ; Times: 2
+	Query: "sharks" ; Times: 2
+	Query: "catalognumber:19834 institutioncode:BPBM" ; Times: 4
+	Query: "catalognumber:19832 institutioncode:BPBM" ; Times: 1
+	Query: "coryogalops anomolus" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "Calamaria gimletti" ; Times: 1
+	Query: "kokako" ; Times: 2
+	Query: "brahminy kite" ; Times: 1
+	Query: "rifleman" ; Times: 1
+	Query: "rhacophorus pardalis" ; Times: 1
+	Query: "Megachasma pelagios" ; Times: 6
+	Query: "catalognumber:23060 institutioncode:BPBM" ; Times: 1
+	Query: "hemidactylus frenatus continent:Asia hastissue:1" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "Gloydius" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "Branta hylobadistes" ; Times: 2
+	Query: "cryptoblepharus furvus BPBM" ; Times: 1
+	Query: "specificepithet:superciliaris genus:drymodes" ; Times: 8
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "specificepithet:tahitica genus:hirundo class:aves" ; Times: 1
+	Query: "catalognumber:22012 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:dumontii genus:mino" ; Times: 1
+	Query: "ailuroedus geislerorum" ; Times: 4
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "genus:Calotes hastissue:1" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "sphenomorphus jobiensis indonesia" ; Times: 1
+	Query: "Old woman creek" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 2
+	Query: "lipogenys" ; Times: 1
+	Query: "emoia ponapea bpbm" ; Times: 1
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 2
+	Query: "kogia simus" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "BPBM 16206" ; Times: 1
+	Query: "kaloula pulchra thailand" ; Times: 1
+	Query: "Cryptoblepharus furvus" ; Times: 1
+	Query: "anolis sagrei hastissue:1" ; Times: 3
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "cryptoblepharus yulensis BPBM" ; Times: 1
+	Query: "Megamouth" ; Times: 1
+	Query: "TK 104310" ; Times: 1
+	Query: "Emoia impar BPBM" ; Times: 1
+	Query: "nactus multicarinatus" ; Times: 1
+	Query: "orchids" ; Times: 1
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "mirza" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 2
+	Query: "34893-1" ; Times: 1
+	Query: "pelophryne signata" ; Times: 1
+	Query: "genus:Aphaniotis hastissue:1" ; Times: 2
+	Query: "small-clawed otter" ; Times: 1
+	Query: "catalognumber:19838 institutioncode:BPBM" ; Times: 1
+	Query: "Lepidopus" ; Times: 1
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "specificepithet:anais genus:mino" ; Times: 1
+	Query: "pempheris mangula india" ; Times: 1
+	Query: "monk parakeet" ; Times: 1
+	Query: "tropidophorus" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "BPBM 22843" ; Times: 2
+	Query: "catalognumber:19852 institutioncode:BPBM" ; Times: 2
+	Query: "lepidopus manis" ; Times: 1
+	Query: "BPBM 17098" ; Times: 2
+	Query: "photoblepharon steinitzi" ; Times: 1
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "anniella contra costa" ; Times: 2
+	Query: "specificepithet:cinnamominus genus:todiramphus" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 3
+	Query: "Pavo cristatus" ; Times: 27
+	Query: "philippine eagle" ; Times: 1
+	Query: "BPBM 15482" ; Times: 1
+	Query: "specificepithet:melanotis genus:Ailuroedus hastissue:1" ; Times: 2
+	Query: "BPBM 15492" ; Times: 3
+	Query: "amblyornis macgregoriae" ; Times: 1
+	Query: "BPBM 15488" ; Times: 2
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "Emoia ponapea" ; Times: 1
+	Query: "Calamaria lovii" ; Times: 1
+	Query: "chaetorhynchus" ; Times: 1
+	Query: "Psittirostra" ; Times: 1
+	Query: "nene" ; Times: 1
+	Query: "gbifdatasetid:b929f23d-290f-4e85-8f17-764c55b3b284" ; Times: 1
+	Query: "vntype:specimen (Psittirostra)" ; Times: 1
+	Query: "vntype:specimen (apapane) year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:maculatus genus:dendrocopos" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "nactus new britain" ; Times: 2
+	Query: "white-rumped Shama" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "Channa maculata" ; Times: 1
+	Query: "genus:draco institutioncode:BPBM" ; Times: 4
+	Query: "genus:rhipidura class:aves (samoa)" ; Times: 1
+	Query: "Sambar" ; Times: 1
+	Query: "atlantic puffin" ; Times: 22
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "vntype:specimen (vestiaria kauai) year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "genus:Papuascincus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:szalayi genus:oriolus" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "apapane" ; Times: 4
+	Query: "BPBM 16187" ; Times: 1
+	Query: "birds and reptiles" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "institutioncode:bpbm" ; Times: 1
+	Query: "catalognumber:22020 institutioncode:BPBM" ; Times: 1
+	Query: "catalognumber:22014 institutioncode:BPBM" ; Times: 2
+	Query: "genus:Phoxophrys hastissue:1" ; Times: 2
+	Query: "Falco severus" ; Times: 1
+	Query: "Zosterops japonicus hastissue:1" ; Times: 2
+	Query: "genus:Papuascincus catalognumber:43057 institutioncode:BPBM" ; Times: 1
+	Query: "genus:lobulia country:&#34;indonesia&#34;" ; Times: 1
+	Query: "genus:Pseudonestor class:Aves" ; Times: 3
+	Query: "kogia breviceps" ; Times: 1
+	Query: "Funambulus pennantii" ; Times: 1
+	Query: "catalognumber:25964 institutioncode:BPBM" ; Times: 1
+	Query: "catalognumber:16746 institutioncode:BPBM" ; Times: 1
+	Query: "Semioptera" ; Times: 2
+	Query: "Oligodon hastissue:1" ; Times: 2
+	Query: "Lepidodactylus novaeguineae" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "Old woman creek ohio" ; Times: 1
+	Query: "vntype:specimen institutioncode:BPBM isfossil:1" ; Times: 1
+	Query: "pareatidae" ; Times: 2
+	Query: "specificepithet:poliopterus genus:toxorhamphus hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;Thailand&#34;" ; Times: 1
+	Query: "Psittirostra psittacea vntype:specimen" ; Times: 3
+	Query: "Nyctixalus pictus" ; Times: 2
+	Query: "BPBM 18468" ; Times: 1
+	Query: "genus:Ailuroedus hastissue:1" ; Times: 2
+	Query: "BPBM 15746" ; Times: 2
+	Query: "BPBM 15747" ; Times: 2
+	Query: "catalognumber:16749 institutioncode:BPBM" ; Times: 2
+	Query: "24094" ; Times: 1
+	Query: "genus:Duttaphrynus specificepithet:stomaticus" ; Times: 1
+	Query: "depressiceps" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "cryptoblepharus stateprovince:&#34;Hawaii&#34; hastissue:1" ; Times: 1
+	Query: "Emoia ponapea BPBM" ; Times: 1
+	Query: "catalognumber:16753 institutioncode:BPBM" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "BPBM 15476" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "BPBM 18488" ; Times: 2
+	Query: "BPBM 18489" ; Times: 1
+	Query: "anemone" ; Times: 1
+	Query: "Telespiza" ; Times: 2
+	Query: "vntype:specimen (vestiaria maui) year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "westermanni" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "Salmo" ; Times: 1
+	Query: "specificepithet:alborufus genus:Petaurista" ; Times: 2
+	Query: "catalognumber:16745 institutioncode:BPBM" ; Times: 1
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "BPBM 18477" ; Times: 1
+	Query: "genus:lobulia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "BPBM 18474" ; Times: 1
+	Query: "BPBM 16321" ; Times: 2
+	Query: "Aipysurus" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "specificepithet:lawesii genus:parotia" ; Times: 1
+	Query: "ailuroedus buccoides" ; Times: 1
+	Query: "vntype:specimen (vestiaria) year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "Aplopeltura boa" ; Times: 2
+	Query: "emoia ponapea" ; Times: 2
+	Query: "Nativitatis" ; Times: 1
+	Query: "rhabdophis conspicillatus" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "BPBM 19257" ; Times: 1
+	Query: "BPBM 19251" ; Times: 1
+	Query: "genus:Papuascincus country:&#34;Indonesia&#34; institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 2
+	Query: "catalognumber:23059 institutioncode:BPBM" ; Times: 1
+	Query: "cryptoblepharus furvus" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "BPBM 18491" ; Times: 1
+	Query: "Calloselasma rhodostoma hastissue:1" ; Times: 1
+	Query: "hemidactylus frenatus country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "BPBM 18492" ; Times: 1
+	Query: "BPBM 18495" ; Times: 1
+	Query: "BPBM 18493" ; Times: 1
+	Query: "catalognumber:5991 institutioncode:BPBM" ; Times: 1
+	Query: "Diaphus adenomus" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 2
+	Query: "BPBM 16311" ; Times: 1
+	Query: "catalognumber:19853 institutioncode:BPBM" ; Times: 2
+	Query: "coryogalops" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "forest owlet" ; Times: 1
+	Query: "BPBM 18494" ; Times: 1
+	Query: "catalognumber:22024 institutioncode:BPBM" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "tadpoles vntype:specimen family:Rhacophoridae" ; Times: 1
+	Query: "electra" ; Times: 1
+	Query: "148623" ; Times: 1
+	Query: "BPBM 17125" ; Times: 2
+	Query: "(Lygosoma OR Riopa OR Mochlus) hastissue:1" ; Times: 2
+	Query: "BPBM 15192" ; Times: 2
+	Query: "159797" ; Times: 1
+	Query: "genus:chaetorhynchus hastissue:1" ; Times: 4
+	Query: "sittiparus varius" ; Times: 1
+	Query: "Callosciurus caniceps" ; Times: 2
+	Query: "BPBM 17107" ; Times: 2
+	Query: "catalognumber:19831 institutioncode:BPBM" ; Times: 2
+	Query: "BPBM 18490" ; Times: 1
+	Query: "Hemiphyllodactylus Thailand" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "specificepithet:nigrovittatus genus:Callosciurus" ; Times: 2
+	Query: "R 15654" ; Times: 1
+	Query: "genus:Amblyornis hastissue:1" ; Times: 1
+	Query: "institutioncode:bpbm Andaman" ; Times: 1
+	Query: "Doi Suthep specificepithet:maculatus genus:Draco country:&#34;Thailand&#34;" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "gehyra insulensis" ; Times: 1
+	Query: "specificepithet:mendozae genus:Pomarea" ; Times: 1
+	Query: "Natural History Museum of Los Angeles" ; Times: 1
+	Query: "BPBM 22808" ; Times: 2
+	Query: "catalognumber:16750 institutioncode:BPBM" ; Times: 1
+	Query: "Salomonelaps par" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;Thailand&#34; (Mai)" ; Times: 1
+	Query: "catalognumber:16742 institutioncode:BPBM" ; Times: 2
+	Query: "peponocephala electra" ; Times: 1
+	Query: "bignelli" ; Times: 1
+	Query: "leucaena leucocephala" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 846 download events in this period)
+Total number of records downloaded: 2000
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Singapore ; Times: 2
+	Country: Philippines ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: United States ; Times: 42
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-13 ; Times: 7
+	Date: 2018-09-24 ; Times: 9
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 16
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-27 ; Times: 9
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "Aplopeltura boa" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Zosterops japonicus hastissue:1" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "anolis sagrei country:&#34;cuba&#34;" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "hemidactylus frenatus continent:Asia hastissue:1" ; Times: 1
+	Query: "hemidactylus frenatus country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "specificepithet:mitchelli genus:Crotalus" ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "pareatidae" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "specificepithet:anetianus genus:Pteropus" ; Times: 1
+	Query: "pithecophaga jefferyi" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "tadpoles vntype:specimen family:Rhacophoridae" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "Lestoros inca" ; Times: 1
+	Query: "dark kangaroo mouse" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "cryptoblepharus stateprovince:&#34;Hawaii&#34; hastissue:1" ; Times: 1
+	Query: "small-clawed otter" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Doi Suthep specificepithet:maculatus genus:Draco country:&#34;Thailand&#34;" ; Times: 1
+	Query: "family:Rhinocerotidae continent:North America isfossil:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;Thailand&#34; (Mai)" ; Times: 1
+	Query: "Sambar" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "kogia simus" ; Times: 1
+	Query: "genus:Pteropus country:&#34;Vanuatu&#34;" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
