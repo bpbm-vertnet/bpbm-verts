@@ -1,0 +1,544 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 691
+Number of records retrieved in searches: 7023
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Pakistan ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Solomon Islands ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: Philippines ; Times: 4
+	Country: Finland ; Times: 2
+	Country: India ; Times: 4
+	Country: France ; Times: 6
+	Country: United States ; Times: 597
+	Country: Netherlands ; Times: 2
+	Country: China ; Times: 4
+	Country: United Kingdom ; Times: 18
+	Country: Colombia ; Times: 1
+	Country: Kuwait ; Times: 6
+	Country: Germany ; Times: 5
+	Country: New Zealand ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 12
+	Date: 2018-06-06 ; Times: 12
+	Date: 2018-06-05 ; Times: 16
+	Date: 2018-06-04 ; Times: 9
+	Date: 2018-06-29 ; Times: 13
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 9
+	Date: 2018-06-25 ; Times: 10
+	Date: 2018-06-24 ; Times: 5
+	Date: 2018-06-27 ; Times: 7
+	Date: 2018-06-26 ; Times: 14
+	Date: 2018-06-21 ; Times: 307
+	Date: 2018-06-20 ; Times: 59
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 24
+	Date: 2018-06-09 ; Times: 4
+	Date: 2018-06-22 ; Times: 8
+	Date: 2018-06-11 ; Times: 6
+	Date: 2018-06-12 ; Times: 6
+	Date: 2018-06-13 ; Times: 100
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 6
+	Date: 2018-06-16 ; Times: 9
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 9
+	Date: 2018-06-30 ; Times: 12
+	Date: 2018-06-03 ; Times: 6
+	Date: 2018-06-28 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves catalognumber:158162" ; Times: 2
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "Pachycephala soror" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "107927" ; Times: 1
+	Query: "Naseus brevirostris" ; Times: 2
+	Query: "Acanthurus matoides" ; Times: 4
+	Query: "coryogalops tessellatus" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "ac-294" ; Times: 1
+	Query: "chameleon" ; Times: 1
+	Query: "ac-356" ; Times: 1
+	Query: "Ctenochaetus tominiensis" ; Times: 2
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "99460" ; Times: 2
+	Query: "Harpurus fasciatus mappable:1" ; Times: 1
+	Query: "Naso tuberosus mappable:1" ; Times: 4
+	Query: "catalognumber:34246 institutioncode:BPBM" ; Times: 2
+	Query: "98464" ; Times: 1
+	Query: "Siganus woodlandi" ; Times: 1
+	Query: "Hepatus fuliginosus" ; Times: 1
+	Query: "genus:Zosterops (2003-068)" ; Times: 2
+	Query: "Naso vlamingii" ; Times: 2
+	Query: "vntype:specimen (Thambetochen chauliodous)" ; Times: 1
+	Query: "recordedby:Breese" ; Times: 3
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "Priodon hexacanthus" ; Times: 1
+	Query: "Periophthalmus waltoni" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Porzana palmeri)" ; Times: 2
+	Query: "BPBM 16359" ; Times: 1
+	Query: "institutioncode:BPBM isfossil:1" ; Times: 1
+	Query: "Xenophrys" ; Times: 1
+	Query: "myophonus glaucinus" ; Times: 7
+	Query: "Teuthis achilles" ; Times: 2
+	Query: "genus:Ninox class:Aves country:&#34;Solomon&#34;" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "21294" ; Times: 2
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "Pacific Tree Frog" ; Times: 5
+	Query: "Kaloula mediolineata" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Teuthis leucopareius" ; Times: 2
+	Query: "catalognumber:28244 institutioncode:BPBM" ; Times: 2
+	Query: "plectranthias winniensis bpbm" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "Naseus brevirostris mappable:1" ; Times: 2
+	Query: "catalognumber:39769 institutioncode:BPBM" ; Times: 2
+	Query: "Acanthurus gemmatus" ; Times: 1
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "myadestes myadestinus" ; Times: 3
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "Naso herrei" ; Times: 1
+	Query: "Acanthurus bipunctatus" ; Times: 2
+	Query: "Naso caeruleacauda" ; Times: 2
+	Query: "Aguijan" ; Times: 2
+	Query: "Acanthurus reversus" ; Times: 2
+	Query: "Chaetodon mata" ; Times: 1
+	Query: "Naso lopezi" ; Times: 2
+	Query: "Acanthurus gahm nigricauda" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "spoon-billed sandpiper" ; Times: 1
+	Query: "western squirrel" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "catalognumber:39764 institutioncode:BPBM" ; Times: 2
+	Query: "Python reticulatus" ; Times: 1
+	Query: "bobcat stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Priodon hexacanthus mappable:1" ; Times: 1
+	Query: "country:&#34;Kuwait&#34;" ; Times: 1
+	Query: "Naseus vlamingii" ; Times: 1
+	Query: "Acanthurus maculiceps" ; Times: 3
+	Query: "catalognumber:13027 institutioncode:BPBM" ; Times: 2
+	Query: "catalognumber:155300" ; Times: 1
+	Query: "papuascincus hastissue:1" ; Times: 1
+	Query: "Acanthurus marginatus" ; Times: 2
+	Query: "Teuthis nigrofuscus" ; Times: 1
+	Query: "collectioncode:BPBM" ; Times: 2
+	Query: "Ctenochaetus cyanocheilus" ; Times: 2
+	Query: "Chaetodon unicornis" ; Times: 1
+	Query: "Chaetodon sohal" ; Times: 1
+	Query: "plectranthias winniensis" ; Times: 1
+	Query: "Ctenochaetus tominiensis mappable:1" ; Times: 2
+	Query: "Acanthurus grammoptilus" ; Times: 4
+	Query: "Red Panda" ; Times: 1
+	Query: "Zebrasoma xanthurus" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Ctenodon ctenodon" ; Times: 1
+	Query: "Zebrasoma velifer mappable:1" ; Times: 3
+	Query: "genus:Zosterops family:Zosteropidae class:Aves (W. A.)" ; Times: 1
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "Gallirallus torquatus" ; Times: 1
+	Query: "Acanthurus leucopareius mappable:1" ; Times: 3
+	Query: "Naso unicornis" ; Times: 2
+	Query: "varanus prasinus" ; Times: 2
+	Query: "Naso reticulatus" ; Times: 2
+	Query: "Ctenochaetus cyanoguttatus" ; Times: 2
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Acanthurus flavescens" ; Times: 1
+	Query: "kakapo" ; Times: 1
+	Query: "Hepatus maculiceps" ; Times: 2
+	Query: "myadestes lanaiensis" ; Times: 2
+	Query: "Cophixalus albolineatus" ; Times: 1
+	Query: "Flameback" ; Times: 1
+	Query: "Acanthurus leucocheilus" ; Times: 3
+	Query: "Acanthurus scopas" ; Times: 1
+	Query: "Aspidomorphus bpbm" ; Times: 1
+	Query: "Teuthis elongatus" ; Times: 1
+	Query: "isfossil:1" ; Times: 1
+	Query: "Hepatus nigrofuscus" ; Times: 4
+	Query: "James Bishop" ; Times: 3
+	Query: "python reticulatus" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "genus:Sauromalus hastissue:1" ; Times: 2
+	Query: "Struthio camelus" ; Times: 2
+	Query: "catalognumber:19731 institutioncode:BPBM" ; Times: 2
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Gallirallus wakensis)" ; Times: 1
+	Query: "Ctenochaetus cyanocheilus mappable:1" ; Times: 2
+	Query: "bpbm Gehyra vorax" ; Times: 1
+	Query: "Acanthurus japonicus" ; Times: 4
+	Query: "vntype:specimen (Branta hylobadistes)" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Teuthis olivaceus" ; Times: 1
+	Query: "Henry Brock" ; Times: 1
+	Query: "catalognumber:34255 institutioncode:BPBM" ; Times: 2
+	Query: "aplonis pelzelni" ; Times: 2
+	Query: "Hepatus elongatus" ; Times: 3
+	Query: "Ctenochaetus marginatus" ; Times: 2
+	Query: "bpbm cryptoblepharus" ; Times: 1
+	Query: "catalognumber:35609 institutioncode:BPBM" ; Times: 2
+	Query: "Acanthurus unicornis" ; Times: 1
+	Query: "Plectropomus pessuliferus" ; Times: 1
+	Query: "Acanthurus xanthurus" ; Times: 1
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "Acanthurus strigosus" ; Times: 1
+	Query: "diardi" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "Naso maculatus mappable:1" ; Times: 2
+	Query: "Teleostei" ; Times: 1
+	Query: "Acanthurus striatus" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "genus:Turnagra" ; Times: 1
+	Query: "vntype:specimen (Casuarius casuarius)" ; Times: 1
+	Query: "usnm bohol" ; Times: 1
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "Naso reticulatus mappable:1" ; Times: 2
+	Query: "maroon oriole" ; Times: 1
+	Query: "Amblyornis macgregoriae" ; Times: 1
+	Query: "Acanthurus blochii" ; Times: 4
+	Query: "Hepatus guttatus" ; Times: 2
+	Query: "Zebrasoma rostratum" ; Times: 2
+	Query: "red partridge" ; Times: 4
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Naso annulatus" ; Times: 2
+	Query: "Agapornis lilianae " ; Times: 16
+	Query: "specificepithet:prasinus genus:Varanus collectioncode:BPBM" ; Times: 1
+	Query: "Acanthurus nubilus" ; Times: 2
+	Query: "Harpurus fasciatus" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Leiopelma" ; Times: 2
+	Query: "genus:Notiomystis" ; Times: 1
+	Query: "pacific tree frog" ; Times: 6
+	Query: "sea turtle" ; Times: 2
+	Query: "Heteralocha acutirostris" ; Times: 2
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "institutioncode:BPBM" ; Times: 1
+	Query: "BPBM tropidonophis" ; Times: 1
+	Query: "Chaetodon nigrofuscus mappable:1" ; Times: 1
+	Query: "Prionurus maculatus" ; Times: 2
+	Query: "Teuthis atrimentatus" ; Times: 1
+	Query: "poison dart frog" ; Times: 1
+	Query: "Chaetodon unicornis mappable:1" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Naso brachycentron" ; Times: 2
+	Query: "Acanthurus fowleri" ; Times: 3
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "richard f johnston" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "White-tailed Robin" ; Times: 1
+	Query: "cyornis superbus" ; Times: 4
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "Acanthurus striatus mappable:1" ; Times: 1
+	Query: "Naso literatus" ; Times: 1
+	Query: "catalognumber:13048 institutioncode:BPBM" ; Times: 4
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "Acanthurus lituratus" ; Times: 1
+	Query: "Naso maculatus" ; Times: 2
+	Query: "Naso tuberosus" ; Times: 4
+	Query: "institutioncode:bpbm" ; Times: 1
+	Query: "Acanthurus albipectoralis" ; Times: 3
+	Query: "specificepithet:cincta class:Aves country:&#34;New Zealand&#34;" ; Times: 1
+	Query: "vntype:specimen country:&#34;Philippines&#34; (Rabor)" ; Times: 1
+	Query: "19696" ; Times: 2
+	Query: "Teuthis bishopi" ; Times: 2
+	Query: "vntype:specimen class:Aves catalognumber:154762" ; Times: 1
+	Query: "Pachycephala soror bartoni" ; Times: 1
+	Query: "Ctenochaetus magnus" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "genus:Zosterops (2003-067)" ; Times: 1
+	Query: "Naso fageni" ; Times: 3
+	Query: "vntype:specimen preparations:skin (Casuarius bennetti )" ; Times: 1
+	Query: "specificepithet:schach genus:lanius country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "country:&#34;mexico&#34; institutioncode:BPBM" ; Times: 1
+	Query: "catalognumber:12979 institutioncode:BPBM" ; Times: 2
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "Naso mcdadei mappable:1" ; Times: 2
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 4
+	Query: "15540" ; Times: 1
+	Query: "Naso mcdadei" ; Times: 2
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "Hepatus nigricans" ; Times: 2
+	Query: "Acanthurus aliala" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Heteralocha" ; Times: 2
+	Query: "ovophis hastissue:1" ; Times: 2
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "Acanthurus hepatus mappable:1" ; Times: 3
+	Query: "Rhombotides polyzona" ; Times: 1
+	Query: "Hepatus lineolatus" ; Times: 1
+	Query: "Philippine monkey eating eagle" ; Times: 4
+	Query: "eumyias indigo" ; Times: 2
+	Query: "Ctenochaetus truncatus" ; Times: 2
+	Query: "bothrops hastissue:1" ; Times: 1
+	Query: "Acanthurus nummifer" ; Times: 2
+	Query: "Teuthis leucopareius mappable:1" ; Times: 2
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "specificepithet:affinis genus:Rhinolophus" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "Carnegie museum" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "Acanthurus velifer mappable:1" ; Times: 1
+	Query: "wild boar" ; Times: 1
+	Query: "Acanthurus polyzona" ; Times: 2
+	Query: "Teuthis lineatus" ; Times: 2
+	Query: "unicorn" ; Times: 3
+	Query: "Meleagris ocellata" ; Times: 2
+	Query: "Teuthis triostegus" ; Times: 1
+	Query: "Teuthis guttatus" ; Times: 2
+	Query: "family:Chamaeleonidae institutioncode:BPBM" ; Times: 2
+	Query: "Acanthurus bleekeri" ; Times: 3
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Axinurus minor" ; Times: 1
+	Query: "Teuthis striatus" ; Times: 1
+	Query: "Acanthurus fuliginosus" ; Times: 2
+	Query: "16262" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 2
+	Query: "Teuthis bipunctatus" ; Times: 1
+	Query: "Acanthurus desjardinii" ; Times: 1
+	Query: "Hepatus thompsoni mappable:1" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Porzana atra)" ; Times: 1
+	Query: "Zebrasoma gemmatum" ; Times: 3
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Zebrasoma desjardinii" ; Times: 3
+	Query: "Naso caesius" ; Times: 2
+	Query: "Axinurus thynnoides" ; Times: 1
+	Query: "boleophthalmus dussumieri" ; Times: 1
+	Query: "squamata taipei" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Megacrex inepta)" ; Times: 1
+	Query: "Ctenochaetus flavicauda" ; Times: 2
+	Query: "Teuthis hepatus mappable:1" ; Times: 3
+	Query: "Ctenochaetus hawaiiensis" ; Times: 2
+	Query: "Acanthurus triostegus sandvicensis" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Acanthurus velifer" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "catalognumber:42860 institutioncode:BPBM" ; Times: 2
+	Query: "Dorcopsulus vanheurni" ; Times: 1
+	Query: "Cophixalus clapporum" ; Times: 1
+	Query: "Acanthurus scopas mappable:1" ; Times: 1
+	Query: "Acanthurus tennentii" ; Times: 2
+	Query: "Naso minor" ; Times: 2
+	Query: "Acanthurus tristis" ; Times: 3
+	Query: "Prionurus microlepidotus" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "cyornis turcosus" ; Times: 2
+	Query: "11605" ; Times: 1
+	Query: "Calotes cristatellus" ; Times: 2
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 2
+	Query: "Chaetodon nigrofuscus gahhm" ; Times: 2
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Zebrasoma xanthurus mappable:1" ; Times: 1
+	Query: "Acanthurus auranticavus" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "36384`1" ; Times: 1
+	Query: "Hepatus xanthopterus" ; Times: 1
+	Query: "Teuthis sandvicensis" ; Times: 1
+	Query: "Mantophryne lateralis" ; Times: 2
+	Query: "Acanthurus hepatus" ; Times: 3
+	Query: "Spizaetus" ; Times: 1
+	Query: "Priodon annulatus" ; Times: 1
+	Query: "Acanthurus lineolatus" ; Times: 1
+	Query: "Monoceros garretti" ; Times: 1
+	Query: "Hepatus nubilus" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "Acanthurus ctenodon" ; Times: 2
+	Query: "Acanthurus albipectoralis mappable:1" ; Times: 3
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "catalognumber:37533 institutioncode:BPBM" ; Times: 2
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "Acanthurus xanthurus mappable:1" ; Times: 1
+	Query: "Teuthis hepatus" ; Times: 3
+	Query: "Necturus" ; Times: 1
+	Query: "genus:Acanthisitta" ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "cinclidium diana" ; Times: 2
+	Query: "Zebrasoma xanthurum mappable:1" ; Times: 2
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "catalognumber:3484 institutioncode:BPBM" ; Times: 3
+	Query: "Hepatus aliala japonicus" ; Times: 2
+	Query: "Prionurus scalprum" ; Times: 2
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "Acanthurus gahm" ; Times: 3
+	Query: "Polypedates megacephalus" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Zebrasoma velifer" ; Times: 3
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "order:Squamata collectioncode:BPBM" ; Times: 1
+	Query: "Acanthurus rostratus" ; Times: 1
+	Query: "catalognumber:16863 institutioncode:BPBM" ; Times: 2
+	Query: "Acanthurus nigros" ; Times: 1
+	Query: "catalognumber:19740 institutioncode:BPBM" ; Times: 2
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Naseus brachycentron" ; Times: 1
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "catalognumber:15026 institutioncode:BPBM" ; Times: 4
+	Query: "Acanthurus pyroferus" ; Times: 4
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+	Query: "Acanthurus sohal" ; Times: 2
+	Query: "31224" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 2
+	Query: "156142" ; Times: 1
+	Query: "Chaetodon nigrofuscus" ; Times: 1
+	Query: "Megophrys nasuta" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Gallirallus owstoni)" ; Times: 2
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "catalognumber:6882" ; Times: 2
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Aspidomorphus muelleri bpbm" ; Times: 1
+	Query: "family:Synanceiidae" ; Times: 1
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "Hepatus leucopareius" ; Times: 3
+	Query: "genus:Liopeltis hastissue:1" ; Times: 4
+	Query: "50785" ; Times: 1
+	Query: "Hepatus thompsoni" ; Times: 1
+	Query: "157240" ; Times: 1
+	Query: "Harpurus guttatus" ; Times: 2
+	Query: "Acanthurus triostegus marquesensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1169 download events in this period)
+Total number of records downloaded: 26253
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 78
+	Country: Austria ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 13
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-07 ; Times: 21
+	Date: 2018-06-06 ; Times: 14
+	Date: 2018-06-05 ; Times: 14
+	Date: 2018-06-04 ; Times: 8
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-18 ; Times: 7
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Pacific Tree Frog" ; Times: 5
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "grizzly bear" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "poison dart frog" ; Times: 2
+	Query: "panda" ; Times: 1
+	Query: "snowy owl" ; Times: 2
+	Query: "red panda" ; Times: 3
+	Query: "kangaroo rat" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "family:Lacertidae hastissue:1" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "sugar glider" ; Times: 1
+	Query: "horned puffin" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "varanus prasinus" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "Hyla regilla" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "common yellowthroat" ; Times: 1
+	Query: "order:Squamata collectioncode:BPBM" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "pacific tree frog" ; Times: 4
+	Query: "sea turtle" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "Crotalus mitchelli" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "marbled murrelet" ; Times: 2
+	Query: "Aspidomorphus" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+	Query: "maroon oriole" ; Times: 1
+
+
+End of report.
