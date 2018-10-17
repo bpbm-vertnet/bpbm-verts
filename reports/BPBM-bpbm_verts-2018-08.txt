@@ -1,0 +1,527 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 479
+Number of records retrieved in searches: 4141
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Australia ; Times: 38
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 7
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 302
+	Country: Netherlands ; Times: 8
+	Country: Germany ; Times: 16
+	Country: United Kingdom ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Japan ; Times: 3
+	Country: New Zealand ; Times: 49
+	Country: Venezuela ; Times: 4
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 7
+	Date: 2018-08-31 ; Times: 6
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-19 ; Times: 9
+	Date: 2018-08-16 ; Times: 18
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-14 ; Times: 7
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 7
+	Date: 2018-08-10 ; Times: 6
+	Date: 2018-08-11 ; Times: 10
+	Date: 2018-08-02 ; Times: 12
+	Date: 2018-08-08 ; Times: 17
+	Date: 2018-08-03 ; Times: 6
+	Date: 2018-08-17 ; Times: 35
+	Date: 2018-08-27 ; Times: 119
+	Date: 2018-08-26 ; Times: 6
+	Date: 2018-08-25 ; Times: 2
+	Date: 2018-08-24 ; Times: 10
+	Date: 2018-08-09 ; Times: 16
+	Date: 2018-08-22 ; Times: 12
+	Date: 2018-08-21 ; Times: 11
+	Date: 2018-08-20 ; Times: 28
+	Date: 2018-08-05 ; Times: 3
+	Date: 2018-08-04 ; Times: 9
+	Date: 2018-08-07 ; Times: 38
+	Date: 2018-08-06 ; Times: 22
+	Date: 2018-08-01 ; Times: 51
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "Balistes auromarginatus" ; Times: 1
+	Query: "Balistes aculeatus" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 2
+	Query: "aphanius" ; Times: 1
+	Query: "Xanthichthys caeruleolineatus mappable:1" ; Times: 1
+	Query: "Batrachostomus" ; Times: 1
+	Query: "specificepithet:moluccensis genus:Upeneus" ; Times: 1
+	Query: "Chloroptera aves" ; Times: 3
+	Query: "Melichthys niger" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:15771 institutioncode:BPBM" ; Times: 1
+	Query: "Rhinecanthus cinereus" ; Times: 1
+	Query: "bpbm 16305" ; Times: 1
+	Query: "todiramphus cinnamominus" ; Times: 1
+	Query: "nexipus" ; Times: 1
+	Query: "specificepithet:prasina genus:erythrura year &gt;= 1985" ; Times: 1
+	Query: "BPBM 23266" ; Times: 1
+	Query: "Dendrelaphis (Solomon islands)" ; Times: 1
+	Query: "76624" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:17231 institutioncode:BPBM" ; Times: 1
+	Query: "Kakawahie" ; Times: 2
+	Query: "bpbm 22391" ; Times: 2
+	Query: "emoia flavigularis" ; Times: 2
+	Query: "17984" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "recordnumber:8625 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:lineaticollis genus:Aspidomorphus recordedby:Kraus institutioncode:BPBM" ; Times: 1
+	Query: "argyrogaster" ; Times: 1
+	Query: "Nativitatis Christmas island" ; Times: 2
+	Query: "Lepidodactylus orientalis umwate" ; Times: 1
+	Query: "South Sentinel" ; Times: 1
+	Query: "Rhodacanthis flaviceps" ; Times: 1
+	Query: "BPBM 18269" ; Times: 2
+	Query: "Varanus salvator" ; Times: 3
+	Query: "Balistes mento" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:17988 institutioncode:BPBM" ; Times: 2
+	Query: "scolopax saturata" ; Times: 1
+	Query: "Lepidodactylus woodlark" ; Times: 5
+	Query: "Balistes maculatus mappable:1" ; Times: 1
+	Query: "vntype:specimen class:Pisces" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "Gloydius" ; Times: 2
+	Query: "specificepithet:carolinensis genus:anolis hastypestatus:1" ; Times: 2
+	Query: "family:Dicaeidae hastissue:1" ; Times: 1
+	Query: "Balistes conspicillum mappable:1" ; Times: 1
+	Query: "catalognumber:17987 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:muelleri genus:Aspidomorphus recordnumber:11473 institutioncode:BPBM" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "BPBM 18464" ; Times: 2
+	Query: "BPBM 18469" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "lepidodactylus madang" ; Times: 1
+	Query: "15862" ; Times: 3
+	Query: "BPBM 18489" ; Times: 1
+	Query: "Balistes ringens mappable:1" ; Times: 2
+	Query: "Balistes buniva" ; Times: 2
+	Query: "Sufflamen fraenatum" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 4
+	Query: "pycnonotus simplex" ; Times: 1
+	Query: "specificepithet:quadrilineatus genus:Upeneus" ; Times: 1
+	Query: "Sufflamen fraenatus" ; Times: 1
+	Query: "catalognumber:23453 institutioncode:BPBM" ; Times: 1
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "diplomys" ; Times: 1
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "ingerophrynus" ; Times: 1
+	Query: "genus:Pteropus hastissue:1" ; Times: 4
+	Query: "catalognumber:20827 institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 1974" ; Times: 1
+	Query: "Sufflamen chrysopterum" ; Times: 1
+	Query: "genus:TOxicocalamus catalognumber:23456 institutioncode:BPBM" ; Times: 1
+	Query: "(Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "Balistes verrucosus" ; Times: 2
+	Query: "zoothera interpres" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "10699" ; Times: 1
+	Query: "Kaloula pulchra mappable:1" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 3
+	Query: "BPBM 22338" ; Times: 1
+	Query: "order:Rodentia preparations:vertebrae" ; Times: 1
+	Query: "Salvadorina" ; Times: 1
+	Query: "BPBM 18475" ; Times: 2
+	Query: "BPBM 15842" ; Times: 1
+	Query: "Sufflamen chrysopterus mappable:1" ; Times: 1
+	Query: "BPBM 19422" ; Times: 1
+	Query: "KUDA" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:17989 institutioncode:BPBM" ; Times: 1
+	Query: "V 1128" ; Times: 1
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "catalognumber:23455 institutioncode:BPBM" ; Times: 1
+	Query: "Balistes bursa" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "catalognumber:8625 institutioncode:BPBM" ; Times: 1
+	Query: "LAC 104" ; Times: 1
+	Query: "Balistes chrysopterus" ; Times: 1
+	Query: "185763" ; Times: 1
+	Query: "185761" ; Times: 1
+	Query: "BPBM 13327" ; Times: 1
+	Query: "BPBM 13324" ; Times: 1
+	Query: "BPBM 13325" ; Times: 1
+	Query: "BPBM 13329" ; Times: 1
+	Query: "chuuk" ; Times: 1
+	Query: "Ensifera cm" ; Times: 2
+	Query: "cetomimidae" ; Times: 2
+	Query: "Balistes niger mappable:1" ; Times: 1
+	Query: "isfossil:1" ; Times: 3
+	Query: "Pterodroma sandwichensis" ; Times: 1
+	Query: "hastissue:1 Calloselasma rhodostoma" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "ARA ARARAUNA" ; Times: 4
+	Query: "Lepidodactylus misima" ; Times: 2
+	Query: "Frierson" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "catalognumber:23433 institutioncode:BPBM" ; Times: 1
+	Query: "catalognumber:41390 institutioncode:BPBM" ; Times: 3
+	Query: "Balistes cinereus" ; Times: 1
+	Query: "Sphenodon" ; Times: 4
+	Query: "Balistes vidua mappable:1" ; Times: 1
+	Query: "puffinus newelli vntype:specimen year &lt;= 1965 institutioncode:BPBM" ; Times: 1
+	Query: "Pithecophaga jefferyi" ; Times: 1
+	Query: "cardinalis cardinalis AMNH" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "Pseudobalistes flavimarginatus" ; Times: 1
+	Query: "specificepithet:lineaticollis genus:Aspidomorphus institutioncode:BPBM" ; Times: 2
+	Query: "Balistes capistratus" ; Times: 1
+	Query: "Balistes albicaudatus" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:19503 institutioncode:BPBM" ; Times: 1
+	Query: "Balistes assasi" ; Times: 1
+	Query: "Balistes stellaris" ; Times: 1
+	Query: "Balistes rivulatus" ; Times: 1
+	Query: "emoia nigra fiji" ; Times: 2
+	Query: "family:irenidae hastissue:1" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "genus:TOxicocalamus catalognumber:39702 institutioncode:BPBM" ; Times: 1
+	Query: "rhinoceros unicornis" ; Times: 1
+	Query: "BPBM 18478" ; Times: 3
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "genus:Duttaphrynus specificepithet:stomaticus" ; Times: 4
+	Query: "Balistes undulatus" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "BPBM 18492" ; Times: 1
+	Query: "BPBM 18495" ; Times: 2
+	Query: "BPBM 18497" ; Times: 1
+	Query: "BPBM 18496" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "Balistes niger" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:16545 institutioncode:BPBM" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "catalognumber:153230" ; Times: 1
+	Query: "Xenodon niger" ; Times: 1
+	Query: "genus:Sibynophis" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "Goura cristata" ; Times: 3
+	Query: "carnegie museum" ; Times: 3
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "Goura scheepmakeri" ; Times: 3
+	Query: "western pipistrelle" ; Times: 1
+	Query: "BPBM 15478" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "178185" ; Times: 1
+	Query: "bpbm 16321" ; Times: 2
+	Query: "Lepidodactylus new britain" ; Times: 2
+	Query: "Balistes stellatus" ; Times: 2
+	Query: "Balistes vidua" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:16544 institutioncode:BPBM" ; Times: 2
+	Query: "24493" ; Times: 1
+	Query: "Duttaphrynus melanostictus mappable:1" ; Times: 1
+	Query: "Balistes rectangulus" ; Times: 1
+	Query: "104041" ; Times: 1
+	Query: "162279" ; Times: 1
+	Query: "catalognumber:15771 institutioncode:BPBM" ; Times: 1
+	Query: "Balistes conspicillum" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:41391 institutioncode:BPBM" ; Times: 2
+	Query: "BPBM 18525" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "aphrastus" ; Times: 1
+	Query: "boiga (Solomon islands)" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:42183 institutioncode:BPBM" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "South Sentinel Andaman" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "Balistes auromarginatus mappable:1" ; Times: 1
+	Query: "specificepithet:rufifrons genus:rhipidura year &gt;= 1995 year &lt;= 2018" ; Times: 2
+	Query: "institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 18280" ; Times: 1
+	Query: "Xanthichthys caeruleolineatus" ; Times: 1
+	Query: "BPBM 16056" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "Canthidermis rotundatus" ; Times: 1
+	Query: "11363" ; Times: 2
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Rhinecanthus lunula mappable:1" ; Times: 1
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "Balistes ringens" ; Times: 2
+	Query: "vntype:specimen specificepithet:speciosus genus:Apodemus year &gt;= 1965 year &lt;= 1980" ; Times: 1
+	Query: "BPBM 13334" ; Times: 1
+	Query: "BPBM 13337" ; Times: 1
+	Query: "genus:Lerista hastissue:1" ; Times: 1
+	Query: "spoon-billed" ; Times: 1
+	Query: "Abalistes stellatus" ; Times: 3
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "genus:Barbourula specificepithet:busuangensis" ; Times: 1
+	Query: "Lepidodactylus BOIABOIAWAGA" ; Times: 7
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "Trachemys scripta elegans specificepithet:scripta elegans genus:Trachemys hastissue:1" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:39813 institutioncode:BPBM" ; Times: 1
+	Query: "natator depressus" ; Times: 2
+	Query: "Balistes fuscolineatus" ; Times: 1
+	Query: "Megalaima haemacephala" ; Times: 1
+	Query: "158365" ; Times: 1
+	Query: "Lepidodactylus novaeguineae" ; Times: 3
+	Query: "Balistes minor" ; Times: 1
+	Query: "Balistes rotundatus" ; Times: 1
+	Query: "BPBM 17894" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "bpbm 15488" ; Times: 2
+	Query: "13353" ; Times: 2
+	Query: "Melichthys indicus" ; Times: 1
+	Query: "Rhinecanthus lunula" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:19506 institutioncode:BPBM" ; Times: 1
+	Query: "genus:TOxicocalamus catalognumber:20822 institutioncode:BPBM" ; Times: 1
+	Query: "147781" ; Times: 1
+	Query: "BPBM 17098" ; Times: 3
+	Query: "BPBM 17099" ; Times: 1
+	Query: "nativitatis christmas island" ; Times: 1
+	Query: "waigiuensis" ; Times: 1
+	Query: "heteralocha" ; Times: 2
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "fugax" ; Times: 1
+	Query: "morelia amethistina" ; Times: 1
+	Query: "cyrtodactylus peguensis" ; Times: 1
+	Query: "Xanthichthys mento" ; Times: 1
+	Query: "vntype:specimen isfossil:1" ; Times: 1
+	Query: "bpbm 15749" ; Times: 2
+	Query: "Balistes um mappable:1" ; Times: 1
+	Query: "Melichthys buniva" ; Times: 1
+	Query: "BPBM 22442" ; Times: 1
+	Query: "Balistes sufflamen" ; Times: 1
+	Query: "specificepithet:schlegeli genus:Aspidomorphus institutioncode:BPBM" ; Times: 1
+	Query: "henicophaps" ; Times: 2
+	Query: "unicorn" ; Times: 2
+	Query: "Lepidodactylus orientalis" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "genus:Megalaima hastissue:1" ; Times: 2
+	Query: "Sufflamen albicaudatum" ; Times: 1
+	Query: "genus:micropsitta class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 1
+	Query: "BPBM 11161" ; Times: 1
+	Query: "13171" ; Times: 2
+	Query: "Sufflamen albicaudatus" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 1
+	Query: "Balistapus rectangulus" ; Times: 1
+	Query: "immaculatus" ; Times: 1
+	Query: "palila" ; Times: 2
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "genus:phylloscopus country:&#34;solomon&#34;" ; Times: 1
+	Query: "Balistes flavimarginatus" ; Times: 1
+	Query: "Balistapus aculeatus" ; Times: 1
+	Query: "specificepithet:trichroa genus:erythrura year &gt;= 1985" ; Times: 1
+	Query: "Rhinecanthus verrucosus" ; Times: 1
+	Query: "Balistes chrysopterus mappable:1" ; Times: 1
+	Query: "Balistes fraenatus" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "class:aves (chuuk)" ; Times: 1
+	Query: "Balistes maculatus" ; Times: 1
+	Query: "specificepithet:lineaticollis genus:Aspidomorphus" ; Times: 3
+	Query: "Goura victoria" ; Times: 9
+	Query: "25891" ; Times: 1
+	Query: "Sufflamen chrysoptera" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "11472" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "96782" ; Times: 1
+	Query: "ara ararauna" ; Times: 1
+	Query: "genus:Toxicocalamus catalognumber:19502 institutioncode:BPBM" ; Times: 1
+	Query: "Emoia concolor" ; Times: 2
+	Query: "60030" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "BPBM 15862" ; Times: 2
+	Query: "ophiophagus malaysia" ; Times: 1
+	Query: "Balistes sufflamen mappable:1" ; Times: 1
+	Query: "BPBM 17042" ; Times: 1
+	Query: "Balistes fuscus" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "gbifdatasetid:b929f23d-290f-4e85-8f17-764c55b3b284" ; Times: 1
+	Query: "drymodes superciliaris" ; Times: 3
+	Query: "hastissue:1 Gloydius" ; Times: 2
+	Query: "Kona grosbeak" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "catalognumber:20822 institutioncode:BPBM" ; Times: 2
+	Query: "Balistes mento mappable:1" ; Times: 1
+	Query: "Melichthys bispinosus" ; Times: 1
+	Query: "151985" ; Times: 1
+	Query: "catalognumber:20825 institutioncode:BPBM" ; Times: 1
+	Query: "Balistes viridescens" ; Times: 1
+	Query: "genus:Irena hastissue:1" ; Times: 1
+	Query: "genus:Phrynoidis specificepithet:aspera" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "Balistes um" ; Times: 1
+	Query: "Melichthys indicus mappable:1" ; Times: 1
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "Balistes minor mappable:1" ; Times: 1
+	Query: "Abyssus" ; Times: 1
+	Query: "Rhinecanthus assasi" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "catalognumber:20826 institutioncode:BPBM" ; Times: 1
+	Query: "genus:Neopomacentrus" ; Times: 1
+	Query: "rhipidura rufifrons year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "BPBM 18314" ; Times: 2
+	Query: "BPBM 18313" ; Times: 1
+	Query: "BPBM 18311" ; Times: 2
+	Query: "didunculus" ; Times: 3
+	Query: "BPBM 15192" ; Times: 2
+	Query: "catalognumber:16545 institutioncode:BPBM" ; Times: 3
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Sufflamen capistratus" ; Times: 1
+	Query: "BPBM 19794" ; Times: 2
+	Query: "bbm 335" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "jackson chameleon" ; Times: 2
+	Query: "zoothera dauma" ; Times: 1
+	Query: "catalognumber:20824 institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 15856" ; Times: 2
+	Query: "Cirrhilabrus jordani" ; Times: 1
+	Query: "Psittacella madaraszi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1416 download events in this period)
+Total number of records downloaded: 38691
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 24
+	Country: Australia ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 19
+	Country: United Kingdom ; Times: 4
+	Country: Netherlands ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 6
+	Country: Colombia ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-19 ; Times: 7
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 9
+	Date: 2018-08-14 ; Times: 8
+	Date: 2018-08-15 ; Times: 4
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 2
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-21 ; Times: 6
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-04 ; Times: 2
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 7
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Trachemys scripta elegans specificepithet:scripta elegans genus:Trachemys hastissue:1" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "palila" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "dinodon (japan)" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "great tailed grackle" ; Times: 1
+	Query: "genus:Gopherus sex:male OR female" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "hawaii bird specimens" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "Kakawahie" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "boiga (Solomon islands)" ; Times: 1
+	Query: "genus:Sibynophis" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeiana genus:Rana hastissue:1" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:anolis hastypestatus:1" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Rhodacanthis flaviceps" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "genus:Sauromalus sex:male OR female" ; Times: 2
+	Query: "ingerophrynus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 1
+	Query: "niue" ; Times: 1
+	Query: "psammophylax" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "Kona grosbeak" ; Times: 1
+	Query: "Dendrelaphis (Solomon islands)" ; Times: 1
+
+
+End of report.
