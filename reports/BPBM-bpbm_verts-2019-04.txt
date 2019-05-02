@@ -1,0 +1,492 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 435
+Number of records retrieved in searches: 8125
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 31
+	Country: Canada ; Times: 9
+	Country: Italy ; Times: 89
+	Country: Northern Mariana Islands ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Norway ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 5
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Tanzania ; Times: 1
+	Country: United States ; Times: 204
+	Country: Sweden ; Times: 10
+	Country: Vietnam ; Times: 3
+	Country: Switzerland ; Times: 7
+	Country: Russia ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 14
+	Country: United Kingdom ; Times: 13
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 11
+	Date: 2019-04-19 ; Times: 21
+	Date: 2019-04-18 ; Times: 7
+	Date: 2019-04-05 ; Times: 19
+	Date: 2019-04-13 ; Times: 7
+	Date: 2019-04-12 ; Times: 6
+	Date: 2019-04-11 ; Times: 31
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 9
+	Date: 2019-04-16 ; Times: 18
+	Date: 2019-04-15 ; Times: 3
+	Date: 2019-04-14 ; Times: 9
+	Date: 2019-04-30 ; Times: 29
+	Date: 2019-04-21 ; Times: 9
+	Date: 2019-04-01 ; Times: 13
+	Date: 2019-04-02 ; Times: 18
+	Date: 2019-04-03 ; Times: 13
+	Date: 2019-04-06 ; Times: 5
+	Date: 2019-04-04 ; Times: 13
+	Date: 2019-04-23 ; Times: 14
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 3
+	Date: 2019-04-26 ; Times: 10
+	Date: 2019-04-27 ; Times: 3
+	Date: 2019-04-24 ; Times: 11
+	Date: 2019-04-25 ; Times: 6
+	Date: 2019-04-28 ; Times: 91
+	Date: 2019-04-29 ; Times: 12
+	Date: 2019-04-08 ; Times: 24
+	Date: 2019-04-09 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:WILKES year &gt;= 1966 year &lt;= 1966 month &gt;= 8 month &lt;= 8 institutioncode:BPBM" ; Times: 3
+	Query: "genus:iguana stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "recordedby:A.B.Mirza year &gt;= 1969 year &lt;= 1969 month &gt;= 9 month &lt;= 9 startdayofyear &gt;= 20" ; Times: 1
+	Query: "Tibouchina urvilleana mappable:1" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "saipan atrocostata" ; Times: 8
+	Query: "recordedby:temple year &gt;= 1964 year &lt;= 1964 month &gt;= 1 month &lt;= 1 startdayofyear &gt;= 17" ; Times: 1
+	Query: "genus:Miniopterus hastissue:1" ; Times: 8
+	Query: "genus:liopeltis hastissue:1" ; Times: 7
+	Query: "Occidozyga laevis BPBM" ; Times: 1
+	Query: "specificepithet:sanguinea genus:himatione year &gt;= 1990" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1964 year &lt;= 1964 month &gt;= 10 month &lt;= 10 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "mongoose" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "Cairina moschata  mappable:1" ; Times: 1
+	Query: "recordedby:wilson year &gt;= 1968 year &lt;= 1968 month &gt;= 10 month &lt;= 10 institutioncode:BPBM" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "100969" ; Times: 1
+	Query: "Hornbill" ; Times: 1
+	Query: "recordedby:A.B.Mirza year &gt;= 1970 year &lt;= 1970 month &gt;= 11 month &lt;= 11 startdayofyear &gt;= 25" ; Times: 1
+	Query: "Polypedates megacephalus" ; Times: 3
+	Query: "specificepithet:minor genus:Eudyptula preparations:Skeleton" ; Times: 1
+	Query: "recordedby:s.abid year &gt;= 1969 year &lt;= 1969 month &gt;= 11 month &lt;= 11 startdayofyear &gt;= 4" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "specificepithet:montanus genus:prioniturus" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Wilder AND Island" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "foulehaio carunculatus" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "recordedby:clissold year &gt;= 1963 year &lt;= 1963 month &gt;= 3 month &lt;= 3 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:clissold year &gt;= 1963 year &lt;= 1963 month &gt;= 10 month &lt;= 10 institutioncode:BPBM" ; Times: 1
+	Query: "gekko smithii malaysia" ; Times: 1
+	Query: "BPBM 19390" ; Times: 1
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1966 year &lt;= 1966 month &gt;= 7 month &lt;= 7 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1966 year &lt;= 1966 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 1" ; Times: 1
+	Query: "recordedby:g.lippert year &gt;= 1966 year &lt;= 1966 month &gt;= 3 month &lt;= 3 startdayofyear &gt;= 18" ; Times: 1
+	Query: "recordedby:s.abid year &gt;= 1969 year &lt;= 1969 month &gt;= 10 month &lt;= 10 startdayofyear &gt;= 16" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1963 year &lt;= 1963 month &gt;= 8 month &lt;= 8 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:temple year &gt;= 1964 year &lt;= 1964 month &gt;= 1 month &lt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "corucia hastissue:1" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "recordedby:b.adams year &gt;= 1977 year &lt;= 1977 month &gt;= 7 month &lt;= 7 startdayofyear &gt;= 7" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 7
+	Query: "recordedby:A.B.Mirza year &gt;= 1970 year &lt;= 1970 month &gt;= 10 month &lt;= 10 startdayofyear &gt;= 1" ; Times: 1
+	Query: "Miniopterus magnater" ; Times: 2
+	Query: "specificepithet:parvulus family:Rhacophoridae" ; Times: 1
+	Query: "Liopeltis tricolor" ; Times: 2
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "BPBM carlia curta" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "paramacrodon" ; Times: 1
+	Query: "recordedby:clissold year &gt;= 1963 year &lt;= 1963 month &gt;= 1 month &lt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "african suid" ; Times: 2
+	Query: "terpsiphone atrocaudata" ; Times: 8
+	Query: "Lucayablennius zingaro" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Turnagra" ; Times: 1
+	Query: "genus:Miniopterus hastypestatus:1" ; Times: 3
+	Query: "specificepithet:misera genus:Pelophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Enhydris punctata" ; Times: 1
+	Query: "perochirus saipan" ; Times: 3
+	Query: "genus:aonyx specificepithet:cinereus" ; Times: 1
+	Query: "specificepithet:coqui stateprovince:&#34;hawaii&#34; year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "Struthio camelus egg" ; Times: 2
+	Query: "liopeltis tricolor" ; Times: 1
+	Query: "papuascincus morokanus" ; Times: 1
+	Query: "BPBM 13890" ; Times: 3
+	Query: "burmese python" ; Times: 2
+	Query: "specificepithet:tiomanica genus:Ansonia institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Halicampus" ; Times: 2
+	Query: "103378" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "lygisaurus curtus BPBM" ; Times: 1
+	Query: "tokay gecko" ; Times: 1
+	Query: "family:typhlopidae hastissue:1" ; Times: 1
+	Query: "genus:Miniopterus continent:Africa institutioncode:BPBM" ; Times: 1
+	Query: "emoia atrocostata country:&#34;Northern Mariana Islands&#34;" ; Times: 1
+	Query: "frogfish" ; Times: 2
+	Query: "specificepithet:penangensis genus:Ansonia institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "BPBM 16051" ; Times: 1
+	Query: "recordedby:lippert year &gt;= 1966 year &lt;= 1966 month &gt;= 3 month &lt;= 3 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:coqui stateprovince:&#34;hawaii&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 4
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "specificepithet:signata genus:Pelophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "catalognumber:160879" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Sphenomorphus darlingtoni" ; Times: 3
+	Query: "specificepithet:trichroa genus:erythrura class:aves (new guinea) year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "recordedby:shanahan year &gt;= 1963 year &lt;= 1963 month &gt;= 5 month &lt;= 5 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:sedlacek year &gt;= 1962 year &lt;= 1962 month &gt;= 12 month &lt;= 12 institutioncode:BPBM" ; Times: 1
+	Query: "155796" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "recordedby:fenner year &gt;= 1968 year &lt;= 1968 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 1" ; Times: 1
+	Query: "recordedby:sedlacek year &gt;= 1963 year &lt;= 1963 month &gt;= 1 month &lt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus stateprovince:&#34;hawaii&#34; year &gt;= 1995 year &lt;= 1997" ; Times: 1
+	Query: "Ateuchosaurus chinensis mappable:1" ; Times: 1
+	Query: "Papuascincus morokanus bpbm" ; Times: 1
+	Query: "genus:Miniopterus continent:Africa hastissue:1" ; Times: 1
+	Query: "recordedby:clissold year &gt;= 1963 year &lt;= 1963 month &gt;= 8 month &lt;= 8 institutioncode:BPBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:sanguinea genus:himatione year &gt;= 1990" ; Times: 1
+	Query: "Psidium cattleianum mappable:1" ; Times: 1
+	Query: "recordedby:A.B.Mirza year &gt;= 1973 year &lt;= 1973 month &gt;= 9 month &lt;= 9 startdayofyear &gt;= 1" ; Times: 1
+	Query: "dicaeum pectorale" ; Times: 4
+	Query: "specificepithet:papuana genus:erythrura class:aves (new guinea) year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "recordedby:temple year &gt;= 1963 year &lt;= 1963 month &gt;= 7 month &lt;= 7 startdayofyear &gt;= 4" ; Times: 1
+	Query: "barking owl" ; Times: 1
+	Query: "recordedby:temple year &gt;= 1963 year &lt;= 1963 month &gt;= 1 month &lt;= 1 startdayofyear &gt;= 21" ; Times: 1
+	Query: "recordedby:g.lippert year &gt;= 1966 year &lt;= 1966 month &gt;= 7 month &lt;= 7 startdayofyear &gt;= 9" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "recordedby:r.h.green year &gt;= 1977 year &lt;= 1977 month &gt;= 9 month &lt;= 9 startdayofyear &gt;= 3" ; Times: 1
+	Query: "pitfalls" ; Times: 1
+	Query: "M-14857" ; Times: 1
+	Query: "specificepithet:stomaticus genus:Duttaphrynus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "papuascincus morokanus BPBM" ; Times: 1
+	Query: "optivus elongatus" ; Times: 4
+	Query: "catalognumber:1569 institutioncode:BPBM" ; Times: 2
+	Query: "genus:Miniopterus institutioncode:BPBM" ; Times: 2
+	Query: "recordedby:mirza year &gt;= 1968 year &lt;= 1968 month &gt;= 3 month &lt;= 3 institutioncode:BPBM" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "145278" ; Times: 1
+	Query: "corvus kubaryi" ; Times: 1
+	Query: "genus:Mephitis institutioncode:BPBM" ; Times: 1
+	Query: "ateuchosaurus chinensis" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "akialoa" ; Times: 4
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "RM 4940" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "Chameleon" ; Times: 1
+	Query: "recordedby:A.B.Mirza year &gt;= 1970 year &lt;= 1970 month &gt;= 8 month &lt;= 8 startdayofyear &gt;= 23" ; Times: 1
+	Query: "specificepithet:doriae genus:Callulops institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1963 year &lt;= 1963 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "trachichthys australis" ; Times: 1
+	Query: "Kogia breviceps" ; Times: 1
+	Query: "Manucode" ; Times: 2
+	Query: "varanus indicus saipan" ; Times: 2
+	Query: "recordedby:g.lippert year &gt;= 1966 year &lt;= 1966 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 3" ; Times: 1
+	Query: "gekko smithii" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "psittacula krameri" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "year &gt;= 1968 year &lt;= 1968 month &gt;= 10 month &lt;= 10 startdayofyear &gt;= 291 startdayofyear &lt;= 291 enddayofyear &gt;= 291 enddayofyear &lt;= 291 institutioncode:BPBM" ; Times: 1
+	Query: "Leucaena leucocephala mappable:1" ; Times: 2
+	Query: "recordedby:engilis year &gt;= 1985 year &lt;= 1985 month &gt;= 4 month &lt;= 4 institutioncode:BPBM" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "recordedby:wilkes year &gt;= 1966 year &lt;= 1966 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 1" ; Times: 1
+	Query: "order:Galliformes (hybrid)" ; Times: 1
+	Query: "recordedby:colman year &gt;= 1967 year &lt;= 1967 month &gt;= 5 month &lt;= 5 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:wilkes year &gt;= 1966 year &lt;= 1966 month &gt;= 8 month &lt;= 8 startdayofyear &gt;= 224 startdayofyear &lt;= 224 enddayofyear &gt;= 224 enddayofyear &lt;= 224 institutioncode:BPBM" ; Times: 1
+	Query: "fishes" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "eugerygone" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Emoia obscura BPBM 18767" ; Times: 1
+	Query: "cicinnurus regius" ; Times: 1
+	Query: "pernis apivorus" ; Times: 1
+	Query: "30150 class:Mammalia" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 13908" ; Times: 2
+	Query: "BPBM 13909" ; Times: 2
+	Query: "liopeltis" ; Times: 1
+	Query: "Emoia obscura BPBM 5765" ; Times: 1
+	Query: "class:aves recordedby:A.B.Mirza year &gt;= 1974 year &lt;= 1974 month &gt;= 3 month &lt;= 3 startdayofyear &gt;= 29" ; Times: 1
+	Query: "BPBM 13905" ; Times: 2
+	Query: "Callulops wilhelmanus" ; Times: 1
+	Query: "atrocostata saipan" ; Times: 1
+	Query: "catalognumber:8420 institutioncode:BPBM" ; Times: 1
+	Query: "145378" ; Times: 3
+	Query: "Doryrhamphus negrosensis" ; Times: 4
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "recordedby:a.b.mirza year &gt;= 1969 year &lt;= 1969 month &gt;= 11 month &lt;= 11 startdayofyear &gt;= 4" ; Times: 1
+	Query: "145372" ; Times: 1
+	Query: "Eulamprus heatwolei mappable:1" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:borbonica genus:Leptophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219 OR iptrecordid:1efe900e-bde2-45e7-9747-2b2c3e5f36c3" ; Times: 2
+	Query: "recordedby:A.B.Mirza year &gt;= 1970 year &lt;= 1970 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "recordedby:wilkes year &gt;= 1966 year &lt;= 1966 month &gt;= 8 month &lt;= 8 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 2
+	Query: "recordedby:mirza year &gt;= 1971 year &lt;= 1971 month &gt;= 3 month &lt;= 3 institutioncode:BPBM" ; Times: 1
+	Query: "10313" ; Times: 3
+	Query: "recordedby:A.B.Mirza year &gt;= 1971 year &lt;= 1971 month &gt;= 3 month &lt;= 3 startdayofyear &gt;= 6" ; Times: 2
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "recordedby:mirza year &gt;= 1971 year &lt;= 1971 month &gt;= 3 month &lt;= 3 startdayofyear &gt;= 65 startdayofyear &lt;= 65 enddayofyear &gt;= 65 enddayofyear &lt;= 65 institutioncode:BPBM" ; Times: 1
+	Query: "slow loris" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1966 year &lt;= 1966 month &gt;= 5 month &lt;= 5 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "Gekko chinensis mappable:1" ; Times: 2
+	Query: "anemone" ; Times: 1
+	Query: "recordedby:chinyayong institutioncode:BPBM" ; Times: 2
+	Query: "goram" ; Times: 1
+	Query: "hawaii lizard" ; Times: 1
+	Query: "class:aves recordedby:A.B.Mirza year &gt;= 1975 year &lt;= 1975 month &gt;= 5 month &lt;= 5 startdayofyear &gt;= 19" ; Times: 1
+	Query: "recordedby:temple year &gt;= 1963 year &lt;= 1963 month &gt;= 6 month &lt;= 6 startdayofyear &gt;= 10" ; Times: 1
+	Query: "Sistrurus catenatus; Ohio" ; Times: 1
+	Query: "11235" ; Times: 1
+	Query: "recordedby:stusak year &gt;= 1965 year &lt;= 1965 month &gt;= 9 month &lt;= 9 institutioncode:BPBM" ; Times: 1
+	Query: "black-bellied whistling duck" ; Times: 1
+	Query: "BPBM 7528" ; Times: 1
+	Query: "genus:terpsiphone country:&#34;korea&#34;" ; Times: 2
+	Query: "Emoia obscura BPBM 19566" ; Times: 1
+	Query: "recordedby:colman year &gt;= 1968 year &lt;= 1968 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 1" ; Times: 1
+	Query: "Wilder AND Island NOT Fish" ; Times: 1
+	Query: "Sphenomorphus darlingtoni bpbm" ; Times: 1
+	Query: "specificepithet:albiventer genus:nyctimene institutioncode:BPBM" ; Times: 1
+	Query: "family:typhlopidae year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1967 year &lt;= 1967 month &gt;= 5 month &lt;= 5 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:pinon genus:Ducula" ; Times: 1
+	Query: "recordedby:songprakob year &gt;= 1964 year &lt;= 1964 month &gt;= 4 month &lt;= 4 institutioncode:BPBM" ; Times: 1
+	Query: "156150" ; Times: 1
+	Query: "specificepithet:sanguinea genus:Himatione hastissue:1" ; Times: 2
+	Query: "Manucodia" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "Ohio Sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "zaglossus" ; Times: 1
+	Query: "recordedby:wilkes year &gt;= 1966 year &lt;= 1966 month &gt;= 8 month &lt;= 8 startdayofyear &gt;= 224 enddayofyear &gt;= 224 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:n.wilson year &gt;= 1968 year &lt;= 1968 month &gt;= 10 month &lt;= 10 startdayofyear &gt;= 17" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+	Query: "145380" ; Times: 1
+	Query: "Dalat genus:occidozyga" ; Times: 2
+	Query: "recordedby:engilis year &gt;= 1985 year &lt;= 1985 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 6" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Centropus" ; Times: 1
+	Query: "recordedby:lippert year &gt;= 1966 year &lt;= 1966 month &gt;= 4 month &lt;= 4 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:coqui stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "recordedby:wilkes year &gt;= 1966 year &lt;= 1966 month &gt;= 3 month &lt;= 3 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Honolulu&#34; stateprovince:&#34;hawaii&#34; hastissue:1" ; Times: 1
+	Query: "recordedby:A.B.Mirza" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "specificepithet:lima genus:occidozyga country:&#34;indonesia&#34;" ; Times: 2
+	Query: "Carlia aramia BPBM" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1966 year &lt;= 1966 month &gt;= 3 month &lt;= 3 startdayofyear &gt;= 21" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;hawaii&#34; year &lt;= 1998" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1966 year &lt;= 1966 month &gt;= 4 month &lt;= 4 institutioncode:BPBM" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "35899" ; Times: 1
+	Query: "callulops doriae" ; Times: 2
+	Query: "Zonerodius heliosylus" ; Times: 3
+	Query: "genus:Liopeltis hastissue:1" ; Times: 1
+	Query: "pini" ; Times: 1
+	Query: "BPBM 16404" ; Times: 1
+	Query: "pteropus neohibernicus" ; Times: 1
+	Query: "flavicauda" ; Times: 1
+	Query: "175723" ; Times: 1
+	Query: "recordedby:clissold year &gt;= 1963 year &lt;= 1963 month &gt;= 4 month &lt;= 4 institutioncode:BPBM" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "161314" ; Times: 1
+	Query: "specificepithet:marchei genus:Anthracoceros" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1963 year &lt;= 1963 month &gt;= 5 month &lt;= 5 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "182650" ; Times: 1
+	Query: "recordedby:maa year &gt;= 1968 year &lt;= 1968 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 1" ; Times: 1
+	Query: "genus:Casuarius" ; Times: 2
+	Query: "21264" ; Times: 2
+	Query: "eugongylus rufescens bpbm" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "recordedby:songprakob year &gt;= 1964 year &lt;= 1964 month &gt;= 1 month &lt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "recordedby:shanahan year &gt;= 1965 year &lt;= 1965 month &gt;= 1 month &lt;= 1 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:wilkes year &gt;= 1966 year &lt;= 1966 month &gt;= 8 month &lt;= 8 startdayofyear &gt;= 12" ; Times: 2
+	Query: "class:aves recordedby:A.B.Mirza year &gt;= 1974 year &lt;= 1974 month &gt;= 2 month &lt;= 2 startdayofyear &gt;= 1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;=2000" ; Times: 1
+	Query: "&#34;leslie salt&#34;" ; Times: 1
+	Query: "LUK" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;hawaii&#34;" ; Times: 2
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 2
+	Query: "specificepithet:braminus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "solanum" ; Times: 1
+	Query: "recordedby:clissold year &gt;= 1963 year &lt;= 1963 month &gt;= 5 month &lt;= 5 institutioncode:BPBM" ; Times: 1
+	Query: "parapriacanthus dispar" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "specificepithet:aspera genus:Phrynoidis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Philautus parvulus" ; Times: 4
+	Query: "catalognumber:1570 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:discurus genus:prioniturus" ; Times: 1
+	Query: "recordedby:lippert year &gt;= 1966 year &lt;= 1966 month &gt;= 7 month &lt;= 7 institutioncode:BPBM" ; Times: 2
+	Query: "recordedby:kondo year &gt;= 1966 year &lt;= 1966 month &gt;= 8 month &lt;= 8 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1965 year &lt;= 1965 month &gt;= 8 month &lt;= 8 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:green year &gt;= 1977 year &lt;= 1977 month &gt;= 9 month &lt;= 9 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "manta ray" ; Times: 1
+	Query: "recordedby:wilkes year &gt;= 1966 year &lt;= 1966 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "class:aves recordedby:A.B.Mirza year &gt;= 1973 year &lt;= 1973 month &gt;= 8 month &lt;= 8 startdayofyear &gt;= 29" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "Pinus patula mappable:1" ; Times: 1
+	Query: "specificepithet:busuangensis genus:Barbourula institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Dendrelaphis punctulatus mappable:1" ; Times: 1
+	Query: "Feline" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "Porphyrio vanuatu" ; Times: 1
+	Query: "recordedby:shanahan year &gt;= 1964 year &lt;= 1964 month &gt;= 11 month &lt;= 11 startdayofyear &gt;= 1 institutioncode:BPBM" ; Times: 1
+	Query: "(paramacrodon) hastissue:1" ; Times: 1
+	Query: "family:typhlopidae AND (NOT braminus) year &gt;= 1990 hastissue:1" ; Times: 2
+	Query: "black brant" ; Times: 1
+	Query: "recordedby:h.clissold year &gt;= 1962 year &lt;= 1962 month &gt;= 12 month &lt;= 12 startdayofyear &gt;= 10" ; Times: 1
+	Query: "recordedby:sedlacek year &gt;= 1961 year &lt;= 1961 month &gt;= 6 month &lt;= 6 institutioncode:BPBM" ; Times: 1
+	Query: "30030 class:Mammalia" ; Times: 1
+	Query: "specificepithet:coqui stateprovince:&#34;hawaii&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "recordedby:songprakob year &gt;= 1964 year &lt;= 1964 month &gt;= 2 month &lt;= 2 institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:songprakob year &gt;= 1963 year &lt;= 1963 month &gt;= 6 month &lt;= 6 institutioncode:BPBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1263 download events in this period)
+Total number of records downloaded: 5588
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 12
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 42
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-12 ; Times: 4
+	Date: 2019-04-11 ; Times: 4
+	Date: 2019-04-10 ; Times: 5
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-02 ; Times: 13
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-22 ; Times: 11
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-21 ; Times: 5
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 5
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Centropus" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "akialoa" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "genus:Pachydactylus" ; Times: 1
+	Query: "specificepithet:lilianae genus:agapornis" ; Times: 1
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:coqui stateprovince:&#34;hawaii&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:marchei genus:Anthracoceros" ; Times: 1
+	Query: "phelsuma hawaii" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:BPBM" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "Lophognathus temporalis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "family:Hylidae hastissue:1" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "anolis carolinensis hawaii" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "class:Actinopterygii" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "specificepithet:merulinus" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Philautus parvulus" ; Times: 5
+	Query: "genus:iguana stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:coqui stateprovince:&#34;hawaii&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:montanus genus:prioniturus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Actinopterygii" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 1
+	Query: "anolis sagrei hawaii" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:coqui stateprovince:&#34;hawaii&#34; year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Arizona" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:discurus genus:prioniturus" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+	Query: "specificepithet:braminus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+
+
+End of report.
