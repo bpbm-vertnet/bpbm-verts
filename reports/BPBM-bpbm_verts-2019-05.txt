@@ -1,0 +1,532 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 566
+Number of records retrieved in searches: 5834
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 10
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Micronesia ; Times: 16
+	Country: France ; Times: 153
+	Country: Slovakia ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: Australia ; Times: 14
+	Country: Singapore ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 15
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 14
+	Country: Finland ; Times: 8
+	Country: United States ; Times: 191
+	Country: New Zealand ; Times: 89
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Malaysia ; Times: 5
+	Country: China ; Times: 1
+	Country: Greece ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-31 ; Times: 22
+	Date: 2019-05-09 ; Times: 36
+	Date: 2019-05-08 ; Times: 14
+	Date: 2019-05-07 ; Times: 21
+	Date: 2019-05-06 ; Times: 109
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-02 ; Times: 23
+	Date: 2019-05-01 ; Times: 22
+	Date: 2019-05-25 ; Times: 60
+	Date: 2019-05-24 ; Times: 15
+	Date: 2019-05-27 ; Times: 22
+	Date: 2019-05-26 ; Times: 40
+	Date: 2019-05-21 ; Times: 7
+	Date: 2019-05-20 ; Times: 13
+	Date: 2019-05-23 ; Times: 28
+	Date: 2019-05-22 ; Times: 35
+	Date: 2019-05-29 ; Times: 15
+	Date: 2019-05-28 ; Times: 10
+	Date: 2019-05-19 ; Times: 3
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-11 ; Times: 11
+	Date: 2019-05-12 ; Times: 7
+	Date: 2019-05-13 ; Times: 5
+	Date: 2019-05-14 ; Times: 10
+	Date: 2019-05-15 ; Times: 18
+	Date: 2019-05-16 ; Times: 5
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:rostratum genus:trichastoma" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 1
+	Query: "af 388." ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 3
+	Query: "acanthophis new guinea" ; Times: 1
+	Query: "specificepithet:braminus genus:Ramphotyphlops country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "specificepithet:glandulosa genus:Hylarana institutioncode:BPBM" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 16
+	Query: "vntype:specimen specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "Mustelus mosis" ; Times: 1
+	Query: "155228" ; Times: 1
+	Query: "specificepithet:magnum genus:malacopteron" ; Times: 1
+	Query: "Negaprion acutidens" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "specificepithet:versicolor genus:Calotes country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "specificepithet:cinereum genus:malacopteron" ; Times: 1
+	Query: "Mustelus griseus" ; Times: 1
+	Query: "Gymnura poecilura" ; Times: 1
+	Query: "Mustelus manazo" ; Times: 1
+	Query: "Platyrhina sinensis" ; Times: 1
+	Query: "scarus rubroviolaceus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 3
+	Query: "tokay gecko" ; Times: 2
+	Query: "manta birostris" ; Times: 1
+	Query: "catalognumber:182006" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 1
+	Query: "Squalus blainville" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:BPBM" ; Times: 1
+	Query: "California moray" ; Times: 1
+	Query: "Macau class:amphibia" ; Times: 2
+	Query: "specificepithet:lateralis genus:Pelophylax institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Carcharhinus sorrah" ; Times: 1
+	Query: "Casuarius casuarius year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Limnonectes hascheanus" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Apristurus manis" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "drepanis pacifica" ; Times: 1
+	Query: "Carcharhinus amboinensis" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Pyrrhula" ; Times: 1
+	Query: "Chiloscyllium hasseltii" ; Times: 1
+	Query: "gekko smithii" ; Times: 2
+	Query: "Red panda" ; Times: 1
+	Query: "specificepithet:rudicollis genus:Varanus" ; Times: 3
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "catalognumber:5396 institutioncode:BPBM" ; Times: 1
+	Query: "Aphantophryne pansa institutioncode:BPBM" ; Times: 2
+	Query: "specificepithet:impar genus:Emoia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Centrophorus tessellatus" ; Times: 1
+	Query: "Carcharhinus amblyrhynchos" ; Times: 1
+	Query: "Apristurus macrorhynchus" ; Times: 1
+	Query: "Litoria leucova institutioncode:BPBM" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Carcharhinus galapagensis" ; Times: 1
+	Query: "specificepithet:prasinus genus:Varanus institutioncode:BPBM" ; Times: 1
+	Query: "Austrochaperina palmipes institutioncode:BPBM" ; Times: 1
+	Query: "Scoliodon laticaudus" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "specificepithet:prasinus genus:Varanus hastissue:1" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 14
+	Query: "specificepithet:catesbeiana genus:Rana stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "specificepithet:temporalis genus:Lophognathus country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "Hexatrygon bickelli" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "Leiothrix lutea year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Cophixalus balbus institutioncode:BPBM" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 1
+	Query: "175723" ; Times: 3
+	Query: "catalognumber:147730" ; Times: 1
+	Query: "Etmopterus lucifer" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 1
+	Query: "Rattus everetti" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "Upeneus pori" ; Times: 2
+	Query: "Anolis carolinensis institutioncode:BPBM" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "class:Aves catalognumber:53947" ; Times: 1
+	Query: "capricornis" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 2
+	Query: "Himantura uarnak" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "Sparisoma atomarium mappable:1" ; Times: 3
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Urogymnus asperrimus" ; Times: 1
+	Query: "Barygenys flavigularis institutioncode:BPBM" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Rhinobatos schlegelii" ; Times: 1
+	Query: "khao yai family:Ranidae country:&#34;thailand&#34;" ; Times: 1
+	Query: "naja indonesia" ; Times: 1
+	Query: "151419" ; Times: 1
+	Query: "genus:Hemidactylus locality:Perry country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Cephaloscyllium fasciatum" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "Platymantis papuensis institutioncode:BPBM" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "Megacrex inepta" ; Times: 7
+	Query: "specificepithet:jimiensis genus:Rana institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "17485" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Liophryne rhododactyla institutioncode:BPBM" ; Times: 1
+	Query: "Etmopterus baxteri" ; Times: 1
+	Query: "specificepithet:ornata genus:chrysopelea hastypestatus:1" ; Times: 1
+	Query: "class:Aves catalognumber:54039" ; Times: 2
+	Query: "Raja rhina" ; Times: 1
+	Query: "Leptocoma aspasia year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "specificepithet:foricula genus:Nyctimystes institutioncode:BPBM" ; Times: 1
+	Query: "Chiloscyllium plagiosum" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Cophixalus cheesmanae" ; Times: 1
+	Query: "isfossil:1" ; Times: 1
+	Query: "Aegotheles bennettii year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Rhizoprionodon oligolinx" ; Times: 1
+	Query: "specificepithet:rostratum genus:trichastoma" ; Times: 1
+	Query: "specificepithet:smaragdina genus:Lamprolepis country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34; institutioncode:BPBM" ; Times: 1
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "Chiloscyllium arabicum" ; Times: 1
+	Query: "institutioncode:BPBM" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 2
+	Query: "Emoia arnoensis" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "class:Aves catalognumber:54083" ; Times: 2
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 1
+	Query: "specificepithet:magnater genus:Miniopterus hastissue:1" ; Times: 1
+	Query: "Anolis sagrei institutioncode:BPBM" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:diadophis hastypestatus:1" ; Times: 3
+	Query: "Litoria havina institutioncode:BPBM" ; Times: 1
+	Query: "Taeniura lymma" ; Times: 1
+	Query: "genus:myzomela AND (NOT Australia NOT Solomon NOT Papua) year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:brachypus genus:Oreophryne institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:schlaginhaufeni genus:Liophryne institutioncode:BPBM" ; Times: 1
+	Query: "murexia longicaudata" ; Times: 6
+	Query: "Cryptoblepharus poecilopleurus" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "specificepithet:rattus genus:Rattus stateprovince:&#34;Hawaii&#34; hastissue:1" ; Times: 1
+	Query: "Chaenogaleus macrostoma" ; Times: 1
+	Query: "specificepithet:havina genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "slow loris" ; Times: 1
+	Query: "specificepithet:thomsoni genus:Genyophryne institutioncode:BPBM" ; Times: 1
+	Query: "tokay" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 11
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 3
+	Query: "Amolops larutensis" ; Times: 1
+	Query: "Phelsuma laticauda institutioncode:BPBM" ; Times: 1
+	Query: "macau" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34; year &gt;= 1700 year &lt;= 1940" ; Times: 1
+	Query: "Centroscyllium nigrum" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Barygenys exsul institutioncode:BPBM" ; Times: 1
+	Query: "Chiloscyllium griseum" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "rudicollis" ; Times: 1
+	Query: "Stomias affinis mappable:1" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Dysmorodrepanis munroi" ; Times: 2
+	Query: "country:&#34;Malaysia&#34; (hascheanus)" ; Times: 4
+	Query: "khao-yai family:Ranidae country:&#34;thailand&#34;" ; Times: 1
+	Query: "Hemigaleus microstoma" ; Times: 1
+	Query: "Narke dipterygia" ; Times: 1
+	Query: "Erythrura trichroa" ; Times: 2
+	Query: "31934" ; Times: 1
+	Query: "centrophorus granulosus" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "specificepithet:wollastoni genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "humeRana miopus institutioncode:BPBM" ; Times: 1
+	Query: "xanthonota" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "specificepithet:eurydactylus genus:Callulops institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "af 388" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 1
+	Query: "Megachasma pelagios" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "Pericrocotus miniatus" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 2
+	Query: "Marbled murrelet" ; Times: 6
+	Query: "(Gizo OR Ghizo)" ; Times: 1
+	Query: "MUR 15" ; Times: 1
+	Query: "miniopterus magnater" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "Pastinachus sephen" ; Times: 1
+	Query: "bothrochilus hastissue:1" ; Times: 3
+	Query: "Brachytarsophrys carinense institutioncode:BPBM" ; Times: 2
+	Query: "Contributions in Science" ; Times: 1
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "specificepithet:pacifica genus:drepanis" ; Times: 5
+	Query: "Rhinobatos punctifer" ; Times: 1
+	Query: "Litoria kumae institutioncode:BPBM" ; Times: 1
+	Query: "usnm 32855" ; Times: 2
+	Query: "specificepithet:lima genus:occidozyga country:&#34;indonesia&#34;" ; Times: 2
+	Query: "nectarinia aspasia year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "Orectolobus japonicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:smithii genus:Gekko hastissue:1" ; Times: 1
+	Query: "specificepithet:smaragdina country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 20
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "Centrobranchus choerocephalus" ; Times: 1
+	Query: "Amolops marmoratus" ; Times: 2
+	Query: "Triaenodon obesus" ; Times: 1
+	Query: "Sea turtle skeleton" ; Times: 1
+	Query: "Oahu vntype:specimen genus:Chasiempis" ; Times: 2
+	Query: "specificepithet:frenatus genus:Hemidactylus class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 2
+	Query: "Litoria majikthise institutioncode:BPBM" ; Times: 2
+	Query: "Leucaena leucocephala" ; Times: 1
+	Query: "Doryrhamphus negrosensis" ; Times: 1
+	Query: "Aetomylaeus nichofii" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "genus:odorrana country:&#34;thailand&#34;" ; Times: 1
+	Query: "specificepithet:noctua genus:Lipinia class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Metaphrynella pollicaris institutioncode:BPBM" ; Times: 2
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "hexatrygon" ; Times: 1
+	Query: "beach mice" ; Times: 1
+	Query: "Ara ararauna" ; Times: 3
+	Query: "class:Aves catalognumber:53962" ; Times: 1
+	Query: "specificepithet:magnirostre genus:malacopteron" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "genus:sciurus county:&#34;santa clara&#34;" ; Times: 1
+	Query: "platymantis schmidti hastissue:1" ; Times: 4
+	Query: "Acroteriobatus salalah" ; Times: 1
+	Query: "specificepithet:braminus country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Florida scrub-jay" ; Times: 14
+	Query: "Phaethon lepturus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Gigas" ; Times: 3
+	Query: "Coryphaena equiselis mappable:1" ; Times: 1
+	Query: "Etmopterus pusillus" ; Times: 2
+	Query: "class:Aves catalognumber:54167" ; Times: 1
+	Query: "Iago omanensis" ; Times: 1
+	Query: "common chuckwalla" ; Times: 2
+	Query: "specificepithet:livida genus:rana" ; Times: 1
+	Query: "Rhynchobatus djiddensis" ; Times: 1
+	Query: "Murexia naso" ; Times: 3
+	Query: "Heterodontus galeatus" ; Times: 1
+	Query: "Liophryne dentata institutioncode:BPBM" ; Times: 2
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 1
+	Query: "specificepithet:guentheri genus:Rana institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "specificepithet:oxycephala genus:Xenorhina institutioncode:BPBM" ; Times: 1
+	Query: "Pseudotriakis microdon" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 1
+	Query: "Spheniscus humboldt" ; Times: 3
+	Query: "specificepithet:plateni genus:Prionochilus" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "specificepithet:rattus genus:Rattus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 1
+	Query: "genus:Mobula" ; Times: 1
+	Query: "14580" ; Times: 1
+	Query: "Nomeus gronovii mappable:1" ; Times: 1
+	Query: "genus:Austrochaperina specificepithet:palmipes" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 10
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "spheniscus humboldti" ; Times: 1
+	Query: "Halichoeres cyanocephalus mappable:1" ; Times: 11
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Ansonia penangensis institutioncode:BPBM" ; Times: 2
+	Query: "Exocoetus volitans mappable:1" ; Times: 1
+	Query: "Cophixalus sphagnicola institutioncode:BPBM" ; Times: 1
+	Query: "genus:Akialoa" ; Times: 1
+	Query: "specificepithet:xanthopygius genus:Prionochilus" ; Times: 1
+	Query: "Coryphaena hippurus mappable:1" ; Times: 1
+	Query: "specificepithet:reinwardtii genus:Rhacophorus institutioncode:BPBM" ; Times: 1
+	Query: "Hemignathus lucidus" ; Times: 1
+	Query: "Narcine maculata" ; Times: 1
+	Query: "Tetragonurus" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "Cophixalus balbus" ; Times: 1
+	Query: "Plesiobatis daviesi" ; Times: 1
+	Query: "Agapornis roseicollis year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "catalognumber:6692 year &gt;= 1960 year &lt;= 1960 institutioncode:BPBM" ; Times: 1
+	Query: "gbifdatasetid:b929f23d-290f-4e85-8f17-764c55b3b284" ; Times: 1
+	Query: "Xenorhina bouwensi institutioncode:BPBM" ; Times: 2
+	Query: "specificepithet:obscurus genus:hemignathus" ; Times: 5
+	Query: "Etmopterus bigelowi" ; Times: 1
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "platymantis schmidti" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Euprotomicrus bispinatus" ; Times: 1
+	Query: "Atelomycterus marmoratus" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "specificepithet:bicolor genus:trichastoma" ; Times: 1
+	Query: "Probosciger aterrimus year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "specificepithet:griseus genus:sciurus county:&#34;santa clara&#34;" ; Times: 1
+	Query: "Mantophryne lateralis institutioncode:BPBM" ; Times: 1
+	Query: "amnh 1342" ; Times: 1
+	Query: "murexia naso" ; Times: 1
+	Query: "Chascanopsetta" ; Times: 3
+	Query: "fresno kangaroo rat" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 1
+	Query: "specificepithet:inornata genus:Micryletta institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:temporalis class:Reptilia (Indonesia OR Papua)" ; Times: 2
+	Query: "Trigonognathus kabeyai" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:153228" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "Humerana miopus institutioncode:BPBM" ; Times: 1
+	Query: "22839 hastissue:1" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Hawaii&#34; year &lt;= 1998" ; Times: 1
+	Query: "Raja africana" ; Times: 1
+	Query: "Trichoglossus haematodus hastissue:1" ; Times: 2
+	Query: "dussumieri Seychelles" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "genus:Manta" ; Times: 3
+	Query: "Crossorhombus howensis" ; Times: 1
+	Query: "Phalaropus fulicarius mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 2
+	Query: "Sula dactylatra year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 1
+	Query: "Pycnonotus jocosus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:bicolor genus:trichastoma" ; Times: 1
+	Query: "Bornean Bristlehead" ; Times: 1
+	Query: "Loxodon macrorhinus" ; Times: 1
+	Query: "specificepithet:exophthalmia genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 2
+	Query: "Microhyla palmipes institutioncode:BPBM" ; Times: 2
+	Query: "Melichthys niger mappable:1" ; Times: 20
+	Query: "Hylarana glandulosa institutioncode:BPBM" ; Times: 1
+	Query: "phelsuma grandis" ; Times: 2
+	Query: "genus:occidozyga country:&#34;singapore&#34;" ; Times: 1
+	Query: "Cairina moschata year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "Carcharhinus albimarginatus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 940 download events in this period)
+Total number of records downloaded: 870
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 21
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Slovakia ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Switzerland ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 6
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 9
+	Date: 2019-05-02 ; Times: 3
+	Date: 2019-05-07 ; Times: 6
+	Date: 2019-05-01 ; Times: 3
+	Date: 2019-05-09 ; Times: 7
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 16
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-06 ; Times: 4
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "Amolops marmoratus" ; Times: 3
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "Pygoscelis adeliae" ; Times: 2
+	Query: "vntype:specimen specificepithet:rostratum genus:trichastoma" ; Times: 1
+	Query: "specificepithet:cinereum genus:malacopteron" ; Times: 1
+	Query: "specificepithet:xanthopygius genus:Prionochilus" ; Times: 1
+	Query: "Oahu vntype:specimen genus:Chasiempis" ; Times: 1
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "scarus ghobban" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "Picumnus innominatus" ; Times: 2
+	Query: "&#34;Ophiophagus hannah&#34;" ; Times: 2
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "specificepithet:maculatus genus:Prionochilus" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 1
+	Query: "Spheniscus humboldt" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Pyrrhula" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:trichastoma" ; Times: 1
+	Query: "specificepithet:plateni genus:Prionochilus" ; Times: 2
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "&#34;Bungarus&#34;" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "specificepithet:magnum genus:malacopteron" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "Lestoros inca" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "vntype:specimen genus:pitta" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "genus:Ambystoma hastypestatus:1" ; Times: 1
+	Query: "specificepithet:affine genus:malacopteron" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:BPBM" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "specificepithet:rostratum genus:trichastoma" ; Times: 1
+	Query: "ramphastos sulfuratus" ; Times: 2
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "family:Phyllodactylidae" ; Times: 1
+	Query: "centrophorus granulosus" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "specificepithet:magnirostre genus:malacopteron" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "vntype:specimen genus:eos" ; Times: 1
+	Query: "specificepithet:bicolor genus:trichastoma" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "sauromalus AND CA" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "vntype:specimen specificepithet:porphyrio genus:porphyrio" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Amolops larutensis" ; Times: 2
+	Query: "scarus rubroviolaceus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+
+
+End of report.
