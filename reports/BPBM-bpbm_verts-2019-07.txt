@@ -1,0 +1,594 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 620
+Number of records retrieved in searches: 7137
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: Brazil ; Times: 21
+	Country: Unknown ; Times: 41
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 8
+	Country: Democratic Republic of the Congo ; Times: 1
+	Country: Slovakia ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 10
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Benin ; Times: 2
+	Country: Australia ; Times: 27
+	Country: Singapore ; Times: 5
+	Country: Germany ; Times: 22
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 1
+	Country: Hong Kong ; Times: 4
+	Country: Denmark ; Times: 3
+	Country: Philippines ; Times: 30
+	Country: United States ; Times: 353
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 41
+	Country: Colombia ; Times: 6
+	Country: Kenya ; Times: 1
+	Country: Macao ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 32
+	Date: 2019-07-18 ; Times: 10
+	Date: 2019-07-19 ; Times: 59
+	Date: 2019-07-08 ; Times: 78
+	Date: 2019-07-12 ; Times: 11
+	Date: 2019-07-13 ; Times: 4
+	Date: 2019-07-10 ; Times: 19
+	Date: 2019-07-11 ; Times: 6
+	Date: 2019-07-16 ; Times: 19
+	Date: 2019-07-17 ; Times: 23
+	Date: 2019-07-14 ; Times: 10
+	Date: 2019-07-15 ; Times: 27
+	Date: 2019-07-02 ; Times: 45
+	Date: 2019-07-03 ; Times: 17
+	Date: 2019-07-23 ; Times: 9
+	Date: 2019-07-22 ; Times: 21
+	Date: 2019-07-21 ; Times: 8
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-27 ; Times: 4
+	Date: 2019-07-26 ; Times: 6
+	Date: 2019-07-25 ; Times: 25
+	Date: 2019-07-24 ; Times: 6
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-30 ; Times: 32
+	Date: 2019-07-29 ; Times: 16
+	Date: 2019-07-28 ; Times: 14
+	Date: 2019-07-05 ; Times: 12
+	Date: 2019-07-04 ; Times: 23
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-06 ; Times: 18
+	Date: 2019-07-31 ; Times: 59
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus newelli" ; Times: 2
+	Query: "Pachycephala bougainville" ; Times: 1
+	Query: "Aratinga aurea mappable:1" ; Times: 1
+	Query: "genus:Exallias specificepithet:brevis" ; Times: 1
+	Query: "Ophisaurus sokolovi" ; Times: 3
+	Query: "(Phrynoidis) hastissue:1" ; Times: 1
+	Query: "Rhipidura cockerelli guadalcanal" ; Times: 1
+	Query: "catalognumber:149386" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "vntype:specimen genus:Gygis hastissue:1" ; Times: 1
+	Query: "peces" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:coqui" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "genus:Vini specificepithet:australis" ; Times: 1
+	Query: "order:gymnophiona country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "Rabor 1975 country:&#34;Philippines&#34;" ; Times: 5
+	Query: "Chalcopsitta cardinalis" ; Times: 1
+	Query: "Rabor 1982 country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Todiramphus leucopygius Choiseul" ; Times: 2
+	Query: "genus:Macropus specificepithet:wilcoxi" ; Times: 1
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:lobeli" ; Times: 1
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 5
+	Query: "petroica traversi" ; Times: 1
+	Query: "Sturnia sinensis" ; Times: 2
+	Query: "Gehyra oceanica vntype:specimen (saipan)" ; Times: 2
+	Query: "genus:Dasyatis specificepithet:zugei" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "mountain plover" ; Times: 1
+	Query: "genus:Crocodylus mappable:1" ; Times: 1
+	Query: "Micropsitta pusio" ; Times: 1
+	Query: "ophichthus altipennis" ; Times: 1
+	Query: "tioman class:reptilia country:&#34;malaysia&#34;" ; Times: 1
+	Query: "F-29240" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 5
+	Query: "Micropsitta bruijnii" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 2
+	Query: "Tropidophorus berdmorei" ; Times: 10
+	Query: "genus:Polypedates specificepithet:macrotis" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "Pterodroma phaeopygia" ; Times: 1
+	Query: "Oceanodroma tristrami" ; Times: 4
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "Prasinohaema virens" ; Times: 3
+	Query: "Boa constrictor mappable:1" ; Times: 2
+	Query: "platymantis boulengeri" ; Times: 2
+	Query: "Sterna antillarum mappable:1" ; Times: 1
+	Query: "23148" ; Times: 2
+	Query: "gekko smithii" ; Times: 7
+	Query: "Rabor Zamboanga" ; Times: 7
+	Query: "porzana atra" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "Emoia atrocostata vntype:specimen (tinian)" ; Times: 1
+	Query: "specificepithet:Forbesi class:Aves" ; Times: 1
+	Query: "99109" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 1
+	Query: "genus:Paedophryne specificepithet:swiftorum" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 2
+	Query: "Notiomystis cincta" ; Times: 1
+	Query: "Poicephalus senegalus" ; Times: 1
+	Query: "Rhipidura cockerelli bougainville" ; Times: 1
+	Query: "(Ansonia) hastissue:1" ; Times: 2
+	Query: "zosterops bougainville" ; Times: 1
+	Query: "genus:Bothrochilus specificepithet:boa" ; Times: 1
+	Query: "coracina tenuirostris" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "red-whiskered bulbul" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "specificepithet:stoliczkae" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "genus:liopeltis country:&#34;malaysia&#34;" ; Times: 7
+	Query: "Hemidactylus frenatus vntype:specimen (saipan)" ; Times: 2
+	Query: "Emoia atrocostata vntype:specimen (saipan)" ; Times: 1
+	Query: "Gehyra oceanica vntype:specimen (guam)" ; Times: 2
+	Query: "Ducula rubricera" ; Times: 1
+	Query: "Archboldia papuensis" ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "vntype:specimen genus:Rhagologus hastissue:1" ; Times: 1
+	Query: "pterois radiata" ; Times: 1
+	Query: "snake country:&#34;singapore&#34;" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "Lepidodactylus lugubris vntype:specimen (guam)" ; Times: 4
+	Query: "genus:Pogonomys" ; Times: 1
+	Query: "Hooded Pitta" ; Times: 3
+	Query: "Alisterus chloropterus" ; Times: 1
+	Query: "Podocnemis unifilis mappable:1" ; Times: 2
+	Query: "Ansonia muelleri hastissue:1" ; Times: 1
+	Query: "(Pseudobufo) hastissue:1" ; Times: 1
+	Query: "cantoria violacea" ; Times: 1
+	Query: "leucopygius guadalcanal" ; Times: 1
+	Query: "ansonia penangensis" ; Times: 1
+	Query: "Aplonis grandis choiseul" ; Times: 1
+	Query: "Lipinia noctua Palau" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "Coracina lineata guadalcanal" ; Times: 1
+	Query: "genus:hydrophis country:&#34;thailand&#34;" ; Times: 1
+	Query: "Chalcopsitta cardinalis choiseul" ; Times: 1
+	Query: "genus:Hipposideros hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Todiramphus class:Aves country:&#34;Indonesia&#34; preparations:skin" ; Times: 1
+	Query: "genus:Antennarius specificepithet:commerson" ; Times: 1
+	Query: "class:Reptilia locality:Aniyaanii country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Myophonus glaucinus vntype:specimen" ; Times: 1
+	Query: "Lama" ; Times: 1
+	Query: "Rabor Gonzales country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Paramythia montium" ; Times: 1
+	Query: "specificepithet:arnoensis genus:Emoia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Petroica traversi" ; Times: 2
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "ptilinopus viridis guadalcanal" ; Times: 1
+	Query: "Ducula rubricera Guadalcanal" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys preparations:alcoholic" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "(Pelophryne) hastissue:1" ; Times: 2
+	Query: "Aerodramus papuensis" ; Times: 2
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 5
+	Query: "pterodroma cervicalis" ; Times: 2
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 1
+	Query: "genus:Chelus" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos" ; Times: 2
+	Query: "specificepithet:ichthyaetus class:Aves" ; Times: 2
+	Query: "Parupeneus macronemus" ; Times: 1
+	Query: "genus:Nandayus specificepithet:nenday" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 1
+	Query: "xenelaphis" ; Times: 1
+	Query: "genus:Paedophryne specificepithet:dekot" ; Times: 1
+	Query: "myadestes palmeri" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 2
+	Query: "Amazona albifrons mappable:1" ; Times: 1
+	Query: "Raja rhina" ; Times: 1
+	Query: "specificepithet:sevia genus:Abeomelomys" ; Times: 3
+	Query: "wake atoll" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "genus:Hemidactylus country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 1
+	Query: "Chasiempis sandwichensis" ; Times: 9
+	Query: "catalognumber:145415" ; Times: 1
+	Query: "Aplonis cantoroides guadalcanal" ; Times: 1
+	Query: "genus:Xenophrys specificepithet:major" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "Ramphocelus bresilius mappable:1" ; Times: 1
+	Query: "Dans country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "Tyto alba AND Island" ; Times: 1
+	Query: "Prioniturus platenae" ; Times: 1
+	Query: "oceanodroma castro" ; Times: 2
+	Query: "laucala" ; Times: 2
+	Query: "barbatus choiseul" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "Chalcopsitta cardinalis Choiseul" ; Times: 1
+	Query: "Thylacinus vntype:specimen" ; Times: 3
+	Query: "Thinornis novaeseelandiae" ; Times: 1
+	Query: "Moho nobilis" ; Times: 2
+	Query: "Perkins Hawaii 1892" ; Times: 1
+	Query: "bulweria hastissue:1" ; Times: 1
+	Query: "class:reptilia locality:wake atoll" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:oceanops" ; Times: 1
+	Query: "su 4330" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 12
+	Query: "sula leucogaster" ; Times: 3
+	Query: "Rhabdophis chrysargos Palawan" ; Times: 1
+	Query: "28317" ; Times: 2
+	Query: "cantoroides malaita" ; Times: 1
+	Query: "genus:Crocodylus specificepithet:siamensis" ; Times: 1
+	Query: "genus:Lepidodactylus country:&#34;Marshall Islands&#34;" ; Times: 2
+	Query: "DSR country:&#34;Philippines&#34;" ; Times: 5
+	Query: "solanum" ; Times: 1
+	Query: "Pseudobufo subasper hastissue:1" ; Times: 1
+	Query: "genus:Pereulixia specificepithet:kosiensis" ; Times: 1
+	Query: "Myiagra ferrocyanea malaita" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "myzomela lafargei bougainville" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "genus:Ahaetulla specificepithet:nasuta" ; Times: 1
+	Query: "genus:Paedophryne specificepithet:kathismaphlox" ; Times: 1
+	Query: "Abeomelomys sevia" ; Times: 2
+	Query: "oryzias latipes" ; Times: 1
+	Query: "hydrophis klossi" ; Times: 2
+	Query: "puffinus newelli hastissue:1" ; Times: 1
+	Query: "sechellensis" ; Times: 2
+	Query: "A.31512" ; Times: 1
+	Query: "genus:Duttaphrynus specificepithet:stomaticus" ; Times: 1
+	Query: "genus:Lepidodactylus class:Reptilia locality:Enewetak country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "Mountain Plover" ; Times: 1
+	Query: "class:amphibia country:&#34;singapore&#34;" ; Times: 1
+	Query: "lipinia noctua vntype:specimen (guam)" ; Times: 1
+	Query: "Micropsitta keiensis" ; Times: 1
+	Query: "country:&#34;Philippines&#34; (Rabor Zamboanga)" ; Times: 1
+	Query: "Ducula rubricera Choiseul" ; Times: 1
+	Query: "genus:gongylosoma country:&#34;malaysia&#34;" ; Times: 2
+	Query: "genus:Petrogale specificepithet:penicillata" ; Times: 1
+	Query: "Perochirus ateles" ; Times: 1
+	Query: "sanfordi" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 3
+	Query: "CM 5906" ; Times: 2
+	Query: "Oreostruthus fuliginosus" ; Times: 5
+	Query: "genus:liopeltis institutioncode:BPBM" ; Times: 4
+	Query: "Ansonia hastissue:1" ; Times: 2
+	Query: "pituophis and melanoleucus and wake" ; Times: 1
+	Query: "genus:liopeltis class:reptilia country:&#34;malaysia&#34;" ; Times: 1
+	Query: "genus:Microeca specificepithet:papuana" ; Times: 1
+	Query: "Hemidactylus frenatus vntype:specimen (tinian)" ; Times: 3
+	Query: "Lipinia noctua sOLOMON" ; Times: 1
+	Query: "Micropsitta finschii" ; Times: 2
+	Query: "giant anteater" ; Times: 1
+	Query: "genus:eurostopodus class:aves (solomon)" ; Times: 1
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "Lepidodactylus lugubris vntype:specimen (tinian)" ; Times: 1
+	Query: "pterodroma hastissue:1" ; Times: 2
+	Query: "leucopygius isabel" ; Times: 1
+	Query: "Ducula rubricera malaita" ; Times: 1
+	Query: "nactus pelagicus vntype:specimen (tinian)" ; Times: 1
+	Query: "Aplonis grandis guadalcanal" ; Times: 1
+	Query: "Rabor country:&#34;Philippines&#34;" ; Times: 7
+	Query: "Paroaria capitata mappable:1" ; Times: 1
+	Query: "barbatus bougainville" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Charmosyna margarethae" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "rhynchobatus red sea" ; Times: 1
+	Query: "specificepithet:fallax genus:Chaetodipus preparations:alcoholic" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 7
+	Query: "leucopygius Choiseul" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "Charmosyna pulchella" ; Times: 1
+	Query: "tioman country:&#34;malaysia&#34;" ; Times: 1
+	Query: "FRLM" ; Times: 1
+	Query: "Gehyra mutilata vntype:specimen (tinian)" ; Times: 1
+	Query: "Miniopterus fuscus" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:auratus" ; Times: 1
+	Query: "Rana aurora" ; Times: 2
+	Query: "Daphoenositta miranda miranda" ; Times: 1
+	Query: "Ducula rubricera isabel" ; Times: 1
+	Query: "ptilinopus viridis choiseul" ; Times: 1
+	Query: "coracina bougainville" ; Times: 1
+	Query: "Cracticus cassicus" ; Times: 2
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "western hooded pitta" ; Times: 1
+	Query: "Lipinia rouxi" ; Times: 2
+	Query: "genus:Barbourula specificepithet:busuangensis" ; Times: 1
+	Query: "institutioncode:bpbm" ; Times: 1
+	Query: "Chalcopsitta cardinalis guadalcanal" ; Times: 1
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "genus:Boa" ; Times: 1
+	Query: "Ingerophrynus parvus hastissue:1" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "161908" ; Times: 1
+	Query: "Asterophrys" ; Times: 1
+	Query: "Rhipidura rufifrons choiseul" ; Times: 1
+	Query: "gehyra mutilata vntype:specimen (guam)" ; Times: 2
+	Query: "Ara ararauna mappable:1" ; Times: 1
+	Query: "genus:Lepidodactylus specificepithet:guppyi" ; Times: 1
+	Query: "Gehyra oceanica vntype:specimen (tinian)" ; Times: 2
+	Query: "Aplonis grandis bougainville" ; Times: 1
+	Query: "Platymantis boulengeri" ; Times: 1
+	Query: "Chalcopsitta cardinalis malaita" ; Times: 2
+	Query: "genus:Chilomycterus specificepithet:reticulatus" ; Times: 1
+	Query: "Pelophryne signata hastissue:1" ; Times: 1
+	Query: "reptilia and wake and island" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "257 AMNH Aves" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "catalognumber:19864 institutioncode:BPBM" ; Times: 2
+	Query: "perochirus ateles" ; Times: 16
+	Query: "Palehua" ; Times: 1
+	Query: "Rhipidura rufifrons isabel" ; Times: 1
+	Query: "pterois barberi" ; Times: 1
+	Query: "hydrophis brooki" ; Times: 2
+	Query: "specificepithet:arenarius genus:Chaetodipus preparations:alcoholic" ; Times: 1
+	Query: "Cacatua ducorpsii mappable:1" ; Times: 1
+	Query: "Aplonis grandis malaita" ; Times: 1
+	Query: "Aplonis metallica guadalcanal" ; Times: 1
+	Query: "todiramphus isabel" ; Times: 1
+	Query: "country:&#34;United States&#34; panthera tigris" ; Times: 1
+	Query: "28317 FISH" ; Times: 1
+	Query: "Lipinia pulchra" ; Times: 1
+	Query: "irrorata year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 1
+	Query: "specificepithet:buergersi class:Aves" ; Times: 5
+	Query: "Pomarea nigra" ; Times: 1
+	Query: "ptilinopus viridis" ; Times: 1
+	Query: "Rhipidura isabel" ; Times: 1
+	Query: "161267" ; Times: 1
+	Query: "genus:Toxorhamphus specificepithet:novaeguineae" ; Times: 1
+	Query: "genus:Choerophryne" ; Times: 1
+	Query: "Rhipidura cockerelli florida" ; Times: 2
+	Query: "Monarcha castaneiventris guadalcanal" ; Times: 1
+	Query: "chloris choiseul" ; Times: 1
+	Query: "Oceanodroma tethys" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 5
+	Query: "myzomela lafargei" ; Times: 1
+	Query: "genus:Parenchelyurus specificepithet:hepburni" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "Agapornis personatus mappable:1" ; Times: 1
+	Query: "gehyra mutilata vntype:specimen (tinian)" ; Times: 1
+	Query: "vntype:specimen genus:Anous hastissue:1" ; Times: 1
+	Query: "Rana arfaki" ; Times: 1
+	Query: "myzomela melanocephala" ; Times: 1
+	Query: "specificepithet:penicillata genus:Petrogale stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "Duttaphrynus melanostictus hastissue:1" ; Times: 3
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "genus:Gehyra country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "family:psittacidae mappable:1 year&gt;=2000 year&lt;=2001" ; Times: 1
+	Query: "Hemidactylus frenatus vntype:specimen (guam)" ; Times: 6
+	Query: "genus:Telespiza specificepithet:cantans" ; Times: 1
+	Query: "Pelophryne misera hastissue:1" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "monarcha guadalcanal" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:Periparus specificepithet:elegans" ; Times: 1
+	Query: "Vini kuhlii" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:BPBM" ; Times: 2
+	Query: "brown booby" ; Times: 6
+	Query: "Paroaria coronata mappable:1" ; Times: 1
+	Query: "genus:Pseudoscopelus" ; Times: 1
+	Query: "specificepithet:oceanica genus:Gehyra country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Coracina lineata choiseul" ; Times: 1
+	Query: "Aratinga mitrata mappable:1" ; Times: 1
+	Query: "(Pedostibes ) hastissue:1" ; Times: 1
+	Query: "class:MAMMALIA county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:BPBM" ; Times: 1
+	Query: "Vini peruviana" ; Times: 1
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "genus:Taaningichthys specificepithet:bathyphilus" ; Times: 1
+	Query: "specificepithet:frenatus genus:hemidactylus hastissue:1" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "Coracina lineata bougainville" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "Lepidodactylus lugubris vntype:specimen (rota)" ; Times: 1
+	Query: "Aplonis metallica malaita" ; Times: 1
+	Query: "pterodroma phaeopygia" ; Times: 6
+	Query: "solanum species" ; Times: 1
+	Query: "Lepidodactylus lugubris vntype:specimen (saipan)" ; Times: 1
+	Query: "vntype:specimen genus:Rhagologus" ; Times: 4
+	Query: "amnh 1342" ; Times: 2
+	Query: "Ingerophrynus quadriporcatus hastissue:1" ; Times: 1
+	Query: "genus:Stiphodon country:&#34;Federated States of Micronesia&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Casuarius hastissue:1" ; Times: 1
+	Query: "Oreopsittacus arfaki" ; Times: 2
+	Query: "Apalopteron familiare" ; Times: 3
+	Query: "Les mollusques" ; Times: 1
+	Query: "specificepithet:impar genus:Emoia class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34; catalognumber:36995 institutioncode:BPBM" ; Times: 1
+	Query: "Prasinohaema prehensicauda" ; Times: 5
+	Query: "genus:Phrynoidis specificepithet:aspera" ; Times: 1
+	Query: "Ansonia penangensis hastissue:1" ; Times: 1
+	Query: "Duttaphrynus stomaticus hastissue:1" ; Times: 1
+	Query: "Lipinia longiceps" ; Times: 3
+	Query: "Aspidontus" ; Times: 1
+	Query: "Ansonia tiomanica hastissue:1" ; Times: 1
+	Query: "genus:Phoxocampus specificepithet:belcheri" ; Times: 1
+	Query: "Leucaena leucocephala" ; Times: 1
+	Query: "Aplonis cantoroides malaita" ; Times: 1
+	Query: "gehyra mutilata vntype:specimen (saipan)" ; Times: 1
+	Query: "Psittacella brehmii" ; Times: 2
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "ficedula dumetoria" ; Times: 2
+	Query: "specificepithet:lugubris genus:Lepidodactylus country:&#34;Marshall Islands&#34;" ; Times: 2
+	Query: "Agapornis roseicollis mappable:1" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:BPBM" ; Times: 1
+	Query: "Rabor Zamboanga country:&#34;Philippines&#34;" ; Times: 2
+	Query: "cervicalis" ; Times: 1
+	Query: "Phrynoidis aspera hastissue:1" ; Times: 1
+	Query: "class:reptilia locality:wake" ; Times: 2
+	Query: "genus:Pellorneum specificepithet:ruficeps" ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Pluvialis specificepithet:dominica" ; Times: 1
+	Query: "Ducula rubricera Florida" ; Times: 1
+	Query: "Rhagologus" ; Times: 1
+	Query: "Boiga cyanea" ; Times: 1
+	Query: "Nesofregetta fuliginosa" ; Times: 2
+	Query: "genus:Pericrocotus specificepithet:cinnamomeus" ; Times: 1
+	Query: "Vini ultramarina" ; Times: 1
+	Query: "fishes" ; Times: 2
+	Query: "Aerodramus vanikorensis lugubris" ; Times: 1
+	Query: "genus:Manonichthys specificepithet:splendens" ; Times: 1
+	Query: "phelsuma grandis" ; Times: 2
+	Query: "Gehyra mutilata vntype:specimen (saipan)" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Myadestes lanaiensis" ; Times: 1
+	Query: "Numenius malaysia" ; Times: 1
+	Query: "Macroramphosidae" ; Times: 1
+	Query: "Mohoua ochrocephala" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 985 download events in this period)
+Total number of records downloaded: 2032
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 51
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 10
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 5
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 4
+	Date: 2019-07-30 ; Times: 20
+	Date: 2019-07-31 ; Times: 8
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-23 ; Times: 7
+	Date: 2019-07-08 ; Times: 4
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidodactylus lugubris vntype:specimen (saipan)" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Gehyra oceanica vntype:specimen (tinian)" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Gehyra oceanica vntype:specimen (guam)" ; Times: 1
+	Query: "Lialis jicari" ; Times: 1
+	Query: "Gehyra mutilata vntype:specimen (guam)" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Aeluroscalabotes felinus" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "class:reptilia locality:wake" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Indonesia&#34; preparations:skin" ; Times: 1
+	Query: "wake atoll" ; Times: 1
+	Query: "Lepidodactylus lugubris vntype:specimen (guam)" ; Times: 1
+	Query: "class:amphibia country:&#34;singapore&#34;" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "class:reptilia locality:wake atoll" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Lepidodactylus lugubris vntype:specimen (tinian)" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Gehyra mutilata vntype:specimen (tinian)" ; Times: 1
+	Query: "Phyllurus platurus" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "genus:Micrurus hastissue:1" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "gehyra mutilata vntype:specimen (guam)" ; Times: 1
+	Query: "specificepithet:poinsetti genus:Sceloporus" ; Times: 1
+	Query: "Chamaeleo country:&#34;United States&#34;" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "Perochirus ateles" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus" ; Times: 2
+	Query: "Porzana carolina" ; Times: 1
+	Query: "specificepithet:frenatus genus:hemidactylus hastissue:1" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "lipinia noctua vntype:specimen (guam)" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "reptilia and wake and island" ; Times: 1
+	Query: "Lepidodactylus lugubris vntype:specimen (rota)" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Gehyra mutilata vntype:specimen (saipan)" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Gehyra oceanica vntype:specimen (saipan)" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Hemidactylus frenatus vntype:specimen (tinian)" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "class:reptilia country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "bandicota bengalensis" ; Times: 1
+	Query: "Hemidactylus frenatus vntype:specimen (guam)" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Todiramphus class:Aves country:&#34;Indonesia&#34; preparations:skin" ; Times: 1
+
+
+End of report.
