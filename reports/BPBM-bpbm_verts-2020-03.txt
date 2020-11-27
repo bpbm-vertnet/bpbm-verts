@@ -1,0 +1,753 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 738
+Number of records retrieved in searches: 6299
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Venezuela ; Times: 5
+	Country: Ecuador ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 19
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Finland ; Times: 10
+	Country: Turkey ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 483
+	Country: Sweden ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 5
+	Country: Mexico ; Times: 109
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 54
+	Country: Japan ; Times: 13
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-08 ; Times: 2
+	Date: 2020-03-03 ; Times: 33
+	Date: 2020-03-30 ; Times: 7
+	Date: 2020-03-31 ; Times: 24
+	Date: 2020-03-02 ; Times: 23
+	Date: 2020-03-18 ; Times: 89
+	Date: 2020-03-19 ; Times: 21
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 26
+	Date: 2020-03-14 ; Times: 5
+	Date: 2020-03-15 ; Times: 4
+	Date: 2020-03-12 ; Times: 287
+	Date: 2020-03-13 ; Times: 7
+	Date: 2020-03-10 ; Times: 9
+	Date: 2020-03-11 ; Times: 10
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-27 ; Times: 9
+	Date: 2020-03-26 ; Times: 13
+	Date: 2020-03-25 ; Times: 10
+	Date: 2020-03-24 ; Times: 9
+	Date: 2020-03-23 ; Times: 27
+	Date: 2020-03-22 ; Times: 10
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 38
+	Date: 2020-03-05 ; Times: 6
+	Date: 2020-03-04 ; Times: 21
+	Date: 2020-03-06 ; Times: 26
+	Date: 2020-03-01 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-28 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "BBM-NG-97691" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "zosterops japonicus institutioncode:BPBM" ; Times: 2
+	Query: "35626" ; Times: 1
+	Query: "BBM-NG-100028" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "BBM-NG-99552" ; Times: 1
+	Query: "specificepithet:mcgregori genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "BBM-NG-98530" ; Times: 1
+	Query: "Nyctimene cyclotis" ; Times: 2
+	Query: "110524" ; Times: 1
+	Query: "BBM-NG-104754" ; Times: 1
+	Query: "genus:Cophixalus specificepithet:balbus" ; Times: 2
+	Query: "160951" ; Times: 1
+	Query: "country:&#34;Papua New Guinea&#34; institutioncode:BPBM" ; Times: 1
+	Query: "BBM-NG-52033" ; Times: 2
+	Query: "BBM-NG-100618" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "BBM-NG-100613" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 3
+	Query: "BBM-NG-101891" ; Times: 1
+	Query: "BBM-NG-100615" ; Times: 1
+	Query: "BBM-NG-100614" ; Times: 1
+	Query: "Scarus fuscopurpureus mappable:1" ; Times: 1
+	Query: "Nyctimene major" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "BBM-NG-105372" ; Times: 1
+	Query: "Hipposideros maggietaylorae" ; Times: 1
+	Query: "specificepithet:enca country:&#34;philippines&#34;" ; Times: 2
+	Query: "BBM-NG-97139" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "BBM-NG-100119" ; Times: 1
+	Query: "Pteropus rayneri" ; Times: 1
+	Query: "BBM-NG-55236" ; Times: 1
+	Query: "BBM-NG-103443" ; Times: 1
+	Query: "BBM-NG-103442" ; Times: 1
+	Query: "BBM-NG-53450" ; Times: 1
+	Query: "BBM-NG-52102" ; Times: 1
+	Query: "Nyctimene malaitensis" ; Times: 2
+	Query: "BBM-NG-101820" ; Times: 1
+	Query: "BBM-NG-108018" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:BPBM" ; Times: 1
+	Query: "BBM-NG-103310" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "BBM-NG-101584" ; Times: 1
+	Query: "BBM-NG-60447" ; Times: 1
+	Query: "great green macaw" ; Times: 1
+	Query: "procellariiformes american samoa" ; Times: 1
+	Query: "BBM-NG-99950" ; Times: 1
+	Query: "Pteropus mariannus" ; Times: 1
+	Query: "BBM-NG-54882" ; Times: 1
+	Query: "BBM-NG-107973" ; Times: 1
+	Query: "BBM-NG-107971" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "Clarias fuscus" ; Times: 1
+	Query: "BBM-NG-22864" ; Times: 1
+	Query: "South Sentinel" ; Times: 2
+	Query: "BBM-NG-52354" ; Times: 1
+	Query: "149025" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Melonycteris woodfordi" ; Times: 2
+	Query: "BBM-NG-103958" ; Times: 1
+	Query: "BBM-NG-109333" ; Times: 1
+	Query: "BBM-NG-102104" ; Times: 2
+	Query: "BBM-NG-100206" ; Times: 1
+	Query: "Bothrochilus boa" ; Times: 2
+	Query: "97922" ; Times: 1
+	Query: "21297" ; Times: 2
+	Query: "BBM-NG-103389" ; Times: 1
+	Query: "Pipistrellus angulatus" ; Times: 1
+	Query: "BBM-NG-98870" ; Times: 1
+	Query: "BBM-NG-100384" ; Times: 1
+	Query: "specificepithet:mcgregori genus:coracina country:&#34;PHILIPPINES&#34;" ; Times: 2
+	Query: "Biaro" ; Times: 1
+	Query: "chaseni" ; Times: 2
+	Query: "specificepithet:severus genus:falco country:&#34;philippines&#34;" ; Times: 3
+	Query: "110689" ; Times: 2
+	Query: "159573" ; Times: 1
+	Query: "BBM-NG-99510" ; Times: 1
+	Query: "Emballonura raffrayana" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "BBM-NG-105155" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 1
+	Query: "Scarus fuscocaudalis mappable:1" ; Times: 1
+	Query: "specificepithet:placens genus:Cormobates hastissue:1" ; Times: 1
+	Query: "BBM-NG-54634" ; Times: 1
+	Query: "bulweria bulweria" ; Times: 1
+	Query: "151107" ; Times: 1
+	Query: "specificepithet:Ensatus genus:Dicamptodon hastissue:1" ; Times: 3
+	Query: "BBM-NG-60466" ; Times: 1
+	Query: "BBM-NG-101998" ; Times: 1
+	Query: "BBM-NG-104899" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "BBM-NG-104894" ; Times: 1
+	Query: "159832" ; Times: 1
+	Query: "BBM-NG-98847" ; Times: 1
+	Query: "BBM-NG-98846" ; Times: 1
+	Query: "BBM-NG-97705" ; Times: 1
+	Query: "Enhydris punctata" ; Times: 6
+	Query: "Pteropus giganteus" ; Times: 1
+	Query: "BBM-NG-99581" ; Times: 1
+	Query: "BBM-NG-98110" ; Times: 2
+	Query: "BBM-NG-98503" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "Pteropus admiralitatum" ; Times: 1
+	Query: "BBM-NG-96779" ; Times: 1
+	Query: "BBM-NG-96778" ; Times: 1
+	Query: "BBM-NG-101900" ; Times: 1
+	Query: "BBM-NG-96777" ; Times: 1
+	Query: "ryukyu island" ; Times: 1
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "fire-breasted flowerpecker" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "order:rodentia country:&#34;papua new guinea&#34; institutioncode:BPBM" ; Times: 2
+	Query: "BBM-NG-100657" ; Times: 1
+	Query: "Ptenochirus minor" ; Times: 1
+	Query: "BBM-NG-97007" ; Times: 2
+	Query: "BBM-NG-105328" ; Times: 1
+	Query: "BBM-NG-100651" ; Times: 1
+	Query: "BBM-NG-101445" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "thunnus obesus" ; Times: 1
+	Query: "Pteropus capistratus" ; Times: 1
+	Query: "Hipposideros calcaratus" ; Times: 1
+	Query: "BBM-NG-97553" ; Times: 1
+	Query: "BBM-NG-102020" ; Times: 1
+	Query: "BBM-NG-96842" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "BBM-NG-96780" ; Times: 1
+	Query: "BBM-NG-96781" ; Times: 1
+	Query: "BBM-NG-96782" ; Times: 1
+	Query: "BBM-NG-96783" ; Times: 1
+	Query: "thalassarche melanophrys" ; Times: 1
+	Query: "BBM-NG-101202" ; Times: 1
+	Query: "BBM-NG-97858" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "Hipposideros larvatus" ; Times: 1
+	Query: "Pteropus tonganus" ; Times: 1
+	Query: "BBM-NG-103486" ; Times: 1
+	Query: "100570" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "109193" ; Times: 1
+	Query: "159534" ; Times: 1
+	Query: "BBM-NG-60811" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 4
+	Query: "Scarus zufar mappable:1" ; Times: 1
+	Query: "BBM-NG-100233" ; Times: 1
+	Query: "BBM-NG-60910" ; Times: 1
+	Query: "BBM-NG-60913" ; Times: 1
+	Query: "BBM-NG-103904" ; Times: 1
+	Query: "Cynopterus sphinx" ; Times: 1
+	Query: "Peponocephala electra" ; Times: 1
+	Query: "BBM-NG-103908" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "pterodroma cervicalis" ; Times: 10
+	Query: "Miniopterus magnater" ; Times: 2
+	Query: "BBM-NG-100125" ; Times: 1
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "BBM-NG-100196" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "BBM-NG-98549" ; Times: 1
+	Query: "BBM-NG-99013" ; Times: 1
+	Query: "BBM-NG-99012" ; Times: 1
+	Query: "BBM-NG-99015" ; Times: 1
+	Query: "pacific tree frog" ; Times: 2
+	Query: "BBM-NG-100581" ; Times: 1
+	Query: "BBM-NG-99016" ; Times: 1
+	Query: "BBM-NG-98540" ; Times: 1
+	Query: "Chlorurus troschelii mappable:1" ; Times: 1
+	Query: "bulweria bulweria year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "BBM-NG-100589" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "BBM-NG-97232" ; Times: 1
+	Query: "BBM-NG-104985" ; Times: 1
+	Query: "BBM-NG-98788" ; Times: 1
+	Query: "Nyctimene vizcaccia" ; Times: 2
+	Query: "110080" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "Myotis adversus" ; Times: 2
+	Query: "BBM-NG-100561" ; Times: 1
+	Query: "Pteropus conspicillatus" ; Times: 1
+	Query: "BBM-NG-96733" ; Times: 1
+	Query: "puffinus lherminieri pacific year &gt;= 1968 year &lt;= 2020" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "Pteropus neohibernicus" ; Times: 1
+	Query: "Blue-fronted redstart" ; Times: 1
+	Query: "family:viverridae hastissue:1" ; Times: 2
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "BBM-NG-55104" ; Times: 1
+	Query: "BBM-NG-28056" ; Times: 1
+	Query: "BBM-NG-97127" ; Times: 1
+	Query: "isfossil:1" ; Times: 3
+	Query: "genus:Chaetoptila" ; Times: 1
+	Query: "BBM-NG-101560" ; Times: 1
+	Query: "29600" ; Times: 2
+	Query: "Anthops ornatus" ; Times: 1
+	Query: "BBM-NG-103512" ; Times: 1
+	Query: "vntype:specimen family:Herpestidae hastissue:1" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "Scarus arabicus mappable:1" ; Times: 1
+	Query: "Dobsonia praedatrix" ; Times: 1
+	Query: "BBM-NG-101833" ; Times: 1
+	Query: "Pipistrellus papuanus" ; Times: 1
+	Query: "Scarus longipinnis mappable:1" ; Times: 1
+	Query: "genus:mesoplodon densirostris" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Dobsonia minor" ; Times: 1
+	Query: "BBM-NG-20122" ; Times: 1
+	Query: "Nyctimene albiventer" ; Times: 2
+	Query: "Uropterygius micropterus" ; Times: 1
+	Query: "BBM-NG-60515" ; Times: 1
+	Query: "Rhinolophus cornutus" ; Times: 1
+	Query: "Hipposideros turpis" ; Times: 1
+	Query: "BBM-NG-105317" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "procellariiformes guam" ; Times: 2
+	Query: "egretta gularis" ; Times: 1
+	Query: "BBM-NG-97687" ; Times: 1
+	Query: "BBM-NG-107965" ; Times: 1
+	Query: "BBM-NG-108189" ; Times: 1
+	Query: "ofekomin" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "BBM-NG-107686" ; Times: 1
+	Query: "BBM-NG-107968" ; Times: 2
+	Query: "BBM-NG-99366" ; Times: 1
+	Query: "BBM-NG-103444" ; Times: 1
+	Query: "BBM-NG-22874" ; Times: 1
+	Query: "Chaerephon jobensis" ; Times: 1
+	Query: "BBM-NG-103429" ; Times: 1
+	Query: "Rhinolophus affinis" ; Times: 1
+	Query: "BBM-NG-101847" ; Times: 1
+	Query: "Myotis chinensis" ; Times: 2
+	Query: "BBM-NG-97705-08" ; Times: 1
+	Query: "B-10365" ; Times: 1
+	Query: "151344" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "BBM-NG-98864" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "159506" ; Times: 1
+	Query: "Miniopterus pusillus" ; Times: 2
+	Query: "specificepithet:popeiorum family:viperidae class:reptilia" ; Times: 1
+	Query: "BBM-NG-100091" ; Times: 1
+	Query: "Miniopterus tao" ; Times: 2
+	Query: "BBM-NG-100908" ; Times: 1
+	Query: "Hipposideros wollastoni" ; Times: 1
+	Query: "151528" ; Times: 1
+	Query: "BBM-NG-54623" ; Times: 1
+	Query: "Pteropus anetianus" ; Times: 1
+	Query: "BBM-NG-98747" ; Times: 1
+	Query: "BBM-NG-98748" ; Times: 1
+	Query: "BBM-NG-98749" ; Times: 2
+	Query: "Miniopterus tristis" ; Times: 2
+	Query: "Rhinolophus coelophyllus" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Nyctimene aello" ; Times: 2
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "BBM-NG-104928" ; Times: 1
+	Query: "159826" ; Times: 1
+	Query: "Scarus dubius mappable:1" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "13715" ; Times: 4
+	Query: "BBM-NG-54855" ; Times: 1
+	Query: "BBM-NG-105135" ; Times: 1
+	Query: "BBM-NG-105134" ; Times: 1
+	Query: "BBM-NG-105137" ; Times: 1
+	Query: "BBM-NG-105136" ; Times: 1
+	Query: "genus:cryptoblepharus county:&#34;maui&#34;" ; Times: 1
+	Query: "BBM-NG-105683" ; Times: 1
+	Query: "BBM-NG-100685" ; Times: 1
+	Query: "BBM-NG-99932" ; Times: 1
+	Query: "Scarus obishime mappable:1" ; Times: 1
+	Query: "BBM-NG-100639" ; Times: 1
+	Query: "Murina florium" ; Times: 2
+	Query: "Sparisoma atomarium mappable:1" ; Times: 1
+	Query: "sanfordi" ; Times: 2
+	Query: "BBM-NG-60499" ; Times: 1
+	Query: "BBM-NG-60498" ; Times: 1
+	Query: "BBM-NG-60497" ; Times: 1
+	Query: "Erythrura trichroa" ; Times: 1
+	Query: "LAC 1594" ; Times: 1
+	Query: "(plethodon) isfossil:1" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "BBM-NG-100640" ; Times: 1
+	Query: "BBM-NG-97016" ; Times: 1
+	Query: "BBM-NG-100642" ; Times: 1
+	Query: "BBM-NG-101450" ; Times: 1
+	Query: "Pteropus macrotis" ; Times: 1
+	Query: "153573" ; Times: 1
+	Query: "BBM-NG-103464" ; Times: 1
+	Query: "Hemiphyllodactylus (Thailand)" ; Times: 1
+	Query: "109988" ; Times: 1
+	Query: "BBM-NG-60831" ; Times: 1
+	Query: "Hipposideros diadema" ; Times: 1
+	Query: "BBM-NG-104990" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "110804" ; Times: 1
+	Query: "BBM-NG-108170" ; Times: 1
+	Query: "Paranyctimene raptor" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 3
+	Query: "BBM-NG-60394" ; Times: 1
+	Query: "BBM-NG-22904" ; Times: 1
+	Query: "asian koel" ; Times: 1
+	Query: "BBM-NG-101602" ; Times: 1
+	Query: "(plethodon) hastissue:1 isfossil:1" ; Times: 1
+	Query: "japanese bush warbler" ; Times: 1
+	Query: "60756" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "BBM-NG-105673" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "BBM-NG-61016" ; Times: 2
+	Query: "BBM-NG-60909" ; Times: 1
+	Query: "BBM-NG-97339" ; Times: 1
+	Query: "BBM-NG-102167" ; Times: 1
+	Query: "BBM-NG-102164" ; Times: 1
+	Query: "BBM-NG-104198" ; Times: 1
+	Query: "Bonsey specificepithet:braminus family:typhlopidae stateprovince:&#34;hawaii&#34; collectioncode:BPBM" ; Times: 1
+	Query: "152808" ; Times: 1
+	Query: "rattus steini" ; Times: 5
+	Query: "institutioncode:BPBM" ; Times: 7
+	Query: "183797" ; Times: 1
+	Query: "BBM-NG-98953" ; Times: 1
+	Query: "Scarus rivulatus mappable:1" ; Times: 1
+	Query: "BBM-NG-98482" ; Times: 1
+	Query: "179541" ; Times: 1
+	Query: "BBM-NG-98488" ; Times: 2
+	Query: "101701" ; Times: 2
+	Query: "(222671)" ; Times: 1
+	Query: "157299" ; Times: 1
+	Query: "Calotomus spinidens mappable:1" ; Times: 3
+	Query: "red panda" ; Times: 1
+	Query: "BBM-NG-97207" ; Times: 1
+	Query: "Pteropus molossinus" ; Times: 1
+	Query: "moho nobilis" ; Times: 1
+	Query: "BBM-NG-98555" ; Times: 1
+	Query: "BBM-NG-98554" ; Times: 1
+	Query: "Miniopterus fuscus" ; Times: 2
+	Query: "BBM-NG-98459" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "BBM-NG-98792" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "zosterops japonicus country:&#34;United States&#34;" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "154687" ; Times: 1
+	Query: "BBM-NG-100585" ; Times: 1
+	Query: "BBM-NG-104974" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 2
+	Query: "specificepithet:braminus family:typhlopidae stateprovince:&#34;hawaii&#34; collectioncode:BPBM" ; Times: 2
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Emballonura nigrescens" ; Times: 1
+	Query: "178304" ; Times: 1
+	Query: "vntype:specimen (plethodon) isfossil:1" ; Times: 1
+	Query: "Nyctophilus microtis" ; Times: 1
+	Query: "Pteropus degener" ; Times: 1
+	Query: "BBM-NG-98079" ; Times: 2
+	Query: "BBM-NG-100175" ; Times: 1
+	Query: "BBM-NG-55139" ; Times: 1
+	Query: "institutioncode:bpbm" ; Times: 1
+	Query: "BBM-NG-102154" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "177115" ; Times: 1
+	Query: "BBM-NG-100708" ; Times: 1
+	Query: "BBM-NG-55258" ; Times: 1
+	Query: "BBM-NG-96943" ; Times: 1
+	Query: "156080" ; Times: 1
+	Query: "procellariiformes mariana" ; Times: 2
+	Query: "BBM-NG-108172" ; Times: 1
+	Query: "BBM-NG-103371" ; Times: 1
+	Query: "156088" ; Times: 1
+	Query: "rhea americana" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "Bolbometopon muricatum mappable:1" ; Times: 1
+	Query: "BBM-NG-96697" ; Times: 1
+	Query: "Myotis macrodactylus" ; Times: 2
+	Query: "Dobsonia moluccensis" ; Times: 1
+	Query: "BBM-NG-99975" ; Times: 1
+	Query: "BBM-NG-105306" ; Times: 1
+	Query: "oligosoma" ; Times: 1
+	Query: "BBM-NG-105305" ; Times: 1
+	Query: "Pteropus nitendiensis" ; Times: 1
+	Query: "BBM-NG-108195" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "BBM-NG-108191" ; Times: 1
+	Query: "BBM-NG-108193" ; Times: 1
+	Query: "BBM-NG-100828" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "BBM-NG-105737" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "norfolkia brachylepis" ; Times: 2
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "BBM-NG-97473" ; Times: 1
+	Query: "R.39075" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "hypostomus watwata" ; Times: 1
+	Query: "Gecinulus grantia Thailand" ; Times: 1
+	Query: "Nicholsina usta collettei mappable:1" ; Times: 1
+	Query: "Philetor brachypterus" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "BBM-NG-100105" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "BBM-NG-101223" ; Times: 1
+	Query: "Hypoatherina temminckii mappable:1" ; Times: 2
+	Query: "BBM-NG-97835" ; Times: 1
+	Query: "145302" ; Times: 1
+	Query: "BBM-NG-100089" ; Times: 1
+	Query: "Hipposideros armiger" ; Times: 1
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "catalognumber:23360 collectioncode:BPBM" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "BBM-NG-98452" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 3
+	Query: "BBM-NG-98750" ; Times: 1
+	Query: "BBM-NG-98753" ; Times: 1
+	Query: "BBM-NG-98752" ; Times: 2
+	Query: "BBM-NG-107858" ; Times: 1
+	Query: "BBM-NG-107852" ; Times: 1
+	Query: "BBM-NG-107854" ; Times: 1
+	Query: "BBM-NG-107856" ; Times: 1
+	Query: "BBM-NG-105000" ; Times: 1
+	Query: "BBM-NG-52653" ; Times: 1
+	Query: "BBM-NG-97682" ; Times: 1
+	Query: "BBM-NG-97683" ; Times: 1
+	Query: "BBM-NG-97564" ; Times: 1
+	Query: "BBM-NG-97686" ; Times: 1
+	Query: "156339" ; Times: 1
+	Query: "BBM-NG-97684" ; Times: 1
+	Query: "BBM-NG-97685" ; Times: 1
+	Query: "specificepithet:HOMEYERI genus:PACHYCEPHALA country:&#34;PHILIPPINES&#34;" ; Times: 1
+	Query: "Pteralopex flanneryi" ; Times: 1
+	Query: "24177" ; Times: 2
+	Query: "vntype:specimen specificepithet:poliocephalus genus:turdus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Chalinolobus nigrogriseus" ; Times: 1
+	Query: "BBM-NG-98035" ; Times: 1
+	Query: "BBM-NG-103577" ; Times: 1
+	Query: "Aselliscus tricuspidatus" ; Times: 1
+	Query: "BBM-NG-100745" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "154497" ; Times: 1
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "genus:Cormobates hastissue:1" ; Times: 1
+	Query: "mappable:1 year&gt;=1979 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "BBM-NG-98871" ; Times: 1
+	Query: "BBM-NG-97613" ; Times: 1
+	Query: "Nyctimene draconilla" ; Times: 2
+	Query: "Pteropus mahaganus" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "BBM-NG-99494" ; Times: 2
+	Query: "BBM-NG-105521" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "BBM-NG-100102" ; Times: 1
+	Query: "BBM-NG-99498" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "ovophis monticola" ; Times: 8
+	Query: "BBM-NG-103478" ; Times: 1
+	Query: "AMNH 9821" ; Times: 1
+	Query: "genus:Oreophryne specificepithet:ezra" ; Times: 1
+	Query: "Scarus rubroviolaceus mappable:1" ; Times: 1
+	Query: "BBM-NG-103474" ; Times: 1
+	Query: "Aves Numididae skin meleagris" ; Times: 2
+	Query: "Nyctereutes" ; Times: 2
+	Query: "24548" ; Times: 1
+	Query: "BBM 54518" ; Times: 2
+	Query: "BBM-NG-60388" ; Times: 1
+	Query: "genus:Ahaetulla country:&#34;Thailand&#34; hastissue:1" ; Times: 1
+	Query: "157834" ; Times: 1
+	Query: "Glareola maldivarum" ; Times: 2
+	Query: "24123" ; Times: 1
+	Query: "BBM-NG-101269" ; Times: 1
+	Query: "BBM-NG-107860" ; Times: 1
+	Query: "BBM-NG-107862" ; Times: 1
+	Query: "BBM-NG-96633" ; Times: 1
+	Query: "BBM-NG-107864" ; Times: 1
+	Query: "BBM-NG-100815" ; Times: 1
+	Query: "BBM-NG-97286" ; Times: 1
+	Query: "Pteropus woodfordi" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 3
+	Query: "BBM-NG-22856" ; Times: 1
+	Query: "BBM-NG-105649" ; Times: 1
+	Query: "BBM-NG-102172" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "specificepithet:monticola family:viperidae class:reptilia" ; Times: 1
+	Query: "Dobsonia inermis" ; Times: 1
+	Query: "BBM-NG-104203" ; Times: 1
+	Query: "BBM-NG-103399" ; Times: 2
+	Query: "Dusky Thrush" ; Times: 2
+	Query: "BBM-NG-103394" ; Times: 1
+	Query: "BBM-NG-98965" ; Times: 1
+	Query: "Todiramphus nigrocyaneus" ; Times: 2
+	Query: "specificepithet:SUBMINUTA class:aves stateprovince:&#34;alaska&#34; year &gt;= 1973 year &lt;= 1973" ; Times: 1
+	Query: "Mystacina robusta" ; Times: 2
+	Query: "BBM-NG-99562" ; Times: 1
+	Query: "Pteropus insularis" ; Times: 1
+	Query: "BBM-NG-97190" ; Times: 1
+	Query: "norfolkia" ; Times: 2
+	Query: "BBM-NG-98406" ; Times: 1
+	Query: "BBM-NG-105342" ; Times: 1
+	Query: "BBM-NG-98569" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "BBM-NG-109239" ; Times: 1
+	Query: "BBM-NG-100662" ; Times: 1
+	Query: "BBM-NG-100660" ; Times: 1
+	Query: "USNM 178928" ; Times: 2
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 8
+	Query: "USNM 178927" ; Times: 2
+	Query: "amnh 1342" ; Times: 1
+	Query: "Pteralopex anceps" ; Times: 1
+	Query: "specificepithet:braminus family:typhlopidae collectioncode:BPBM" ; Times: 1
+	Query: "catalognumber:18954 collectioncode:BPBM" ; Times: 1
+	Query: "Scarus chameleon mappable:1" ; Times: 1
+	Query: "polygrammicus" ; Times: 1
+	Query: "BBM-NG-55086" ; Times: 1
+	Query: "BBM-NG-99368" ; Times: 1
+	Query: "Hexanchus vitulus" ; Times: 2
+	Query: "specificepithet:poliocephalus genus:turdus country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "Nyctimene certans" ; Times: 2
+	Query: "Hypoatherina ovalaua mappable:1" ; Times: 1
+	Query: "BBM-NG-98065" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 3
+	Query: "genus:Lechriodus specificepithet:melanopyga" ; Times: 1
+	Query: "BBM-NG-99916" ; Times: 1
+	Query: "BBM-NG-101627" ; Times: 1
+	Query: "Pipistrellus collinus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "BBM-NG-54635" ; Times: 1
+	Query: "BBM-NG-53569" ; Times: 1
+	Query: "(schofield)" ; Times: 1
+	Query: "BBM-NG-103361" ; Times: 1
+	Query: "Emballonura semicaudata" ; Times: 1
+	Query: "specificepithet:ensatus genus:Dicamptodon hastissue:1" ; Times: 1
+	Query: "BBM-NG-98081" ; Times: 1
+	Query: "Miniopterus medius" ; Times: 2
+	Query: "Scarus maculipinna mappable:1" ; Times: 1
+	Query: "procellariiformes phoenix" ; Times: 1
+	Query: "BBM-NG-99961" ; Times: 1
+	Query: "BBM-NG-100787" ; Times: 1
+	Query: "BBM-NG-99746" ; Times: 1
+	Query: "BBM-NG-99965" ; Times: 1
+	Query: "BBM-NG-22738" ; Times: 1
+	Query: "BBM-NG-105337" ; Times: 1
+	Query: "BBM-NG-100788" ; Times: 1
+	Query: "Pteropus poliocephalus" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "BBM-NG-97585" ; Times: 1
+	Query: "Pteropus pelewensis" ; Times: 1
+	Query: "Rhinolophus euryotis" ; Times: 1
+	Query: "159824" ; Times: 1
+	Query: "BBM-NG-105721" ; Times: 1
+	Query: "BBM-NG-105837" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "BBM-NG-97403" ; Times: 1
+	Query: "BBM-NG-97493" ; Times: 1
+	Query: "genus:bolbopsittacus country:&#34;philippines&#34;" ; Times: 2
+	Query: "BBM-NG-108118" ; Times: 1
+	Query: "specificepithet:novaeguineae genus:Rattus institutioncode:BPBM" ; Times: 2
+	Query: "BBM-NG-108116" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Pipistrellus javanicus" ; Times: 1
+	Query: "BBM-NG-99131" ; Times: 1
+	Query: "BBM-NG-99134" ; Times: 1
+	Query: "Miniopterus macrocneme" ; Times: 2
+	Query: "BBM-NG-104833" ; Times: 1
+	Query: "BPBM 22544" ; Times: 1
+	Query: "Rousettus stresemanni" ; Times: 1
+	Query: "Hipposideros galeritus" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "BBM-NG-100847" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:rana stateprovince:&#34;Hawaii&#34;" ; Times: 2
+	Query: "Bay county simus" ; Times: 1
+	Query: "Melonycteris melanops" ; Times: 2
+	Query: "BBM-NG-103491" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "BBM-NG-102173" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "BBM-NG-27917" ; Times: 1
+	Query: "BBM-NG-103910" ; Times: 1
+	Query: "Poecile varius" ; Times: 1
+	Query: "Syconycteris hobbit" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 853 download events in this period)
+Total number of records downloaded: 2528
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-02 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Kangaroo mouse" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "family:Rhinolophidae hastissue:1" ; Times: 1
+	Query: "101701" ; Times: 1
+	Query: "Hemiphyllodactylus (Thailand)" ; Times: 1
+	Query: "procellariiformes hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:turdus country:&#34;philippines&#34;" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "Sistrurus" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "Taaningichthys bathyphilus" ; Times: 2
+	Query: "griffithsi" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "zosterops japonicus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:rana stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "northern flicker" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "(plethodon) isfossil:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "egretta gularis" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "Phrynosoma coronatum hastissue:1" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+
+
+End of report.
