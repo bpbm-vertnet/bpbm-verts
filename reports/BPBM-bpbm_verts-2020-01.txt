@@ -1,0 +1,908 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 977
+Number of records retrieved in searches: 21477
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 26
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 167
+	Country: Ireland ; Times: 2
+	Country: Bolivia ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Singapore ; Times: 8
+	Country: China ; Times: 8
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 680
+	Country: Sweden ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 27
+	Country: United Kingdom ; Times: 12
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 38
+	Date: 2020-01-03 ; Times: 32
+	Date: 2020-01-02 ; Times: 15
+	Date: 2020-01-01 ; Times: 62
+	Date: 2020-01-07 ; Times: 10
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-05 ; Times: 51
+	Date: 2020-01-04 ; Times: 3
+	Date: 2020-01-21 ; Times: 9
+	Date: 2020-01-20 ; Times: 47
+	Date: 2020-01-09 ; Times: 14
+	Date: 2020-01-08 ; Times: 26
+	Date: 2020-01-25 ; Times: 22
+	Date: 2020-01-24 ; Times: 187
+	Date: 2020-01-27 ; Times: 16
+	Date: 2020-01-26 ; Times: 4
+	Date: 2020-01-29 ; Times: 61
+	Date: 2020-01-28 ; Times: 15
+	Date: 2020-01-18 ; Times: 12
+	Date: 2020-01-19 ; Times: 5
+	Date: 2020-01-23 ; Times: 183
+	Date: 2020-01-14 ; Times: 8
+	Date: 2020-01-15 ; Times: 4
+	Date: 2020-01-30 ; Times: 25
+	Date: 2020-01-17 ; Times: 12
+	Date: 2020-01-10 ; Times: 17
+	Date: 2020-01-11 ; Times: 22
+	Date: 2020-01-12 ; Times: 22
+	Date: 2020-01-13 ; Times: 13
+	Date: 2020-01-31 ; Times: 17
+	Date: 2020-01-16 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:larutensis genus:Amolops" ; Times: 1
+	Query: "specificepithet:bouwensi genus:Xenorhina institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:kubori genus:Nyctimystes" ; Times: 1
+	Query: "specificepithet:flavigularis genus:Barygenys institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes" ; Times: 1
+	Query: "genus:Scymnodon" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 3
+	Query: "specificepithet:aurea genus:Litoria" ; Times: 1
+	Query: "Tufted duck" ; Times: 1
+	Query: "specificepithet:hazelae genus:Platymantis institutioncode:BPBM" ; Times: 1
+	Query: "Toxicocalamus holopelturus" ; Times: 1
+	Query: "179163" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "specificepithet:guentheri genus:Ceratobatrachus" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 6
+	Query: "specificepithet:nigrofrenata genus:Litoria" ; Times: 1
+	Query: "specificepithet:genimaculata genus:Litoria" ; Times: 1
+	Query: "specificepithet:palmipes genus:Austrochaperina" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga institutioncode:BPBM" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "BPBM 20839" ; Times: 2
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "specificepithet:convexiusculus genus:Limnodynastes" ; Times: 1
+	Query: "33744" ; Times: 1
+	Query: "h e nichols" ; Times: 1
+	Query: "specificepithet:conjuncta genus:Kaloula" ; Times: 1
+	Query: "specificepithet:impura genus:Litoria" ; Times: 1
+	Query: "scientificname:Acanthurus thompsoni mappable:1" ; Times: 1
+	Query: "cyrtodactylus robustus bpbm" ; Times: 1
+	Query: "specificepithet:vittigera genus:Fejervarya" ; Times: 1
+	Query: "salvadorina waigiuensis" ; Times: 1
+	Query: "specificepithet:prora genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:trigonata genus:Boiga hastissue:1" ; Times: 1
+	Query: "specificepithet:eurydactylus genus:Callulops" ; Times: 1
+	Query: "specificepithet:nigrovittata genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:macrotis genus:Bufo institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Polypedates institutioncode:BPBM" ; Times: 1
+	Query: "hybrid genus:Melidectes hastissue:1" ; Times: 1
+	Query: "specificepithet:spinulosus genus:Bufo institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:doriae genus:Chiromantis institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "specificepithet:turpicola genus:Asterophrys" ; Times: 1
+	Query: "bothrochilus" ; Times: 1
+	Query: "cyrtodactylus murua bpbm" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 2
+	Query: "specificepithet:arfaki genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:martensii genus:Occidozyga" ; Times: 1
+	Query: "specificepithet:laticeps genus:Limnonectes" ; Times: 1
+	Query: "Oxyporhamphus micropterus micropterus mappable:1" ; Times: 1
+	Query: "specificepithet:doriae genus:Chiromantis" ; Times: 1
+	Query: "148446" ; Times: 1
+	Query: "red-throated thrush" ; Times: 2
+	Query: "institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "scientificname:Naso tuberosus mappable:1" ; Times: 1
+	Query: "specificepithet:gyldenstolpei genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:amboinensis genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:lateralis genus:Mantophryne" ; Times: 1
+	Query: "179864" ; Times: 1
+	Query: "specificepithet:pansa genus:Aphantophryne" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "vntype:specimen specificepithet:waigiuensis genus:Salvadorina" ; Times: 1
+	Query: "specificepithet:microdiscus genus:Limnonectes" ; Times: 1
+	Query: "nestor notabilis" ; Times: 7
+	Query: "specificepithet:boa genus:bothrochilus" ; Times: 2
+	Query: "specificepithet:balbus genus:Cophixalus institutioncode:BPBM" ; Times: 1
+	Query: "h nichols" ; Times: 3
+	Query: "Tropidophorus berdmorei" ; Times: 1
+	Query: "BPBM 39792" ; Times: 3
+	Query: "specificepithet:dentata genus:Liophryne" ; Times: 1
+	Query: "specificepithet:canorus genus:Bufo" ; Times: 1
+	Query: "genus:cubiceps distance(location,geopoint(9.368094188208824,179.94003329192083))&lt;3426947.5564147145" ; Times: 1
+	Query: "specificepithet:canorus genus:Bufo institutioncode:BPBM" ; Times: 1
+	Query: "109716" ; Times: 1
+	Query: "cyrtodactylus marmoratus bpbm" ; Times: 1
+	Query: "aetomylaeus nichofii" ; Times: 1
+	Query: "genus:cryptoblepharus stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "specificepithet:pardalis genus:Rhacophorus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 3
+	Query: "family:molidae" ; Times: 14
+	Query: "scientificname:Acanthurus dussumieri mappable:1" ; Times: 2
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "specificepithet:pulchra genus:Microhyla institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:cheesmani genus:Nyctimystes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Platymantis" ; Times: 1
+	Query: "specificepithet:cyanophlyctis genus:Euphlyctis" ; Times: 1
+	Query: "Ramphotyphlops braminus country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:BPBM" ; Times: 7
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 2
+	Query: "160370" ; Times: 1
+	Query: "specificepithet:guppyi genus:Discodeles" ; Times: 1
+	Query: "specificepithet:equestris genus:anolis sex:male" ; Times: 1
+	Query: "specificepithet:angiana genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:thesaurensis genus:Litoria" ; Times: 1
+	Query: "specificepithet:humeralis genus:Nyctimystes" ; Times: 1
+	Query: "genus:lipinia country:&#34;federated states of micronesia&#34;" ; Times: 1
+	Query: "specificepithet:cyanopunctatus genus:Rhacophorus" ; Times: 1
+	Query: "vorpalis" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Austrochaperina institutioncode:BPBM" ; Times: 1
+	Query: "genus:Lorius hastissue:1" ; Times: 2
+	Query: "specificepithet:worcesteri genus:Philautus" ; Times: 1
+	Query: "Common pochard" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 4
+	Query: "Phaenicophaeus curvirostris" ; Times: 1
+	Query: "specificepithet:paramacrodon genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:grunniens genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:rugulosus genus:Hoplobatrachus institutioncode:BPBM" ; Times: 1
+	Query: "cyrtodactylus klugei bpbm" ; Times: 1
+	Query: "specificepithet:laticeps genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Polypedates" ; Times: 1
+	Query: "(nigrocinctus) hastissue:1" ; Times: 1
+	Query: "specificepithet:ewingii genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:larutensis genus:Amolops institutioncode:BPBM" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 3
+	Query: "foulehaio" ; Times: 1
+	Query: "specificepithet:leucoptera genus:pterodroma" ; Times: 2
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 2
+	Query: "specificepithet:oligolinx genus:Rhizoprionodon" ; Times: 4
+	Query: "scientificname:Naso unicornis mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;hawaii&#34; hastypestatus:1 isfossil:1" ; Times: 6
+	Query: "hippo" ; Times: 1
+	Query: "order:Anura institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "pterodroma cervicalis year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Cheetah" ; Times: 1
+	Query: "specificepithet:tricolor genus:Epipedobates institutioncode:BPBM" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "Orange-headed Thrush" ; Times: 2
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 2
+	Query: "genus:Loxodon" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "specificepithet:paramacrodon genus:Limnonectes" ; Times: 1
+	Query: "Rattus everetti" ; Times: 1
+	Query: "HERP-13731" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 16866" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "BPBM 16860" ; Times: 1
+	Query: "scientificname:Acanthurus olivaceus mappable:1" ; Times: 1
+	Query: "plectropomus areolatus" ; Times: 1
+	Query: "Black-breasted Thrush" ; Times: 1
+	Query: "Cubiceps pauciradiatus mappable:1" ; Times: 1
+	Query: "specificepithet:picta genus:Kaloula institutioncode:BPBM" ; Times: 1
+	Query: "148451" ; Times: 1
+	Query: "Phtheirichthys lineatus mappable:1" ; Times: 1
+	Query: "specificepithet:signata genus:Pelophryne" ; Times: 1
+	Query: "specificepithet:flavigularis genus:Barygenys" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "Eyebrowed Thrush" ; Times: 2
+	Query: "39597" ; Times: 2
+	Query: "specificepithet:nasuta genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:petersi genus:Philautus" ; Times: 1
+	Query: "specificepithet:vitiensis genus:Platymantis institutioncode:BPBM" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 3
+	Query: "specificepithet:pardalis genus:Rhacophorus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:nasuta genus:Megophrys" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "Diaphus splendidus mappable:1" ; Times: 2
+	Query: "Sparisoma atomarium mappable:1" ; Times: 3
+	Query: "specificepithet:slateri genus:Callulops" ; Times: 1
+	Query: "specificepithet:rostellifer genus:Choerophryne institutioncode:BPBM" ; Times: 1
+	Query: "Nealotus tripes mappable:1" ; Times: 4
+	Query: "Myctophum obtusirostre mappable:1" ; Times: 2
+	Query: "specificepithet:limnocharis genus:Fejervarya" ; Times: 1
+	Query: "specificepithet:rugosa genus:Rana" ; Times: 1
+	Query: "specificepithet:infrafrenata genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:martensii genus:Occidozyga institutioncode:BPBM" ; Times: 1
+	Query: "Accipiter class:aves isfossil:1" ; Times: 1
+	Query: "109191" ; Times: 1
+	Query: "specificepithet:baleata genus:Kaloula" ; Times: 1
+	Query: "39813" ; Times: 2
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "specificepithet:arfakiana genus:Litoria" ; Times: 1
+	Query: "specificepithet:rostellifer genus:Choerophryne" ; Times: 1
+	Query: "specificepithet:misera genus:Pelophryne" ; Times: 1
+	Query: "genus:cubiceps distance(location,geopoint(17.900651627208802,-169.51309170807917))&lt;2249844.827149386" ; Times: 1
+	Query: "specificepithet:nigropalmatus genus:Rhacophorus" ; Times: 1
+	Query: "105377" ; Times: 1
+	Query: "specificepithet:leucova genus:Litoria" ; Times: 1
+	Query: "specificepithet:petersi genus:Philautus institutioncode:BPBM" ; Times: 1
+	Query: "159877" ; Times: 1
+	Query: "specificepithet:arfaki genus:Rana" ; Times: 1
+	Query: "lycocorax" ; Times: 1
+	Query: "scientificname:Naso brevirostris mappable:1" ; Times: 2
+	Query: "specificepithet:leytensis genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:fissipes genus:Microhyla institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:macrotis genus:Polypedates institutioncode:BPBM" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "specificepithet:hasseltii genus:Leptobrachium institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:melanopyga genus:Lechriodus" ; Times: 1
+	Query: "12356" ; Times: 2
+	Query: "specificepithet:asper genus:Bufo institutioncode:BPBM" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "specificepithet:mediolineata genus:Kaloula institutioncode:BPBM" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 5
+	Query: "nealotus tripes" ; Times: 3
+	Query: "scientificname:Zebrasoma xanthurum mappable:1" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 2
+	Query: "macrophthalma" ; Times: 1
+	Query: "specificepithet:agassizi genus:Gopherus" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "BPBM 8718" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Rhacophorus institutioncode:BPBM" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 1
+	Query: "specificepithet:major genus:Xenophrys" ; Times: 1
+	Query: "specificepithet:butleri genus:Microhyla institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:lithomoda genus:Uperoleia institutioncode:BPBM" ; Times: 1
+	Query: "ramphotyphlops braminus country:&#34;Guinea&#34;" ; Times: 1
+	Query: "BPBM 16761" ; Times: 2
+	Query: "specificepithet:baluensis genus:Occidozyga" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "genus:cubiceps distance(location,geopoint(17.900651627208802,-169.51309170807917))&lt;2950438" ; Times: 1
+	Query: "specificepithet:congenita genus:Litoria" ; Times: 1
+	Query: "genus:cryptoblepharus locality:wake" ; Times: 1
+	Query: "specificepithet:griseus genus:sciurus county:&#34;alameda&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "scientificname:Ctenochaetus tominiensis mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus nigrofuscus mappable:1" ; Times: 3
+	Query: "specificepithet:sanguinea genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "isfossil:1" ; Times: 1
+	Query: "178136" ; Times: 1
+	Query: "specificepithet:appendiculatus genus:Rhacophorus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:micromembrana genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "upupirostris" ; Times: 1
+	Query: "specificepithet:magnus genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:majikthise genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:Exulans genus:Rattus institutioncode:BPBM" ; Times: 2
+	Query: "specificepithet:palmipes genus:Microhyla" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 2
+	Query: "Owstonia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;hawaii&#34; hastypestatus:1" ; Times: 5
+	Query: "catalognumber:29468 institutioncode:BPBM" ; Times: 1
+	Query: "Antennarius striatus mappable:1" ; Times: 2
+	Query: "specificepithet:rhododactyla genus:Liophryne institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:thesaurensis genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:mediolineata genus:Kaloula" ; Times: 1
+	Query: "scientificname:Ctenochaetus binotatus mappable:1" ; Times: 2
+	Query: "Thunnus albacares mappable:1" ; Times: 3
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:BPBM" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "order:scandentia institutioncode:BPBM" ; Times: 5
+	Query: "HERP-15242" ; Times: 1
+	Query: "grus rubicunda" ; Times: 3
+	Query: "specificepithet:biporcatus genus:Bufo institutioncode:BPBM" ; Times: 1
+	Query: "bpbm 23686" ; Times: 4
+	Query: "bpbm 23685" ; Times: 2
+	Query: "specificepithet:pleurostigma genus:Kalophrynus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:major genus:Xenophrys institutioncode:BPBM" ; Times: 1
+	Query: "bpbm 16761" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 1
+	Query: "bpbm 18691" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "specificepithet:arfakiana genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:cornuta genus:Sphenophryne" ; Times: 1
+	Query: "specificepithet:zweifeli genus:Nyctimystes" ; Times: 1
+	Query: "ansonia tiomanica bpbm" ; Times: 2
+	Query: "specificepithet:guppyi genus:Discodeles institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:kuhlii genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:tiomanica genus:Ansonia institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:plicatellus genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:fissipes genus:Microhyla" ; Times: 1
+	Query: "specificepithet:busuangensis genus:Barbourula institutioncode:BPBM" ; Times: 1
+	Query: "recordedby:hunt year &gt;= 1980 year &lt;= 2010" ; Times: 1
+	Query: "BPBM 20841" ; Times: 2
+	Query: "specificepithet:brachypus genus:Oreophryne institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:hendricksoni genus:Leptobrachium" ; Times: 1
+	Query: "specificepithet:nigropunctata genus:Litoria" ; Times: 1
+	Query: "BPBM 20843" ; Times: 1
+	Query: "Hemidactylus bowringii" ; Times: 1
+	Query: "specificepithet:brachypus genus:Oreophryne" ; Times: 1
+	Query: "specificepithet:marinus country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "Diaphus adenomus mappable:1" ; Times: 2
+	Query: "specificepithet:havina genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:rothii genus:Litoria" ; Times: 1
+	Query: "specificepithet:thomsoni genus:Genyophryne institutioncode:BPBM" ; Times: 1
+	Query: "155619" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "specificepithet:bouwensi genus:Xenorhina" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "Xyrichtys novacula mappable:1" ; Times: 2
+	Query: "specificepithet:hazelae genus:Platymantis" ; Times: 1
+	Query: "specificepithet:rugulosus genus:Hoplobatrachus" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 4
+	Query: "ciridops" ; Times: 1
+	Query: "BPBM 20700" ; Times: 2
+	Query: "scientificname:Acanthurus leucosternon mappable:1" ; Times: 1
+	Query: "scientificname:Ctenochaetus striatus mappable:1" ; Times: 2
+	Query: "54986" ; Times: 2
+	Query: "specificepithet:butleri genus:Microhyla" ; Times: 1
+	Query: "specificepithet:hamiltoni genus:Leiopelma institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Amolops institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:derongo genus:Austrochaperina" ; Times: 1
+	Query: "Myctophum nitidulum mappable:1" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 3
+	Query: "specificepithet:modica genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:longipes genus:Xenophrys institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:aurea genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "cyrtodactylus epiroticus" ; Times: 1
+	Query: "Stomias affinis mappable:1" ; Times: 2
+	Query: "specificepithet:nigrofrenata genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:daemeli genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:guttulata genus:Calluella institutioncode:BPBM" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 7
+	Query: "specificepithet:gracilenta genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:havina genus:Litoria" ; Times: 1
+	Query: "specificepithet:carinense genus:Brachytarsophrys institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 16788" ; Times: 1
+	Query: "genus:Toxorhamphus hastissue:1" ; Times: 1
+	Query: "specificepithet:plicatellus genus:Limnonectes" ; Times: 1
+	Query: "stateprovince:&#34;Hawaii&#34; (catesbeiana )" ; Times: 1
+	Query: "FK 6388" ; Times: 1
+	Query: "specificepithet:busuangensis genus:Barbourula" ; Times: 1
+	Query: "specificepithet:rugosa genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "Garganey" ; Times: 2
+	Query: "chaetophractus villosus" ; Times: 1
+	Query: "specificepithet:wollastoni genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:gracilenta genus:Litoria" ; Times: 1
+	Query: "specificepithet:jimiensis genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:berdmorei genus:Microhyla institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga" ; Times: 1
+	Query: "specificepithet:iris genus:Litoria" ; Times: 1
+	Query: "specificepithet:borneensis genus:Microhyla" ; Times: 1
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 2
+	Query: "genus:cubiceps distance(location,geopoint(17.900651627208802,-169.51309170807917))&lt;3426948" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "cephalopholis aurantia" ; Times: 2
+	Query: "18975" ; Times: 2
+	Query: "specificepithet:muelleri genus:Ansonia" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 4
+	Query: "specificepithet:hamiltoni genus:Leiopelma" ; Times: 1
+	Query: "specificepithet:versicolor genus:Hyla institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:penangensis genus:Ansonia institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:infrafrenata genus:Litoria" ; Times: 1
+	Query: "sarotherodon melanotheron" ; Times: 1
+	Query: "Morinda citrifolia" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:sphagnicola genus:Cophixalus institutioncode:BPBM" ; Times: 1
+	Query: "Ateuchosaurus chinensis" ; Times: 1
+	Query: "specificepithet:colletti genus:Polypedates" ; Times: 1
+	Query: "Black-throated Thrush" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 12
+	Query: "specificepithet:pansa genus:Aphantophryne institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Platymantis institutioncode:BPBM" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "specificepithet:lateralis genus:Mantophryne institutioncode:BPBM" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 6
+	Query: "Decapterus macarellus mappable:1" ; Times: 2
+	Query: "specificepithet:humeralis genus:Nyctimystes institutioncode:BPBM" ; Times: 1
+	Query: "acrochordus granulatus" ; Times: 5
+	Query: "specificepithet:belfordi genus:melidectes hastissue:1" ; Times: 1
+	Query: "specificepithet:vitiensis genus:Platymantis" ; Times: 1
+	Query: "specificepithet:berdmorei genus:Microhyla" ; Times: 1
+	Query: "pterodroma cervicalis year &gt;= 1988 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:biporcatus genus:Bufo" ; Times: 1
+	Query: "miniopterus magnater" ; Times: 1
+	Query: "specificepithet:amboinensis genus:Litoria" ; Times: 1
+	Query: "genus:Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 5
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 17257" ; Times: 2
+	Query: "specificepithet:misera genus:Pelophryne institutioncode:BPBM" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "maewo" ; Times: 1
+	Query: "scientificname:Paracanthurus hepatus mappable:1" ; Times: 1
+	Query: "Centrobranchus nigroocellatus mappable:1" ; Times: 2
+	Query: "specificepithet:wollastoni genus:Litoria" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "BPBM 20840" ; Times: 2
+	Query: "rhodacanthis" ; Times: 1
+	Query: "specificepithet:signata genus:Pelophryne institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:crassa genus:Oxydactyla" ; Times: 1
+	Query: "specificepithet:baleata genus:Kaloula institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:conjuncta genus:Kaloula institutioncode:BPBM" ; Times: 1
+	Query: "genus:Lobulia collectioncode:BPBM" ; Times: 1
+	Query: "scientificname:Acanthurus triostegus mappable:1" ; Times: 1
+	Query: "13990" ; Times: 2
+	Query: "order:squamata nepal" ; Times: 2
+	Query: "specificepithet:macrotis genus:Polypedates" ; Times: 1
+	Query: "moho nobilis" ; Times: 3
+	Query: "Sphenomorphus cranei" ; Times: 1
+	Query: "specificepithet:heymonsi genus:Microhyla" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "class:aves catalognumber:110000" ; Times: 1
+	Query: "specificepithet:Exulans genus:Rattus year &gt;= 1962 institutioncode:BPBM" ; Times: 2
+	Query: "mykiss Oncorhynchus" ; Times: 1
+	Query: "specificepithet:carinata genus:ptyas" ; Times: 2
+	Query: "specificepithet:blythii genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:exulans genus:rattus year &gt;= 1962 year &lt;= 1962 institutioncode:BPBM" ; Times: 1
+	Query: "ruddy shelduck" ; Times: 5
+	Query: "scientificname:Zebrasoma scopas mappable:1" ; Times: 3
+	Query: "specificepithet:menziesi genus:Pherohapsis" ; Times: 1
+	Query: "Accipiter hastypestatus:1" ; Times: 4
+	Query: "specificepithet:pleurostigma genus:Kalophrynus" ; Times: 1
+	Query: "specificepithet:sanguinea genus:Rana" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "genus:podargus class:aves country:&#34;new guinea&#34;" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 6
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus albipectoralis mappable:1" ; Times: 1
+	Query: "specificepithet:leytensis genus:Limnonectes" ; Times: 1
+	Query: "black-bellied whistling-duck" ; Times: 1
+	Query: "cyrtodactylus sermowaiensis bpbm" ; Times: 1
+	Query: "Leiopelma hamiltoni" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:cornuta genus:Sphenophryne institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:guentheri genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:leucomelas genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:eucnemis genus:Litoria" ; Times: 1
+	Query: "Kaupichthys hyoproroides mappable:1" ; Times: 1
+	Query: "Psenes cyanophrys mappable:1" ; Times: 2
+	Query: "specificepithet:rothii genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "Cnemaspis limi" ; Times: 1
+	Query: "akialoa" ; Times: 1
+	Query: "specificepithet:crassa genus:Oxydactyla institutioncode:BPBM" ; Times: 1
+	Query: "110205" ; Times: 1
+	Query: "specificepithet:guentheri genus:Rana" ; Times: 1
+	Query: "specificepithet:reinwardtii genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:nigrovittata genus:Rana" ; Times: 1
+	Query: "cyrtodactylus mimikanus bpbm" ; Times: 1
+	Query: "BPBM 45388" ; Times: 1
+	Query: "BPBM 20842" ; Times: 2
+	Query: "Galeopterus variegatus" ; Times: 1
+	Query: "specificepithet:genimaculata genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 45380" ; Times: 2
+	Query: "boeleni" ; Times: 2
+	Query: "Dermoptera AND (NOT birds)" ; Times: 1
+	Query: "specificepithet:eurydactylus genus:Callulops institutioncode:BPBM" ; Times: 1
+	Query: "genus:cubiceps distance(location,geopoint(9.368094188208824,179.94003329192083))&lt;4194297" ; Times: 1
+	Query: "bpbm 39793" ; Times: 1
+	Query: "specificepithet:limnocharis genus:Fejervarya institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:BPBM" ; Times: 1
+	Query: "hamburg" ; Times: 1
+	Query: "scientificname:Naso hexacanthus mappable:1" ; Times: 1
+	Query: "hybrid genus:Melidectes" ; Times: 2
+	Query: "specificepithet:carinense genus:Brachytarsophrys" ; Times: 1
+	Query: "specificepithet:cheesmani genus:Nyctimystes" ; Times: 1
+	Query: "specificepithet:micromembrana genus:Litoria" ; Times: 1
+	Query: "specificepithet:otilophus genus:Polypedates institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Batrachylodes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:guentheri genus:Ceratobatrachus institutioncode:BPBM" ; Times: 1
+	Query: "genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:convexiusculus genus:Limnodynastes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:prora genus:Litoria" ; Times: 1
+	Query: "Hirundichthys speculiger mappable:1" ; Times: 2
+	Query: "Coryphaena hippurus mappable:1" ; Times: 2
+	Query: "specificepithet:jimiensis genus:Rana" ; Times: 1
+	Query: "specificepithet:cyanophlyctis genus:Euphlyctis institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:baluensis genus:Occidozyga institutioncode:BPBM" ; Times: 1
+	Query: "dermoptera" ; Times: 9
+	Query: "specificepithet:nigropalmatus genus:Rhacophorus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:microdiscus genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:spinulosus genus:Bufo" ; Times: 1
+	Query: "cyrtodactylus papuensis" ; Times: 1
+	Query: "specificepithet:melanopyga genus:Lechriodus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:hascheanus genus:Limnonectes" ; Times: 1
+	Query: "red-crested pochard" ; Times: 1
+	Query: "specificepithet:chalconota genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Rhacophorus" ; Times: 1
+	Query: "scientificname:Zebrasoma velifer mappable:1" ; Times: 2
+	Query: "185802" ; Times: 1
+	Query: "specificepithet:picta genus:Kaloula" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla" ; Times: 1
+	Query: "parotia" ; Times: 2
+	Query: "lesser-whistling duck" ; Times: 2
+	Query: "specificepithet:majikthise genus:Litoria" ; Times: 1
+	Query: "molidae" ; Times: 1
+	Query: "scientificname:Naso maculatus mappable:1" ; Times: 1
+	Query: "specificepithet:nigrops genus:Leptobrachium" ; Times: 1
+	Query: "specificepithet:kuhlii genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:natator genus:Staurois institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:kubori genus:Nyctimystes institutioncode:BPBM" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 2
+	Query: "specificepithet:penangensis genus:Ansonia" ; Times: 1
+	Query: "wild boar" ; Times: 1
+	Query: "Coryphaena equiselis mappable:1" ; Times: 3
+	Query: "specificepithet:malesianus genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:lithomoda genus:Uperoleia" ; Times: 1
+	Query: "specificepithet:guttata genus:Austrochaperina" ; Times: 1
+	Query: "short eared owl" ; Times: 1
+	Query: "specificepithet:palmipes genus:Microhyla institutioncode:BPBM" ; Times: 1
+	Query: "catalognumber:28212 institutioncode:BPBM" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "specificepithet:schlaginhaufeni genus:Liophryne institutioncode:BPBM" ; Times: 1
+	Query: "Hooded pitta" ; Times: 3
+	Query: "34953" ; Times: 1
+	Query: "specificepithet:hendricksoni genus:Leptobrachium institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:malesianus genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "cyrtodactylus epiroticus bpbm" ; Times: 1
+	Query: "specificepithet:eucnemis genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:asper genus:Bufo" ; Times: 1
+	Query: "specificepithet:magnus genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:agassizi genus:Gopherus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Zu cristatus mappable:1" ; Times: 1
+	Query: "specificepithet:pelewensis genus:Platymantis institutioncode:BPBM" ; Times: 1
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 4
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 2
+	Query: "Electrona risso" ; Times: 1
+	Query: "25179" ; Times: 1
+	Query: "specificepithet:derongo genus:Austrochaperina institutioncode:BPBM" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:pollicaris genus:Metaphrynella institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:exophthalmia genus:Litoria" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula" ; Times: 1
+	Query: "specificepithet:cryptotympanum genus:Cophixalus" ; Times: 1
+	Query: "specificepithet:montanum genus:Leptobrachium" ; Times: 1
+	Query: "specificepithet:tiomanica genus:Ansonia" ; Times: 1
+	Query: "litoria huntorum" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:heymonsi genus:Microhyla institutioncode:BPBM" ; Times: 1
+	Query: "scientificname:Acanthurus pyroferus mappable:1" ; Times: 3
+	Query: "specificepithet:oxycephala genus:Xenorhina institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:papuensis genus:Platymantis institutioncode:BPBM" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera" ; Times: 1
+	Query: "specificepithet:tricolor genus:Epipedobates" ; Times: 1
+	Query: "reticulata Poecilia" ; Times: 1
+	Query: "specificepithet:kumae genus:Litoria" ; Times: 1
+	Query: "specificepithet:montanum genus:Leptobrachium institutioncode:BPBM" ; Times: 1
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "specificepithet:exsul genus:Barygenys institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:pictus genus:Nyctixalus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:cyanopunctatus genus:Rhacophorus institutioncode:BPBM" ; Times: 1
+	Query: "apteryx" ; Times: 1
+	Query: "specificepithet:colletti genus:Polypedates institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:gyldenstolpei genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:nigrops genus:Leptobrachium institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:vittigera genus:Fejervarya institutioncode:BPBM" ; Times: 1
+	Query: "Nomeus gronovii mappable:1" ; Times: 2
+	Query: "specificepithet:Belfordi genus:Melidectes hastissue:1" ; Times: 1
+	Query: "scientificname:Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "Aluterus scriptus mappable:1" ; Times: 6
+	Query: "specificepithet:slateri genus:Callulops institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "specificepithet:borneensis genus:Microhyla institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:inornata genus:Micryletta" ; Times: 1
+	Query: "specificepithet:cancrivora genus:Fejervarya" ; Times: 1
+	Query: "Halichoeres cyanocephalus mappable:1" ; Times: 6
+	Query: "specificepithet:borbonica genus:Leptophryne" ; Times: 1
+	Query: "specificepithet:rufescens genus:Hylophorbus institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 23686" ; Times: 2
+	Query: "Exocoetus volitans mappable:1" ; Times: 2
+	Query: "specificepithet:pelewensis genus:Platymantis" ; Times: 1
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "specificepithet:borbonica genus:Leptophryne institutioncode:BPBM" ; Times: 1
+	Query: "Drepanis" ; Times: 2
+	Query: "BPBM 18691" ; Times: 2
+	Query: "specificepithet:pictus genus:Nyctixalus" ; Times: 1
+	Query: "genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "h. nichols" ; Times: 7
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "specificepithet:appendiculatus genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:turpicola genus:Asterophrys institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:leucova genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:elegans genus:Lobulia collectioncode:BPBM" ; Times: 3
+	Query: "specificepithet:iris genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:squamulosus genus:Scymnodon" ; Times: 3
+	Query: "specificepithet:pipiens genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:kumae genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "Dobsonia inermis" ; Times: 3
+	Query: "Trachinocephalus myops mappable:1" ; Times: 4
+	Query: "specificepithet:rufocrissalis genus:melidectes" ; Times: 1
+	Query: "zweifeli hastissue:1" ; Times: 1
+	Query: "specificepithet:acanthi genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:multiplica genus:Litoria" ; Times: 1
+	Query: "Dusky Thrush" ; Times: 1
+	Query: "halodule" ; Times: 2
+	Query: "gbifdatasetid:b929f23d-290f-4e85-8f17-764c55b3b284" ; Times: 1
+	Query: "specificepithet:nasuta genus:Megophrys institutioncode:BPBM" ; Times: 1
+	Query: "scientificname:Ctenochaetus cyanocheilus mappable:1" ; Times: 5
+	Query: "specificepithet:equestris genus:anolis sex:female" ; Times: 1
+	Query: "specificepithet:balbus genus:Cophixalus" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:pronimia genus:Litoria" ; Times: 1
+	Query: "specificepithet:pulchra genus:Microhyla" ; Times: 1
+	Query: "specificepithet:papua genus:Nyctimystes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:rhododactyla genus:Liophryne" ; Times: 1
+	Query: "specificepithet:guttulata genus:Calluella" ; Times: 1
+	Query: "specificepithet:congenita genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:palmipes genus:Austrochaperina institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:blythii genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "gekko smithii" ; Times: 1
+	Query: "specificepithet:atrocaudata genus:Terpsiphone" ; Times: 2
+	Query: "specificepithet:worcesteri genus:Philautus institutioncode:BPBM" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 3
+	Query: "specificepithet:otilophus genus:Polypedates" ; Times: 1
+	Query: "specificepithet:leucomystax genus:Polypedates" ; Times: 1
+	Query: "hemignathus lucidus" ; Times: 2
+	Query: "specificepithet:hosii genus:Pedostibes" ; Times: 1
+	Query: "specificepithet:nigropunctata genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 23685" ; Times: 2
+	Query: "specificepithet:impura genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "specificepithet:dentata genus:Liophryne institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:noctua genus:lipinia country:&#34;palau&#34;" ; Times: 1
+	Query: "specificepithet:inornata genus:Micryletta institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:oxycephala genus:Xenorhina" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 1
+	Query: "scientificname:Naso reticulatus mappable:1" ; Times: 1
+	Query: "specificepithet:chalconota genus:Rana" ; Times: 1
+	Query: "specificepithet:rufescens genus:Hylophorbus" ; Times: 1
+	Query: "specificepithet:papuensis genus:Platymantis" ; Times: 1
+	Query: "specificepithet:bicolor genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "Symphysanodon berryi mappable:1" ; Times: 1
+	Query: "specificepithet:longipes genus:Xenophrys" ; Times: 1
+	Query: "Hemiphyllodactylus yunnanensis" ; Times: 1
+	Query: "specificepithet:exsul genus:Barygenys" ; Times: 1
+	Query: "specificepithet:leucomystax genus:Polypedates institutioncode:BPBM" ; Times: 1
+	Query: "genus:Melidectes hastissue:1" ; Times: 1
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "specificepithet:hasseltii genus:Leptobrachium" ; Times: 1
+	Query: "specificepithet:pollicaris genus:Metaphrynella" ; Times: 1
+	Query: "specificepithet:natator genus:Staurois" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "159630" ; Times: 2
+	Query: "specificepithet:darlingtoni genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "specificepithet:thomsoni genus:Genyophryne" ; Times: 1
+	Query: "specificepithet:leucomelas genus:Dendrobates institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "BPBM 17255" ; Times: 3
+	Query: "Stresemannia" ; Times: 1
+	Query: "specificepithet:sphagnicola genus:Cophixalus" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:hosii genus:Pedostibes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Osteopilus institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 31243" ; Times: 3
+	Query: "specificepithet:papua genus:Nyctimystes" ; Times: 1
+	Query: "zweifeli" ; Times: 1
+	Query: "scientificname:Naso mcdadei mappable:1" ; Times: 2
+	Query: "specificepithet:macrotis genus:Bufo" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:muelleri genus:Ansonia institutioncode:BPBM" ; Times: 1
+	Query: "DYSMORODREPANIS" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 2
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 2
+	Query: "specificepithet:corrugatus genus:Platymantis institutioncode:BPBM" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "BPBM 32013" ; Times: 2
+	Query: "class:reptilia locality:wake" ; Times: 3
+	Query: "specificepithet:livida genus:Rana" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Amolops" ; Times: 1
+	Query: "specificepithet:livida genus:Rana institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "100760" ; Times: 1
+	Query: "specificepithet:foricula genus:Nyctimystes institutioncode:BPBM" ; Times: 1
+	Query: "scientificname:Acanthurus leucopareius mappable:1" ; Times: 1
+	Query: "specificepithet:pronimia genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:laevis genus:Xenopus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Litoria" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 2
+	Query: "specificepithet:foricula genus:Nyctimystes" ; Times: 1
+	Query: "specificepithet:exophthalmia genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 3
+	Query: "specificepithet:cryptotympanum genus:Cophixalus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:multiplica genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:zweifeli genus:Nyctimystes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:hascheanus genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "specificepithet:grunniens genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 6
+	Query: "specificepithet:cancrivora genus:Fejervarya institutioncode:BPBM" ; Times: 1
+	Query: "Coral snake" ; Times: 1
+	Query: "specificepithet:daemeli genus:Rana" ; Times: 1
+	Query: "Tropidophorus sinicus" ; Times: 2
+	Query: "specificepithet:acanthi genus:Limnonectes institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:fallax genus:Litoria institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:reinwardtii genus:Rhacophorus institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:schlaginhaufeni genus:Liophryne" ; Times: 1
+	Query: "anolis equestris skeleton" ; Times: 1
+	Query: "specificepithet:menziesi genus:Pherohapsis institutioncode:BPBM" ; Times: 1
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 2
+	Query: "Toxicocalamus misimae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 164 (out of 1584 download events in this period)
+Total number of records downloaded: 165459
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: United States ; Times: 123
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 16
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-23 ; Times: 11
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-25 ; Times: 8
+	Date: 2020-01-24 ; Times: 22
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-29 ; Times: 16
+	Date: 2020-01-28 ; Times: 21
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-11 ; Times: 4
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 15
+	Date: 2020-01-30 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Electrona risso" ; Times: 1
+	Query: "Calotes emma" ; Times: 1
+	Query: "Sauromalus varius" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Takydromus sexlineatus" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Gekko hokouensis" ; Times: 1
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "Lygosoma bowringii" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 12
+	Query: "Sphenomorphus indicus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Sphenomorphus cranei" ; Times: 1
+	Query: "Hemidactylus garnotii" ; Times: 3
+	Query: "specificepithet:auratus genus:Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "genus:Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 4
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Cyrtodactylus annulatus" ; Times: 1
+	Query: "&#34;bd&#34; order:anura" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Emoia cyanura" ; Times: 2
+	Query: "Gekko japonicus" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "Hemidactylus brookii" ; Times: 4
+	Query: "Uma notata" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Ceratoscopelus warmingii" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Lestoros inca" ; Times: 1
+	Query: "Nactus pelagicus" ; Times: 1
+	Query: "Tropidophorus berdmorei" ; Times: 1
+	Query: "gbifdatasetid:b929f23d-290f-4e85-8f17-764c55b3b284" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Lipinia noctua" ; Times: 1
+	Query: "Hemidactylus platyurus" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "gekko smithii" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "genus:lipinia country:&#34;federated states of micronesia&#34;" ; Times: 1
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "Hemiphyllodactylus yunnanensis" ; Times: 1
+	Query: "Eutropis multifasciata" ; Times: 2
+	Query: "Hemidactylus bowringii" ; Times: 1
+	Query: "genus:cryptoblepharus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:waigiuensis genus:Salvadorina" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "Diogenichthys atlanticus" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "Emoia impar" ; Times: 1
+	Query: "Cryptoblepharus poecilopleurus" ; Times: 1
+	Query: "order:Anura institutioncode:BPBM hastissue:1" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "Hemiphyllodactylus typus" ; Times: 2
+	Query: "cordylidae" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "genus:cubiceps distance(location,geopoint(9.368094188208824,179.94003329192083))&lt;4194297" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Phelsuma grandis" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "Benthosema suborbitale" ; Times: 1
+	Query: "Sphenomorphus maculatus" ; Times: 1
+	Query: "stateprovince:&#34;Hawaii&#34; (catesbeiana )" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "Tropidonophis" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "Emoia atrocostata" ; Times: 1
+
+
+End of report.
