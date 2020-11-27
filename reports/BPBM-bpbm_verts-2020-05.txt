@@ -1,0 +1,529 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 548
+Number of records retrieved in searches: 4424
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: Ireland ; Times: 13
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 74
+	Country: Singapore ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 10
+	Country: Belgium ; Times: 1
+	Country: Iraq ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 18
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 356
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 5
+	Country: Russia ; Times: 11
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 8
+	Country: Malaysia ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 18
+	Date: 2020-05-24 ; Times: 12
+	Date: 2020-05-27 ; Times: 10
+	Date: 2020-05-26 ; Times: 21
+	Date: 2020-05-21 ; Times: 5
+	Date: 2020-05-20 ; Times: 5
+	Date: 2020-05-23 ; Times: 11
+	Date: 2020-05-22 ; Times: 35
+	Date: 2020-05-29 ; Times: 8
+	Date: 2020-05-28 ; Times: 10
+	Date: 2020-05-18 ; Times: 13
+	Date: 2020-05-19 ; Times: 30
+	Date: 2020-05-10 ; Times: 79
+	Date: 2020-05-11 ; Times: 24
+	Date: 2020-05-12 ; Times: 7
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-15 ; Times: 18
+	Date: 2020-05-16 ; Times: 16
+	Date: 2020-05-17 ; Times: 19
+	Date: 2020-05-30 ; Times: 10
+	Date: 2020-05-31 ; Times: 6
+	Date: 2020-05-09 ; Times: 70
+	Date: 2020-05-08 ; Times: 14
+	Date: 2020-05-07 ; Times: 39
+	Date: 2020-05-06 ; Times: 19
+	Date: 2020-05-05 ; Times: 6
+	Date: 2020-05-04 ; Times: 10
+	Date: 2020-05-03 ; Times: 4
+	Date: 2020-05-02 ; Times: 13
+	Date: 2020-05-01 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Emoia sanfordi" ; Times: 1
+	Query: "Toxicocalamus pachysomus" ; Times: 1
+	Query: "naso thynnoides" ; Times: 2
+	Query: "36580" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "34410" ; Times: 2
+	Query: "(schuster)" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "158008" ; Times: 1
+	Query: "Aspasmichthys" ; Times: 1
+	Query: "Litoria havina" ; Times: 3
+	Query: "109455" ; Times: 1
+	Query: "158005" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "Yemen" ; Times: 2
+	Query: "Trimeresurus albolabris" ; Times: 2
+	Query: "BPBM 16742" ; Times: 2
+	Query: "specificepithet:mcgregori genus:coracina country:&#34;philippines&#34;" ; Times: 16
+	Query: "BPBM 22025" ; Times: 1
+	Query: "149300" ; Times: 1
+	Query: "pseudobufo" ; Times: 1
+	Query: "Litoria impura" ; Times: 1
+	Query: "Emoia battersbyi" ; Times: 1
+	Query: "BPBM 22023" ; Times: 1
+	Query: "Emoia aurulenta" ; Times: 1
+	Query: "light-vented bulbul" ; Times: 2
+	Query: "BPBM 15864" ; Times: 3
+	Query: "147969" ; Times: 1
+	Query: "Sphenodon" ; Times: 9
+	Query: "Litoria genimaculata BPBM 12422" ; Times: 2
+	Query: "specificepithet:colubrina genus:Laticauda country:&#34;Fiji&#34;" ; Times: 1
+	Query: "Xanthichthys caeruleolineatus mappable:1" ; Times: 1
+	Query: "BPBM Cyrtodactylus epiroticus 37340" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Halcyon OR Todiramphus godeffroyi" ; Times: 1
+	Query: "Enchelycore lichenosa" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "Sturnus contra" ; Times: 2
+	Query: "158013" ; Times: 1
+	Query: "Gehyra papuana" ; Times: 1
+	Query: "lycocorax" ; Times: 1
+	Query: "BPBM 19830" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "Anas wyvilliana" ; Times: 6
+	Query: "siderea pictus" ; Times: 3
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "BPBM 18687" ; Times: 2
+	Query: "BPBM 12422" ; Times: 3
+	Query: "Halcyon OR Todiramphus cinnamominus" ; Times: 1
+	Query: "choerodon robustus aden" ; Times: 2
+	Query: "97386" ; Times: 1
+	Query: "156711" ; Times: 1
+	Query: "BPBM 16841" ; Times: 1
+	Query: "Uropterygius supraforatus" ; Times: 1
+	Query: "NG 99849" ; Times: 1
+	Query: "160325" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "BPBM 15444" ; Times: 2
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "BPBM 22010" ; Times: 3
+	Query: "156117" ; Times: 1
+	Query: "specificepithet:enca genus:corvus country:&#34;philippines&#34;" ; Times: 1
+	Query: "inegocia japonica" ; Times: 1
+	Query: "catalognumber:42178 institutioncode:BPBM" ; Times: 2
+	Query: "Litoria genimaculata" ; Times: 1
+	Query: "BPBM 22018" ; Times: 2
+	Query: "genus:Pseudobufo specificepithet:subasper" ; Times: 1
+	Query: "Solenostomus armatus" ; Times: 2
+	Query: "158094" ; Times: 1
+	Query: "eurylaimus steerii" ; Times: 1
+	Query: "BPBM 15870" ; Times: 1
+	Query: "Litoria pygmaea" ; Times: 2
+	Query: "BPBM 15872" ; Times: 4
+	Query: "BPBM 15873" ; Times: 2
+	Query: "BPBM 15874" ; Times: 2
+	Query: "BPBM 15875" ; Times: 2
+	Query: "BPBM 15876" ; Times: 2
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "specificepithet:breviceps genus:kogia country:&#34;United States&#34;" ; Times: 1
+	Query: "Nyctimystes pulchra" ; Times: 11
+	Query: "(rhinogobius) year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "hirundo tahitica" ; Times: 2
+	Query: "Litoria genimaculata sepik" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "specificepithet:capitalis genus:stachyris country:&#34;philippines&#34;" ; Times: 2
+	Query: "BPBM 23361" ; Times: 3
+	Query: "BPBM 23360" ; Times: 2
+	Query: "BPBM 23362" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas sex:male" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Cyrtodactylus tripartitus BPBM" ; Times: 1
+	Query: "BPBM 158670" ; Times: 1
+	Query: "157504" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "Calamaria pavimentata" ; Times: 2
+	Query: "specificepithet:oceanica genus:Gehyra country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:BPBM" ; Times: 3
+	Query: "179064" ; Times: 1
+	Query: "BPBM 19864" ; Times: 1
+	Query: "Gehyra insulensis" ; Times: 2
+	Query: "179061" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Toxicocalamus mintoni" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "BPBM 16760" ; Times: 5
+	Query: "Cyrtodactylus sermowaiensis BPBM 23318" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "BPBM 15865" ; Times: 4
+	Query: "Tribolonotus annectens" ; Times: 1
+	Query: "Rhinecanthus lunula mappable:1" ; Times: 1
+	Query: "BPBM 15862" ; Times: 1
+	Query: "BPBM 15860" ; Times: 2
+	Query: "BPBM 15859" ; Times: 1
+	Query: "Chrysolophus x" ; Times: 1
+	Query: "Emoia loveridgei" ; Times: 1
+	Query: "BPBM 15869" ; Times: 2
+	Query: "BPBM 15868" ; Times: 2
+	Query: "Scuticaria tigrina" ; Times: 2
+	Query: "Pacific Black Duck" ; Times: 2
+	Query: "BPBM 186018" ; Times: 1
+	Query: "179400" ; Times: 1
+	Query: "Hirundo tahitica hastissue:1" ; Times: 2
+	Query: "Aplonis panayensis" ; Times: 3
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "genus:Limnonectes specificepithet:malesianus" ; Times: 1
+	Query: "BPBM 15877" ; Times: 2
+	Query: "specificepithet:westermanni country:&#34;philippines&#34;" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 3
+	Query: "BPBM Cyrtodactylus sermowaiensis" ; Times: 4
+	Query: "Sphenomorphus maindroni" ; Times: 1
+	Query: "Litoria genimaculata madang" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "157288" ; Times: 1
+	Query: "Cyrtodactylus sermowaiensis BPBM" ; Times: 2
+	Query: "Halcyon OR Todiramphus Society" ; Times: 2
+	Query: "Papuascincus morokanus" ; Times: 1
+	Query: "BPBM 15879" ; Times: 4
+	Query: "BPBM 15881" ; Times: 2
+	Query: "BPBM 15880" ; Times: 2
+	Query: "BPBM 15883" ; Times: 1
+	Query: "BPBM 15882" ; Times: 1
+	Query: "BPBM 15885" ; Times: 2
+	Query: "BPBM 15884" ; Times: 2
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 3
+	Query: "ANSP-3769" ; Times: 1
+	Query: "BPBM 16752" ; Times: 2
+	Query: "Uropterygius macrocephalus" ; Times: 2
+	Query: "genus:Calamaria hastissue:1" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "175967" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas sex:female" ; Times: 1
+	Query: "BPBM 19881" ; Times: 2
+	Query: "Leptophryne borbonica" ; Times: 1
+	Query: "Lycocorax" ; Times: 1
+	Query: "BPBM 16992" ; Times: 2
+	Query: "BPBM 16990" ; Times: 2
+	Query: "genus:Candoia country:&#34;Solomon Islands&#34; hastissue:1" ; Times: 1
+	Query: "Enchelynassa canina" ; Times: 2
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 1
+	Query: "Anoles" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "BPBM 16984" ; Times: 5
+	Query: "BPBM Cyrtodactylus epiroticus 37338" ; Times: 1
+	Query: "bpbm 19881" ; Times: 2
+	Query: "bpbm 19880" ; Times: 2
+	Query: "175963" ; Times: 1
+	Query: "Apus pacificus" ; Times: 2
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "156057" ; Times: 1
+	Query: "Syma torotoro" ; Times: 3
+	Query: "184152" ; Times: 1
+	Query: "157973" ; Times: 2
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "BPBM 15866" ; Times: 2
+	Query: "158103" ; Times: 1
+	Query: "184657" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "158102" ; Times: 1
+	Query: "genus:stegonotus institutioncode:BPBM" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "BPBM 16748" ; Times: 2
+	Query: "Todiramphus godeffroyi" ; Times: 1
+	Query: "clarkichthys bilineatus" ; Times: 2
+	Query: "BPBM 19846" ; Times: 1
+	Query: "BPBM 16747" ; Times: 2
+	Query: "Sphenomorphus loriae" ; Times: 1
+	Query: "lepidocybium" ; Times: 2
+	Query: "naja kaouthia" ; Times: 1
+	Query: "BPBM 16743" ; Times: 3
+	Query: "Eugongylus unilineatus" ; Times: 2
+	Query: "BPBM 16740" ; Times: 4
+	Query: "158007" ; Times: 1
+	Query: "161669" ; Times: 1
+	Query: "eumegistus illustris" ; Times: 1
+	Query: "crystallodytes cookei" ; Times: 1
+	Query: "BPBM 22061" ; Times: 1
+	Query: "147365" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "Litoria amboinensis" ; Times: 1
+	Query: "157285" ; Times: 1
+	Query: "zosterops everetti" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "BPBM 23357" ; Times: 2
+	Query: "BPBM 19857" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "BPBM 17000" ; Times: 3
+	Query: "37765" ; Times: 1
+	Query: "family:dibamidae institutioncode:BPBM" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "specificepithet:pollicaris order:Anura" ; Times: 1
+	Query: "BPBM 22032" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "147948" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "Amphiesma sarawacense" ; Times: 1
+	Query: "Solenostomus" ; Times: 3
+	Query: "159638" ; Times: 2
+	Query: "bpbm 19857" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "147968" ; Times: 1
+	Query: "BPBM 15452" ; Times: 3
+	Query: "dactylopus dactylopus" ; Times: 1
+	Query: "BPBM 15450" ; Times: 3
+	Query: "BPBM 15451" ; Times: 2
+	Query: "gymnothorax porphyreus" ; Times: 2
+	Query: "158356" ; Times: 2
+	Query: "Solenostomus halimeda" ; Times: 1
+	Query: "upeneus heemstra" ; Times: 1
+	Query: "BPBM 16757" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "Zosterops griseotinctus" ; Times: 1
+	Query: "Gloydius blomhoffii" ; Times: 1
+	Query: "margaritophorus indonesia" ; Times: 1
+	Query: "catalognumber:109718 institutioncode:BPBM" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "BPBM 16759" ; Times: 2
+	Query: "Sphenomorphus papuae" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "BPBM 16739" ; Times: 3
+	Query: "Black-vented shearwater" ; Times: 1
+	Query: "159562" ; Times: 1
+	Query: "Hemidactylus brookii vntype:specimen country:&#34;Philippines&#34;" ; Times: 3
+	Query: "Halcyon OR Todiramphus Tahiti" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "brachypteryx montana" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "Estrilda astrild" ; Times: 1
+	Query: "Litoria pronimia" ; Times: 2
+	Query: "157122" ; Times: 1
+	Query: "Litoria lutea" ; Times: 1
+	Query: "Limnonectes acanthi" ; Times: 2
+	Query: "specificepithet:pollicaris genus:Metaphrynella order:Anura" ; Times: 1
+	Query: "Martes flavigula" ; Times: 1
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "maxomys rajah" ; Times: 2
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "Nyctimystes trachydermis" ; Times: 6
+	Query: "choerodon Aden" ; Times: 1
+	Query: "charadrius obscurus" ; Times: 4
+	Query: "151630" ; Times: 1
+	Query: "BPBM 16758" ; Times: 2
+	Query: "hime japonica" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "BPBM 15443" ; Times: 4
+	Query: "BPBM 15445" ; Times: 3
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "specificepithet:bicolor country:&#34;philippines&#34;" ; Times: 1
+	Query: "BPBM 15448" ; Times: 4
+	Query: "Gymnothorax australicola" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "Sterna hirundo ws OR wingspan OR wing+span" ; Times: 8
+	Query: "catalognumber:22556 institutioncode:BPBM" ; Times: 1
+	Query: "Todiramphus nigrocyaneus" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "BPBM 20289" ; Times: 5
+	Query: "catalognumber:34395 institutioncode:BPBM" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "specificepithet:miopus family:Ranidae" ; Times: 1
+	Query: "NWHC" ; Times: 1
+	Query: "BPBM Cyrtodactylus epiroticus" ; Times: 2
+	Query: "specificepithet:erosa genus:erosa" ; Times: 1
+	Query: "specificepithet:luctuosa family:Ranidae" ; Times: 1
+	Query: "Cyrtodactylus epiroticus BPBM" ; Times: 1
+	Query: "hapalogenys nigripinnis" ; Times: 1
+	Query: "149391" ; Times: 1
+	Query: "159578" ; Times: 1
+	Query: "BPBM 19834" ; Times: 1
+	Query: "heraldia nocturna" ; Times: 1
+	Query: "BPBM 35618 Cyrtodactylus sermowaiensis" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "acanthosaura armata" ; Times: 2
+	Query: "153564" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "crossosalarias macrospilus" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Cyrtodactylus novaeguineae BPBM" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "alboguttatus" ; Times: 2
+	Query: "38185" ; Times: 1
+	Query: "Sphenomorphus woodfordi" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "litoria lutea" ; Times: 1
+	Query: "BPBM 15855" ; Times: 3
+	Query: "157015" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Litoria madang BPBM" ; Times: 1
+	Query: "Nyctimystes humeralis" ; Times: 1
+	Query: "Melichthys indicus mappable:1" ; Times: 1
+	Query: "BPBM 15446" ; Times: 3
+	Query: "Litoria dorsivena" ; Times: 4
+	Query: "iracundus signifer" ; Times: 1
+	Query: "Litoria nigropunctata" ; Times: 3
+	Query: "Dendrelaphis lineolatus" ; Times: 1
+	Query: "Emoia physicina" ; Times: 1
+	Query: "156311" ; Times: 1
+	Query: "BPBM 15858" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "BPBM 15856" ; Times: 2
+	Query: "BPBM 15857" ; Times: 2
+	Query: "ellochelon" ; Times: 3
+	Query: "30246" ; Times: 1
+	Query: "159583" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 1106 download events in this period)
+Total number of records downloaded: 2185
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 39
+	Country: Australia ; Times: 25
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Indonesia ; Times: 2
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 4
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-23 ; Times: 6
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-29 ; Times: 3
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 5
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-13 ; Times: 5
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 4
+	Date: 2020-05-09 ; Times: 8
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-06 ; Times: 8
+	Date: 2020-05-05 ; Times: 3
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Emoia sanfordi" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "Dendrelaphis lineolatus" ; Times: 1
+	Query: "Emoia impar" ; Times: 1
+	Query: "Lialis jicari" ; Times: 1
+	Query: "family:mustelidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "maxomys rajah" ; Times: 1
+	Query: "genus:stegonotus institutioncode:BPBM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Calamaria pavimentata" ; Times: 2
+	Query: "Emoia aurulenta" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Emoia nigra" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:BPBM" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 3
+	Query: "Hirundo tahitica hastissue:1" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "Pachytriton" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Emoia battersbyi" ; Times: 2
+	Query: "Tribolonotus annectens" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "Limnonectes" ; Times: 1
+	Query: "Emoia loveridgei" ; Times: 1
+	Query: "Gehyra papuana" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Gehyra insulensis" ; Times: 1
+	Query: "Sphenomorphus loriae" ; Times: 1
+	Query: "Sphenomorphus papuae" ; Times: 1
+	Query: "Sphenomorphus maindroni" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 1
+	Query: "Sphenomorphus woodfordi" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Amphiesma sarawacense" ; Times: 1
+	Query: "Emoia submetallica" ; Times: 1
+	Query: "Martes flavigula" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "Gloydius blomhoffii" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Emoia physicina" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Stegonotus" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
