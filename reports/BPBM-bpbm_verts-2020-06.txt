@@ -1,0 +1,318 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 763
+Number of records retrieved in searches: 4298
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 116
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 7
+	Country: Ireland ; Times: 5
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 8
+	Country: Philippines ; Times: 1
+	Country: Singapore ; Times: 6
+	Country: India ; Times: 7
+	Country: Sweden ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 563
+	Country: Djibouti ; Times: 1
+	Country: China ; Times: 8
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Germany ; Times: 1
+	Country: France ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-08 ; Times: 18
+	Date: 2020-06-09 ; Times: 26
+	Date: 2020-06-15 ; Times: 93
+	Date: 2020-06-07 ; Times: 5
+	Date: 2020-06-04 ; Times: 23
+	Date: 2020-06-05 ; Times: 22
+	Date: 2020-06-02 ; Times: 32
+	Date: 2020-06-03 ; Times: 8
+	Date: 2020-06-01 ; Times: 3
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 201
+	Date: 2020-06-11 ; Times: 200
+	Date: 2020-06-12 ; Times: 28
+	Date: 2020-06-17 ; Times: 98
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambassis miops" ; Times: 6
+	Query: "genus:Isopachys hastissue:1" ; Times: 12
+	Query: "gloydius" ; Times: 3
+	Query: "Siganus argenteus" ; Times: 6
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "djibouti" ; Times: 1
+	Query: "Sarotherodon melanotheron" ; Times: 12
+	Query: "Siganus woodlandi" ; Times: 6
+	Query: "genus:niviventer" ; Times: 1
+	Query: "paraplotosus albilabris" ; Times: 1
+	Query: "specificepithet:kaouthia genus:naja hastissue:1" ; Times: 1
+	Query: "muraenichthys gymnopterus" ; Times: 1
+	Query: "Liza carinata" ; Times: 6
+	Query: "catalognumber:22557 institutioncode:BPBM" ; Times: 1
+	Query: "Hylarana erythraea vntype:specimen country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Emoia schmidti" ; Times: 1
+	Query: "Mearnsia" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Decapterus macrosoma" ; Times: 12
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "ophisurus serpens" ; Times: 1
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "scuticaria tigrina" ; Times: 1
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "Epinephelus multinotatus" ; Times: 2
+	Query: "Glossogobius aureus" ; Times: 6
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "Tomiyamichthys russus" ; Times: 6
+	Query: "Anas formosa" ; Times: 6
+	Query: "Cheilopogon suttoni" ; Times: 6
+	Query: "Pedostibes" ; Times: 1
+	Query: "barking deer" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 2
+	Query: "Cheilopogon spilonotopterus" ; Times: 6
+	Query: "catalognumber:39559 institutioncode:BPBM" ; Times: 2
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "Siganus sutor" ; Times: 6
+	Query: "Takifugu porphyreus" ; Times: 6
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "snyderidia canina" ; Times: 1
+	Query: "pacific tree frog" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "Rhabdophis spilogaster" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "Decapterus maruadsi" ; Times: 6
+	Query: "Emoia maculata" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Stolephorus insularis" ; Times: 12
+	Query: "hirundo tahitica" ; Times: 1
+	Query: "Laysan Duck" ; Times: 2
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "Calliophis intestinalis" ; Times: 1
+	Query: "Encrasicholina heteroloba" ; Times: 9
+	Query: "Decapterus kurroides" ; Times: 6
+	Query: "grey squirrel" ; Times: 2
+	Query: "100399" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "panna microdon" ; Times: 1
+	Query: "Anas luzonica" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "Emoia lawesi" ; Times: 1
+	Query: "Johnius belangerii" ; Times: 6
+	Query: "Muscovy Duck" ; Times: 1
+	Query: "Encrasicholina devisi" ; Times: 6
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "Japanese Paradise Flycatcher" ; Times: 1
+	Query: "catalognumber:22554 institutioncode:BPBM" ; Times: 1
+	Query: "White-cheeked Pintail" ; Times: 1
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Spot-billed duck" ; Times: 1
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "100499" ; Times: 1
+	Query: "Trimeresurus puniceus" ; Times: 4
+	Query: "Siganus spinus" ; Times: 6
+	Query: "genus:hylomys" ; Times: 13
+	Query: "catalognumber:20572 institutioncode:BPBM" ; Times: 2
+	Query: "country:&#34;Philippines&#34; year &gt;= 1800 year &lt;= 1880" ; Times: 1
+	Query: "Thryssa dussumieri" ; Times: 6
+	Query: "Exocoetus volitans" ; Times: 6
+	Query: "Archocentrus nigrofasciatus" ; Times: 1
+	Query: "Pacific Black Duck" ; Times: 2
+	Query: "Anas americana" ; Times: 5
+	Query: "Pacific tree frog" ; Times: 1
+	Query: "genus:niviventer country:malaysia" ; Times: 1
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "Channa striata" ; Times: 12
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "pit viper" ; Times: 1
+	Query: "genus:Lerista hastissue:1" ; Times: 1
+	Query: "Leiognathus brevirostris" ; Times: 6
+	Query: "Anas penelope" ; Times: 6
+	Query: "genus:Cordylus hastissue:1" ; Times: 1
+	Query: "macolor niger" ; Times: 1
+	Query: "BPBM 19881" ; Times: 1
+	Query: "Epimachus" ; Times: 4
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "pseudalutarius nasicornis" ; Times: 1
+	Query: "Sardinella albella" ; Times: 6
+	Query: "Takifugu obscurus" ; Times: 6
+	Query: "Hemidactylus brookii vntype:specimen country:&#34;Philippines&#34;" ; Times: 2
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "Dendrophysa russelii" ; Times: 6
+	Query: "Alepes kleinii" ; Times: 9
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "Decapterus muroadsi" ; Times: 6
+	Query: "Red panda" ; Times: 1
+	Query: "genus:mus country:indonesia" ; Times: 5
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Emoia ponapea" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "catalognumber:22555 institutioncode:BPBM" ; Times: 1
+	Query: "catalognumber:37973 institutioncode:BPBM" ; Times: 2
+	Query: "blue-eared kingfisher" ; Times: 1
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Cypselurus opisthopus" ; Times: 6
+	Query: "Cairina moschata" ; Times: 3
+	Query: "locality:Rossel country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "Sardinella brachysoma" ; Times: 6
+	Query: "Takifugu vermicularis" ; Times: 6
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "hastissue:1 gloydius" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Takifugu ocellatus" ; Times: 6
+	Query: "papilloculiceps longiceps" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "martes flavigula" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Nemipterus furcosus" ; Times: 6
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "country:&#34;United States&#34; Stethojulis balteatus" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 2
+	Query: "rhabdophis chrysargos" ; Times: 2
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "Takifugu rubripes" ; Times: 6
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Cypselurus poecilopterus" ; Times: 6
+	Query: "boiga trigonata" ; Times: 1
+	Query: "niviventer cremoriventer" ; Times: 1
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Anas falcata" ; Times: 6
+	Query: "schismorhynchus labialis" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "Johnius carouna" ; Times: 9
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Cypselurus oligolepis" ; Times: 6
+	Query: "Aerodramus hirundinaceus" ; Times: 2
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Glossogobius giuris" ; Times: 6
+	Query: "catalognumber:21474 institutioncode:BPBM" ; Times: 2
+	Query: "mustelus manazo" ; Times: 2
+	Query: "mustela asia" ; Times: 2
+	Query: "Emoia montana" ; Times: 1
+	Query: "metavelifer multiradiatus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "Teixeirichthys jordani" ; Times: 6
+	Query: "Aerodramus bartschi" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "Sardinella hualiensis" ; Times: 6
+	Query: "otolithes ruber" ; Times: 1
+	Query: "signigobius biocellatus" ; Times: 2
+	Query: "genus:Monachus" ; Times: 1
+	Query: "catalognumber:17847 institutioncode:BPBM" ; Times: 2
+	Query: "genus:paguma" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 6
+	Query: "Ambassis buruensis" ; Times: 6
+	Query: "Atule mate" ; Times: 6
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "Sardinella fimbriata" ; Times: 6
+	Query: "catalognumber:22556 institutioncode:BPBM" ; Times: 1
+	Query: "genus:maxomys" ; Times: 2
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "catalognumber:16546 institutioncode:BPBM" ; Times: 2
+	Query: "Bos taurus" ; Times: 6
+	Query: "Eleotris fusca" ; Times: 6
+	Query: "Butis butis" ; Times: 6
+	Query: "Ilisha melastoma" ; Times: 6
+	Query: "Clupea harengus" ; Times: 11
+	Query: "xenochrophis maculatus" ; Times: 1
+	Query: "Nemipterus bipunctatus" ; Times: 3
+	Query: "21719" ; Times: 2
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "rhynchorhamphus georgii" ; Times: 1
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "genus:hydromys country:indonesia" ; Times: 1
+	Query: "Hipposcarus harid" ; Times: 6
+	Query: "catalognumber:25187" ; Times: 2
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "amphiesma petersii" ; Times: 2
+	Query: "solor" ; Times: 1
+	Query: "Cheilopogon atrisignis" ; Times: 6
+	Query: "catalognumber: 147946" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 474 download events in this period)
+Total number of records downloaded: 863
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 8
+	Country: Bolivia ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-02 ; Times: 8
+	Date: 2020-06-10 ; Times: 6
+	Date: 2020-06-03 ; Times: 6
+	Date: 2020-06-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "Emoia montana" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "california scrub jay" ; Times: 1
+	Query: "Emoia mivarti" ; Times: 1
+	Query: "Emoia ponapea" ; Times: 1
+	Query: "Emoia schmidti" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "scrub jay" ; Times: 2
+	Query: "grizzly bear" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "Emoia maculata" ; Times: 1
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "Emoia lawesi" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pacific tree frog" ; Times: 1
+	Query: "country:&#34;United States&#34; Stethojulis balteatus" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "pacific tree frog" ; Times: 1
+	Query: "Lestoros" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "locality:Rossel country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+
+
+End of report.
