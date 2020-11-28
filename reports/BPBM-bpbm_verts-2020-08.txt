@@ -1,0 +1,469 @@
+Report for Institution Code BPBM, Resource bpbm_verts
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 437
+Number of records retrieved in searches: 3319
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Peru ; Times: 20
+	Country: Unknown ; Times: 4
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 11
+	Country: Ireland ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 7
+	Country: Australia ; Times: 19
+	Country: Singapore ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 7
+	Country: Ukraine ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: United States ; Times: 166
+	Country: Sweden ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Honduras ; Times: 5
+	Country: Portugal ; Times: 58
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 92
+	Country: Austria ; Times: 5
+	Country: Colombia ; Times: 6
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 7
+	Date: 2020-08-29 ; Times: 16
+	Date: 2020-08-17 ; Times: 6
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 18
+	Date: 2020-08-14 ; Times: 5
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-12 ; Times: 4
+	Date: 2020-08-11 ; Times: 4
+	Date: 2020-08-10 ; Times: 65
+	Date: 2020-08-31 ; Times: 6
+	Date: 2020-08-30 ; Times: 4
+	Date: 2020-08-19 ; Times: 10
+	Date: 2020-08-18 ; Times: 27
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-01 ; Times: 4
+	Date: 2020-08-03 ; Times: 7
+	Date: 2020-08-04 ; Times: 15
+	Date: 2020-08-05 ; Times: 31
+	Date: 2020-08-06 ; Times: 14
+	Date: 2020-08-07 ; Times: 11
+	Date: 2020-08-26 ; Times: 23
+	Date: 2020-08-27 ; Times: 10
+	Date: 2020-08-24 ; Times: 11
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-22 ; Times: 11
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-09 ; Times: 14
+	Date: 2020-08-21 ; Times: 100
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Periophthalmus" ; Times: 6
+	Query: "catalognumber:42607 collectioncode:BPBM" ; Times: 3
+	Query: "Ovis aries" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "107585" ; Times: 1
+	Query: "Stresemannia bougainvillei" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "specificepithet:rubellus genus:Centrodraco" ; Times: 1
+	Query: "mappable:1 scientificname:Muscicapa dauurica" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "iptrecordid:(7108667e-1483-4d04-b204-6a44a73a5219 OR 1efe900e-bde2-45e7-9747-2b2c3e5f36c3)" ; Times: 1
+	Query: "Brama dussumieri" ; Times: 1
+	Query: "Litoria wollastoni" ; Times: 7
+	Query: "catalognumber:42538 collectioncode:BPBM" ; Times: 4
+	Query: "mappable:1 scientificname:Netta peposaca" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria coronata" ; Times: 1
+	Query: "Periparus ater" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "C. psittacula" ; Times: 1
+	Query: "Elacatinus oceanops" ; Times: 1
+	Query: "specificepithet:coeruleoalba genus:stenella country:&#34;United States&#34;" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "Carnegie" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus jocosus" ; Times: 1
+	Query: "101565" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "recordedby:bryan year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus adelaidae" ; Times: 1
+	Query: "white seahorse" ; Times: 1
+	Query: "genus:Goura" ; Times: 4
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "Lepus sinensis" ; Times: 1
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "candoia aspera manus" ; Times: 2
+	Query: "mappable:1 scientificname:Urocissa erythrorhyncha" ; Times: 1
+	Query: "Duttaphrynus stomaticus" ; Times: 1
+	Query: "chameleon" ; Times: 1
+	Query: "lophura bulweri#" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "catalognumber:36169 institutioncode:BPBM" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 1
+	Query: "mappable:1 scientificname:Erythrura trichroa" ; Times: 1
+	Query: "Istiophorus platypterus" ; Times: 5
+	Query: "Sicalis flaveola" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "Alophoixus phaeocephalus" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona albifrons" ; Times: 1
+	Query: "genus:porphyrio country:&#34;philippines&#34;" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "genus:circus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Psittacula roseata" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "mappable:1 scientificname:Ara ararauna" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura malacca" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacula krameri" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "vntype:specimen genus:Spilornis year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "mappable:1 scientificname:Lophura nycthemera" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "isfossil:1" ; Times: 3
+	Query: "Duchess" ; Times: 2
+	Query: "Heteralocha acutirostris" ; Times: 2
+	Query: "mappable:1 scientificname:Nymphicus hollandicus" ; Times: 1
+	Query: "BPBM 15873" ; Times: 1
+	Query: "xenochrophis trianguligerus" ; Times: 7
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "mappable:1 scientificname:Cereopsis novaehollandiae" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "mappable:1 scientificname:Serinus canaria" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura malabarica" ; Times: 1
+	Query: "179254" ; Times: 1
+	Query: "specificepithet:smithii family:Gekkonidae" ; Times: 1
+	Query: "BPBM 19827" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "family:Rhinolophidae year &lt;= 1970 hastissue:1" ; Times: 2
+	Query: "grey squirrel" ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "vntype:specimen genus:Spilornis year &gt;= 1945 year &lt;= 2020" ; Times: 2
+	Query: "mappable:1 scientificname:Chrysolophus pictus" ; Times: 1
+	Query: "107626" ; Times: 1
+	Query: "Laccadive" ; Times: 1
+	Query: "107622" ; Times: 1
+	Query: "genus:Chelonia hastypestatus:1" ; Times: 8
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "hetereleotris aden" ; Times: 2
+	Query: "107589" ; Times: 2
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "catalognumber:36171 institutioncode:BPBM" ; Times: 2
+	Query: "mappable:1 scientificname:Anas poecilorhyncha" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "mappable:1 scientificname:Plectropterus gambensis" ; Times: 1
+	Query: "specificepithet:crumenalis genus:Chascanopsetta" ; Times: 1
+	Query: "BPBM 15864" ; Times: 2
+	Query: "Trachurus mediterraneus" ; Times: 1
+	Query: "Antennarius pauciradiatus" ; Times: 3
+	Query: "odontanthias elizabethae" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "mappable:1 scientificname:Alectoris chukar" ; Times: 1
+	Query: "Hippocampus borboniensis" ; Times: 1
+	Query: "mappable:1 scientificname:Aix galericulata" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "genus:Centrodraco" ; Times: 3
+	Query: "44804" ; Times: 1
+	Query: "specificepithet:papuana genus:Erythrura" ; Times: 6
+	Query: "mappable:1 scientificname:Coturnix japonica" ; Times: 1
+	Query: "behnii" ; Times: 1
+	Query: "mappable:1 scientificname:Amandava amandava" ; Times: 1
+	Query: "mappable:1 scientificname:Ara chloroptera" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Melampitta gigantea" ; Times: 1
+	Query: "leiopelma" ; Times: 2
+	Query: "catalognumber:5437 institutioncode:BPBM" ; Times: 1
+	Query: "genus:Chascanopsetta" ; Times: 8
+	Query: "sengi" ; Times: 1
+	Query: "BPBM 19852" ; Times: 1
+	Query: "yellow-bellied bulbul" ; Times: 3
+	Query: "29224" ; Times: 2
+	Query: "Mullus barbatus" ; Times: 2
+	Query: "Ablennes hians" ; Times: 1
+	Query: "mappable:1 scientificname:Lorius chlorocercus" ; Times: 1
+	Query: "147299" ; Times: 1
+	Query: "scientificname:Ophiophagus hannah" ; Times: 1
+	Query: "BPBM 16753" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 1
+	Query: "genus:Spilornis" ; Times: 3
+	Query: "phoenix zoo" ; Times: 1
+	Query: "BPBM 16999" ; Times: 1
+	Query: "Chrysopelea paradisi paradisi" ; Times: 1
+	Query: "Phylloscopus occipitalis" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "specificepithet:granulosus genus:Centrophorus" ; Times: 1
+	Query: "catalognumber:42543 collectioncode:BPBM" ; Times: 4
+	Query: "Dryophiops rubescens" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura punctulata" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria capitata" ; Times: 1
+	Query: "Acentronura" ; Times: 3
+	Query: "catalognumber:17449 institutioncode:BPBM" ; Times: 3
+	Query: "Rhabdophis subminiatus" ; Times: 2
+	Query: "specificepithet:prorigera genus:Chascanopsetta" ; Times: 1
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis personatus" ; Times: 1
+	Query: "t. j. mccarthy" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "specificepithet:nigriventris locality:island" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda astrild" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "Melogale moschata" ; Times: 1
+	Query: "Aerodramus bartschi BPBM" ; Times: 2
+	Query: "33873" ; Times: 1
+	Query: "mappable:1 scientificname:Aplonis metallica" ; Times: 1
+	Query: "genus:Gekko catalognumber:19780 institutioncode:BPBM" ; Times: 1
+	Query: "BPBM 19845" ; Times: 1
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "Apalopteron familiare" ; Times: 1
+	Query: "mappable:1 scientificname:Oena capensis" ; Times: 1
+	Query: "Accipiter trivirgatus" ; Times: 1
+	Query: "aplonis panayensis" ; Times: 1
+	Query: "specificepithet:hottentottus genus:dicrurus country:&#34;philippines&#34;" ; Times: 2
+	Query: "BPBM 16989" ; Times: 1
+	Query: "acentronura tentaculata" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "BPBM 16985" ; Times: 1
+	Query: "Carpodacus roseus" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "mappable:1 scientificname:Pelodiscus sinensis" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis flaveola" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga mitrata" ; Times: 1
+	Query: "genus:cyrtodactylus country:&#34;Solomon Islands&#34;" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "pacific swallow" ; Times: 2
+	Query: "catalognumber:42546 collectioncode:BPBM" ; Times: 4
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Sarotherodon melanotheron" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "107643" ; Times: 2
+	Query: "mappable:1 scientificname:Eudocimus ruber" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "catalognumber:42714 collectioncode:BPBM" ; Times: 2
+	Query: "specificepithet:magnus family:Gekkonidae" ; Times: 1
+	Query: "107791" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "Cyrtodactylus angularis" ; Times: 1
+	Query: "mappable:1 scientificname:Gracula religiosa" ; Times: 1
+	Query: "specificepithet:plumbea genus:Enhydris" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus cafer" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "Phalacrocorax capillatus" ; Times: 1
+	Query: "Myzomela cardinalis" ; Times: 1
+	Query: "Bullimus bagobus" ; Times: 2
+	Query: "45388" ; Times: 1
+	Query: "Callaeas cinerea" ; Times: 1
+	Query: "Heteroconger hassi" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "catalognumber:42733 collectioncode:BPBM" ; Times: 3
+	Query: "14405" ; Times: 1
+	Query: "specificepithet:affinis genus:Rhinolophus year &lt;= 1980" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga aurea" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 1
+	Query: "mappable:1 scientificname:Leiothrix lutea" ; Times: 1
+	Query: "Rabor AM" ; Times: 1
+	Query: "specificepithet:vittatus family:Gekkonidae country:&#34;Palau&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna autumnalis" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "mappable:1 scientificname:Todirhamphus chloris" ; Times: 1
+	Query: "mappable:1 scientificname:Branta sandvicensis" ; Times: 1
+	Query: "105735" ; Times: 1
+	Query: "mappable:1 scientificname:Padda oryzivora" ; Times: 1
+	Query: "Gracupica nigricollis" ; Times: 1
+	Query: "kiwi" ; Times: 2
+	Query: "Lophozosterops javanicus" ; Times: 4
+	Query: "mappable:1 scientificname:Aceros plicatus" ; Times: 1
+	Query: "Cirrhitichthys oxycephalus" ; Times: 1
+	Query: "Caristius" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 1
+	Query: "107783" ; Times: 1
+	Query: "specificepithet:tahitica genus:Hirundo hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Serinus mozambicus" ; Times: 1
+	Query: "Aerodramus bartschi" ; Times: 3
+	Query: "Lophura ignita" ; Times: 1
+	Query: "family:Microhylidae institutioncode:BPBM" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes orix" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis roseicollis" ; Times: 1
+	Query: "honeycreepers" ; Times: 1
+	Query: "Parus monticolus" ; Times: 1
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "BPBM 19868" ; Times: 1
+	Query: "Phalacrocorax featherstoni" ; Times: 1
+	Query: "shore lark" ; Times: 1
+	Query: "mappable:1 scientificname:Caloenas nicobarica" ; Times: 1
+	Query: "107662" ; Times: 1
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "genus:Hylophorbus specificepithet:rufescens" ; Times: 1
+	Query: "genus:calamophis institutioncode:BPBM" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 4
+	Query: "specificepithet:flavicollis country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Spilornis" ; Times: 8
+	Query: "Argyropelecus aculeatus" ; Times: 1
+	Query: "Poecile palustris" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "Megazosterops" ; Times: 1
+	Query: "true owl" ; Times: 1
+	Query: "mappable:1 scientificname:Aceros undulatus" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "Anas formosa" ; Times: 1
+	Query: "P. aleuticus" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "mappable:1 scientificname:Coturnix chinensis" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: "mappable:1 scientificname:Uraeginthus bengalus" ; Times: 1
+	Query: "specificepithet:alticola genus:perognathus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:BPBM" ; Times: 1
+	Query: "narke" ; Times: 1
+	Query: "mappable:1 scientificname:Francolinus francolinus" ; Times: 1
+	Query: "specificepithet:pyrrhopterus genus:Lycocorax country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "V. vulpes" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Rukia longirostra" ; Times: 5
+	Query: "52769" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Oxyrhabdium leporinum" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "mappable:1 scientificname:Poicephalus senegalus" ; Times: 1
+	Query: "M. reevesi" ; Times: 1
+	Query: "genus:falco country:&#34;philippines&#34;" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "14370" ; Times: 3
+	Query: "Platymantis biak" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura cantans" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "Zosterops atrifrons" ; Times: 2
+	Query: "BPBM 36171" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "162203" ; Times: 1
+	Query: "162202" ; Times: 1
+	Query: "Lophura leucomelanos" ; Times: 1
+	Query: "country:&#34;Maldives&#34; syngnathidae" ; Times: 1
+	Query: "mappable:1 scientificname:Eclectus roratus" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "BPBM 22031" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 1
+	Query: "catalognumber:38855 institutioncode:BPBM" ; Times: 2
+	Query: "Sundamys" ; Times: 1
+	Query: "101570" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "BPBM 15854" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "Asterophrys turpicola" ; Times: 1
+	Query: "iptrecordid:7108667e-1483-4d04-b204-6a44a73a5219" ; Times: 1
+	Query: "mappable:1 scientificname:Anser cygnoides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 756 download events in this period)
+Total number of records downloaded: 15680
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-22 ; Times: 4
+	Date: 2020-08-20 ; Times: 4
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Rhabdophis subminiatus" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Myadestes" ; Times: 1
+	Query: "family:Microhylidae institutioncode:BPBM" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "red panda" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "Dipodomys merriami quintinensis" ; Times: 2
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Furnariidae hastissue:1" ; Times: 1
+	Query: "Litoria eucnemis" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "baculum" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "Litoria arfakiana" ; Times: 1
+	Query: "specificepithet:arctos horribilis genus:Ursus" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "Nyctimystes" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "litoria infrafrenata" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "Litoria wollastoni" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
